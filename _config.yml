@@ -4,3 +4,4 @@ plugins:
 
 title: [Awesome Audio-visual Learning]
 description: [A curated list of audio-visual learning methods and datasets.]
+theme: jekyll-theme-cayman
