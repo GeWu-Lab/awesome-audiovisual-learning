@@ -354,7 +354,7 @@ This is a curated list of audio-visual learning methods and datasets.
 
 
 | Dataset             | Year            | # Videos | Length  | Data form                   | Video source            | Task                                                          |
-| ------------------- | --------------- | -------- | ------- | --------------------------- | ----------------------- | ------------------------------------------------------------- |
+| ------------------- | ------- | ------- | ------- | --------------------------- | ----------------------- | ------------------------------------------------------------- |
 | LRW, LRS2 and LRS3  | 2016,2018, 2018 | -        | 800h+   | video                       | in the wild             | Speech-related, speaker-related,face generation-related tasks |
 | VoxCeleb, VoxCeleb2 | 2017, 2018      | -        | 2,000h+ | video                       | YouTube                 | Speech-related, speaker-related,face generation-related tasks |
 | AVA-ActiveSpeaker}  | 2019            | -        | 38.5h   | video                       | YouTube                 | Speech-related task, speaker-related task                     |
