@@ -367,7 +367,7 @@ This is a curated list of audio-visual learning methods and datasets.
 | Greatest Hits       | 2016            | 977      | 9h+     | video                       | Recorded videos         | Sound generation                                              |
 | MUSIC               | 2018            | 714      | 23h+    | video                       | YouTube                 | Sound seperation, sound localization                          |
 | FAIR-Play           | 2019            | 1,871    | 5.2h    | video with binaural sound   | Recorded videos         | Spatial sound generation                                      |
-| YT-ALL              | 2018            | 1,146    | 113.1h  | $360^{\circ}$ video         | YouTube                 | Spatial sound generation                                      |
+| YT-ALL              | 2018            | 1,146    | 113.1h  | 360 video         | YouTube                 | Spatial sound generation                                      |
 | Replica             | 2019            | -        | -       | 3D environment              | 3D simulator            | Depth estimation                                              |
 | AIST++              | 2021            | -        | 5.2h    | 3D video                    | Recorded videos         | Dance generation                                              |
 | TED                 | 2019            | -        | 52h     | video                       | TED talks               | Gesture generation                                            |
@@ -376,5 +376,5 @@ This is a curated list of audio-visual learning methods and datasets.
 | LLP                 | 2020            | 11,849   | 32.9h   | video                       | YouTube                 | Event parsing                                                 |
 | SoundSpaces         | 2020            | -        | -       | 3D environment              | 3D simulator            | Audio-visual navigation                                       |
 | AVSD                | 2019            | 11,816   | 98h+    | video with dialog           | Crowd-sourced           | Audio-visual dialog                                           |
-| Pano-AVQA           | 2021            | 5.4k     | 7.7h    | $360^{\circ}$ video with QA | Video-sharing platforms | Audio-visual question answering                               |
+| Pano-AVQA           | 2021            | 5.4k     | 7.7h    | 360 video with QA | Video-sharing platforms | Audio-visual question answering                               |
 | MUSIC-AVQA          | 2022            | 9,288    | 150h+   | video with QA               | YouTube                 | Audio-visual question answering                               |
