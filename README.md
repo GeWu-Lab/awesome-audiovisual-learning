@@ -59,7 +59,7 @@ This is a curated list of audio-visual learning methods and datasets.
 
 #### Speech Recognition
 
-* [Audio-V\visual Speech Recognition Using Deep Learning](https://link.springer.com/article/10.1007/s10489-014-0629-7), 2015
+* [Audio-visual Speech Recognition Using Deep Learning](https://link.springer.com/article/10.1007/s10489-014-0629-7), 2015
 * [End-To-End Audiovisual Fusion With LSTMs](https://arxiv.org/abs/1709.04343), 2017
 * [Lip Reading Sentences in the Wild](https://openaccess.thecvf.com/content_cvpr_2017/html/Chung_Lip_Reading_Sentences_CVPR_2017_paper.html), 2017
 * [Deep Audio-visual Speech Recognition](https://ieeexplore.ieee.org/abstract/document/8585066), 2018
@@ -68,7 +68,7 @@ This is a curated list of audio-visual learning methods and datasets.
 * [Robust Self-Supervised Audio-V\visual Speech Recognition](https://arxiv.org/abs/2201.01763), 2022
 
 #### Speaker Recognition
-
+* [Audio-visual Speaker Diarization Using Fisher Linear Semi-discriminant Analysis](https://link.springer.com/article/10.1007/s11042-014-2274-x), 2016
 * [Audio-visual Person Recognition in Multimedia Data From the Iarpa Janus Program](https://ieeexplore.ieee.org/abstract/document/8462122), 2018
 * [Noise-tolerant Audio-visual Online Person Verification Using an Attention-based Neural Network Fusion](https://ieeexplore.ieee.org/abstract/document/8683477), 2019
 * [Who Said That?: Audio-visual Speaker Diarisation Of Real-World Meetings](https://arxiv.org/abs/1906.10042), 2019
@@ -101,6 +101,7 @@ This is a curated list of audio-visual learning methods and datasets.
 * [Contextual Inter-modal Attention for Multi-modal Sentiment Analysis](https://aclanthology.org/D18-1382/), 2018
 * [Multi-Modal Sarcasm Detection in Twitter with Hierarchical Fusion Model](https://aclanthology.org/P19-1239/?ref=https://githubhelp.com), 2019 
 * [Sentiment and Emotion help Sarcasm? A Multi-task Learning Framework for Multi-Modal Sarcasm, Sentiment and Emotion Analysis](https://aclanthology.org/2020.acl-main.401/), 2020
+* [A Transformer-based joint-encoding for Emotion Recognition and Sentiment Analysis](https://aclanthology.org/2020.challengehml-1.1/)
 * [Multilogue-Net: A Context Aware RNN for Multi-modal Emotion Detection and Sentiment Analysis in Conversation](https://arxiv.org/abs/2002.08267), 2020
 * [Progressive Modality Reinforcement for Human Multimodal Emotion Recognition From Unaligned Multimodal Sequences](https://openaccess.thecvf.com/content/CVPR2021/html/Lv_Progressive_Modality_Reinforcement_for_Human_Multimodal_Emotion_Recognition_From_Unaligned_CVPR_2021_paper.html), 2021
 * [Multi-modal Sarcasm Detection and Humor Classification in Code-mixed Conversations](https://ieeexplore.ieee.org/abstract/document/9442359), 2021
@@ -156,6 +157,7 @@ This is a curated list of audio-visual learning methods and datasets.
 * [Vid2speech: Speech Reconstruction From Silent Video](https://ieeexplore.ieee.org/abstract/document/7953127), 2017
 * [Improved Speech Reconstruction From Silent Video](https://openaccess.thecvf.com/content_ICCV_2017_workshops/w8/html/Ephrat_Improved_Speech_Reconstruction_ICCV_2017_paper.html), 2017
 * [Lip2Audspec: Speech Reconstruction from Silent Lip Movements Video](https://ieeexplore.ieee.org/abstract/document/8461856), 2018
+* [Harnessing AI for Speech Reconstruction using Multi-view Silent Video Feed](https://arxiv.org/abs/1807.00619), 2018
 * [Video-Driven Speech Reconstruction using Generative Adversarial Networks](https://arxiv.org/abs/1906.06301), 2019
 * [Hush-Hush Speak: Speech Reconstruction Using Silent Videos](https://www.isca-speech.org/archive_v0/Interspeech_2019/pdfs/3269.pdf), 2019
 * [End-to-End Video-to-Speech Synthesis Using Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/9760273), 2022
@@ -201,6 +203,9 @@ This is a curated list of audio-visual learning methods and datasets.
 * [GANimation: One-Shot Anatomically Consistent Facial Animation](https://link.springer.com/article/10.1007/s11263-019-01210-3), 2020
 * [Makelttalk: Speaker-Aware Talking-Head Animation](https://dl.acm.org/doi/abs/10.1145/3414685.3417774), 2020
 * [FReeNet: Multi-Identity Face Reenactment](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_FReeNet_Multi-Identity_Face_Reenactment_CVPR_2020_paper.html), 2020
+* [Neural Voice Puppetry: Audio-driven Facial Reenactment](https://justusthies.github.io/posts/neural-voice-puppetry/), 2020
+* [Rotate-and-Render: Unsupervised Photorealistic Face Rotation from Single-View Images](https://arxiv.org/abs/2003.08124), 2020
+* [MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660698.pdf), 2020
 * [Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation](https://ojs.aaai.org/index.php/AAAI/article/view/16286), 2021
 * [Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Pose-Controllable_Talking_Face_Generation_by_Implicitly_Modularized_Audio-Visual_Representation_CVPR_2021_paper.html), 2021
 * [Audio-Driven Emotional Video Portraits](https://openaccess.thecvf.com/content/CVPR2021/html/Ji_Audio-Driven_Emotional_Video_Portraits_CVPR_2021_paper.html), 2021
@@ -214,6 +219,7 @@ This is a curated list of audio-visual learning methods and datasets.
 * [To React or not to React: End-to-End Visual Pose Forecasting for Personalized Avatar during Dyadic Conversations](https://dl.acm.org/doi/abs/10.1145/3340555.3353725), 2019
 * [Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13946), 2020
 * [Gesticulator: A Framework For Semantically-Aware Speech-Driven Gesture Generation](https://dl.acm.org/doi/abs/10.1145/3382507.3418815), 2020
+* [Style Transfer for Co-Speech Gesture Animation: A Multi-Speaker Conditional-Mixture Approach](https://arxiv.org/abs/2007.12553), 2020
 * [Speech Gesture Generation From The Trimodal Context Of Text, Audio, And Speaker Identity](https://dl.acm.org/doi/abs/10.1145/3414685.3417838), 2020
 * [SEEG: Semantic Energized Co-Speech Gesture Generation](https://openaccess.thecvf.com/content/CVPR2022/html/Liang_SEEG_Semantic_Energized_Co-Speech_Gesture_Generation_CVPR_2022_paper.html), 2022
 
@@ -245,9 +251,11 @@ This is a curated list of audio-visual learning methods and datasets.
 ### Cross-modal Retrieval
 * [Content-Based Video-Music Retrieval Using Soft Intra-Modal Structure Constraint](https://arxiv.org/abs/1704.06761), 2017
 * [Cross-modal Embeddings for Video and Audio Retrieval](https://openaccess.thecvf.com/content_eccv_2018_workshops/w24/html/Suris_Cross-modal_Embeddings_for_Video_and_Audio_Retrieval_ECCVW_2018_paper.html), 2018
-* [Audio-Visual Embedding for Cross-Modal Music Video Retrieval through Supervised Deep CCA](https://ieeexplore.ieee.org/abstract/document/8603275/), 2018
+* [Audio-Visual Embedding for Cross-Modal Music Video Retrieval through Supervised Deep CCA](https://ieeexplore.ieee.org/abstract/document/8603275/), 2019
+* [Audio-Visual Embedding for Cross-Modal MusicVideo Retrieval through Supervised Deep CCA](https://arxiv.org/abs/1908.03744), 2019
 * [Deep Triplet Neural Networks with Cluster-CCA for Audio-Visual Cross-Modal Retrieval](https://dl.acm.org/doi/abs/10.1145/3387164), 2020  
 * [Deep Cross-Modal Image–Voice Retrieval in Remote Sensing](https://ieeexplore.ieee.org/abstract/document/9044618), 2020
+
 
 
 
@@ -321,6 +329,7 @@ This is a curated list of audio-visual learning methods and datasets.
 * [Cross-Modal Attention Network for Temporal Inconsistent Audio-Visual Event Localization](https://ojs.aaai.org/index.php/AAAI/article/view/5361), 2020
 * [Audiovisual Transformer with Instance Attention for Audio-Visual Event Localization](https://openaccess.thecvf.com/content/ACCV2020/html/Lin_Audiovisual_Transformer_with_Instance_Attention_for_Audio-Visual_Event_Localization_ACCV_2020_paper.html), 2020 
 * [Audio-Visual Event Localization via Recursive Fusion by Joint Co-Attention](https://openaccess.thecvf.com/content/WACV2021/html/Duan_Audio-Visual_Event_Localization_via_Recursive_Fusion_by_Joint_Co-Attention_WACV_2021_paper.html), 2021
+* [Positive Sample Propagation along the Audio-Visual Event Line](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Positive_Sample_Propagation_Along_the_Audio-Visual_Event_Line_CVPR_2021_paper.pdf), 2021
 * [Cross-Modal Background Suppression for Audio-Visual Event Localization](https://openaccess.thecvf.com/content/CVPR2022/html/Xia_Cross-Modal_Background_Suppression_for_Audio-Visual_Event_Localization_CVPR_2022_paper.html), 2022
 
 
