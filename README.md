@@ -7,7 +7,7 @@
 - [awesome-audiovisual-learning](#awesome-audiovisual-learning)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
-  - [Boosting Single Modality Learning](#boosting-single-modality-learning)
+  - [Audio-visual Boosting](#audio-visual-boosting)
     - [Audio-visual Recognition](#audio-visual-recognition)
       - [Speech Recognition](#speech-recognition)
       - [Speaker Recognition](#speaker-recognition)
@@ -31,11 +31,8 @@
       - [Depth Estimation](#depth-estimation)
     - [Audio-visual Transfer Learning](#audio-visual-transfer-learning)
     - [Cross-modal Retrieval](#cross-modal-retrieval)
-  - [Audio-visual Collaborative Learning](#audio-visual-collaborative-learning)
+  - [Audio-visual Collaboration](#audio-visual-collaboration)
     - [Audio-visual Representation Learning](#audio-visual-representation-learning)
-      - [Audio-visual Consistency](#audio-visual-consistency)
-      - [Deep Clustering](#deep-clustering)
-      - [Pre-training Models](#pre-training-models)
     - [Audio-visual Localization](#audio-visual-localization)
       - [Sound Localization in Videos](#sound-localization-in-videos)
       - [Audio-visual Saliency Detection](#audio-visual-saliency-detection)
@@ -53,18 +50,18 @@
 
 This is a curated list of audio-visual learning methods and datasets.
 
-## Boosting Single Modality Learning
+## Audio-visual Boosting
 
 ### Audio-visual Recognition
 
 #### Speech Recognition
 
 * [Audio-visual Speech Recognition Using Deep Learning](https://link.springer.com/article/10.1007/s10489-014-0629-7), 2015
+* [Temporal Multimodal Learning in Audiovisual Speech Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/Hu_Temporal_Multimodal_Learning_CVPR_2016_paper.pdf), 2016
 * [End-To-End Audiovisual Fusion With LSTMs](https://arxiv.org/abs/1709.04343), 2017
-* [Lip Reading Sentences in the Wild](https://openaccess.thecvf.com/content_cvpr_2017/html/Chung_Lip_Reading_Sentences_CVPR_2017_paper.html), 2017
 * [Deep Audio-visual Speech Recognition](https://ieeexplore.ieee.org/abstract/document/8585066), 2018
 * [Explicit Sparse Transformer: Concentrated Attention Through Explicit Selection](https://arxiv.org/abs/1912.11637), 2019
-* [Multimodal Sparse Transformer Network for Audio-V\visual Speech Recognition](https://ieeexplore.ieee.org/abstract/document/9755926), 2022
+* [Multimodal Sparse Transformer Network for Audio-visual Speech Recognition](https://ieeexplore.ieee.org/abstract/document/9755926), 2022
 * [Robust Self-Supervised Audio-V\visual Speech Recognition](https://arxiv.org/abs/2201.01763), 2022
 
 #### Speaker Recognition
@@ -260,25 +257,19 @@ This is a curated list of audio-visual learning methods and datasets.
 
 
 
-## Audio-visual Collaborative Learning
+## Audio-visual Collaboration
 
 ### Audio-visual Representation Learning
-#### Audio-visual Consistency
+
 * [Look, Listen and Learn](https://openaccess.thecvf.com/content_iccv_2017/html/Arandjelovic_Look_Listen_and_ICCV_2017_paper.html), 2017
 * [Cooperative Learning of Audio and Video Models from Self-Supervised Synchronization](https://proceedings.neurips.cc/paper/2018/hash/c4616f5a24a66668f11ca4fa80525dc4-Abstract.html), 2018
 * [Learning Representations from Audio-Visual Spatial Alignment](https://proceedings.neurips.cc/paper/2020/hash/328e5d4c166bb340b314d457a208dc83-Abstract.html), 2020
 * [Audio-Visual Instance Discrimination with Cross-Modal Agreement](https://openaccess.thecvf.com/content/CVPR2021/html/Morgado_Audio-Visual_Instance_Discrimination_with_Cross-Modal_Agreement_CVPR_2021_paper.html), 2021  
 * [Robust Audio-Visual Instance Discrimination](https://openaccess.thecvf.com/content/CVPR2021/html/Morgado_Robust_Audio-Visual_Instance_Discrimination_CVPR_2021_paper.html), 2021
 * [Unsupervised Sound Localization via Iterative Contrastive Learning](https://arxiv.org/abs/2104.00315), 2021
-
-
-#### Deep Clustering
 * [Self-Supervised Learning by Cross-Modal Audio-Video Clustering](https://proceedings.neurips.cc/paper/2020/hash/6f2268bd1d3d3ebaabb04d6b5d099425-Abstract.html), 2020
 * [Labelling Unlabelled Videos From Scratch With Multi-Modal Self-Supervision](https://proceedings.neurips.cc/paper/2020/hash/31fefc0e570cb3860f2a6d4b38c6490d-Abstract.html), 2020
 * [Multimodal Clustering Networks for Self-Supervised Learning From Unlabeled Videos](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_Multimodal_Clustering_Networks_for_Self-Supervised_Learning_From_Unlabeled_Videos_ICCV_2021_paper.html), 2021
-
-
-#### Pre-training Models
 * [OPT: Omni-Perception Pre-Trainer for Cross-Modal Understanding and Generation](https://arxiv.org/abs/2107.00249), 2021
 * [VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text](https://proceedings.neurips.cc/paper/2021/hash/cb3213ada48302953cb0f166464ab356-Abstract.html), 2021
 * [Audioclip: Extending Clip to Image, Text and Audio](https://ieeexplore.ieee.org/abstract/document/9747631/), 2022
@@ -360,31 +351,29 @@ This is a curated list of audio-visual learning methods and datasets.
 ## Datasets
 
 
-| Dataset             | Year            | # Videos | Length  | # Classes        | Video source             | Task                                                           |
-| ------------------- | --------------- | -------- | ------- | ---------------- | ------------------------ | -------------------------------------------------------------- |
-| LRW, LR2, LR3       | 2016, 2018,2018 | -        | 800h+   | 5k+ (identities) | in the wild              | Speech-related, speaker-related, face generation related tasks |
-| VoxCeleb, VoxCeleb2 | 2017,2018       | -        | 2000h+  | 7k+(identities)  | Youtube                  | Speech-related, speaker-related, face generation related tasks |
-| AVA-AvtiveSpeakers  | 2019            | -        | 38.5h+  | -                | YouTube                  | Speech-related task, speaker-related task                      |
-| Kinetics-400        | 2017            | 306,245  | 850h+   | 400              | Youtube                  | Action recognition                                             |
-| EPIC-KITCHENS       | 2018            | 39,594   | 55h     | 32               | Recorded videos          | Action recognition                                             |
-| CMU-MOSI            | 2016            | 2,199    | 2h+     | 8                | YouTube                  | Emotion recognition                                            |
-| CMU-MOSEI           | 2018            | 23,453   | 65h+    | -                | YouTube                  | Emotion recognition                                            |
-| VGGSound            | 2020            | 200k+    | 550h+   | 310+             | YouTube                  | Action recognition, sound localization                         |
-| AudioSet            | 2017            | 2M+      | 5,800h+ | 632              | YouTube                  | Action recognition, sound sepearation                          |
-| Greatest Hits       | 2016            | 977      | 9h+     | -                | Recorded videos          | Sound generation                                               |
-| MUSIC               | 2018            | 714      | 23h+    | 11               | YouTube                  | Sound seperation, sound localization                           |
-| FAIR-Play           | 2019            | 1,871    | 5.2h    | -                | Recorded videos          | Spatial sound generation                                       |
-| YT-ALL              | 2018            | 1,146    | 113.1h  | -                | YouTube                  | Spatial sound generation                                       |
-| Replica             | 2019            | -        | -       | 88               | Photo-realistic 3D scene | Depth estimation                                               |
-| AIST++              | 2021            | -        | 5.2h    | -                | Recorded videos          | Motin generation                                               |
-| TED                 | 2019            | -        | 52h     | -                | TED talks                | Gesture generation                                             |
-| SumMe               | 2014            | 25       | 1h+     | -                | User videos              | Saliency detection                                             |
-| AVE                 | 2018            | 4,143    | 11h+    | 28               | YouTube                  | Event localization                                             |
-| LLP                 | 2020            | 11,849   | 32.9h   | 25               | YouTube                  | Event parsing                                                  |
-| SoundSpaces         | 2020            | -        | -       | -                | 3D environment           | Audio-visual navigation                                        |
-| AVSD                | 2019            | 11,816   | 98h+    | -                | Crowd-sourced            | Audio-visual dialog                                            |
-| Pano-AVQA           | 2021            | 5.4k     | 7.7h    | -                | Video-sharing platforms  | Audio-visual question answering                                |
-| MUSIC-AVQA          | 2022            | 9,288    | 150h+   | -                | YouTube                  | Audio-visual question answering                                |
 
-
-
+| Dataset             | Year            | # Videos | Length  | Data form                   | Video source            | Task                                                          |
+| ------------------- | --------------- | -------- | ------- | --------------------------- | ----------------------- | ------------------------------------------------------------- |
+| LRW, LRS2 and LRS3  | 2016,2018, 2018 | -        | 800h+   | video                       | in the wild             | Speech-related, speaker-related,face generation-related tasks |
+| VoxCeleb, VoxCeleb2 | 2017, 2018      | -        | 2,000h+ | video                       | YouTube                 | Speech-related, speaker-related,face generation-related tasks |
+| AVA-ActiveSpeaker}  | 2019            | -        | 38.5h   | video                       | YouTube                 | Speech-related task, speaker-related task                     |
+| Kinetics-400        | 2017            | 306,245  | 850h+   | video                       | YouTube                 | Action recognition                                            |
+| EPIC-KITCHENS       | 2018            | 39,594   | 55h     | video                       | Recorded videos         | Action recognition                                            |
+| CMU-MOSI            | 2016            | 2,199    | 2h+     | video                       | YouTube                 | Emotion recognition                                           |
+| CMU-MOSEI           | 2018            | 23,453   | 65h+    | video                       | YouTube                 | Emotion recognition                                           |
+| VGGSound            | 2020            | 200k+    | 550h+   | video                       | YouTube                 | Action recognition, sound localization                        |
+| AudioSet            | 2017            | 2M+      | 5,800h+ | video                       | YouTube                 | Action recognition, sound sepearation                         |
+| Greatest Hits       | 2016            | 977      | 9h+     | video                       | Recorded videos         | Sound generation                                              |
+| MUSIC               | 2018            | 714      | 23h+    | video                       | YouTube                 | Sound seperation, sound localization                          |
+| FAIR-Play           | 2019            | 1,871    | 5.2h    | video with binaural sound   | Recorded videos         | Spatial sound generation                                      |
+| YT-ALL              | 2018            | 1,146    | 113.1h  | $360^{\circ}$ video         | YouTube                 | Spatial sound generation                                      |
+| Replica             | 2019            | -        | -       | 3D environment              | 3D simulator            | Depth estimation                                              |
+| AIST++              | 2021            | -        | 5.2h    | 3D video                    | Recorded videos         | Dance generation                                              |
+| TED                 | 2019            | -        | 52h     | video                       | TED talks               | Gesture generation                                            |
+| SumMe               | 2014            | 25       | 1h+     | video with eye-tracking     | User videos             | Saliency detection                                            |
+| AVE                 | 2018            | 4,143    | 11h+    | video                       | YouTube                 | Event localization                                            |
+| LLP                 | 2020            | 11,849   | 32.9h   | video                       | YouTube                 | Event parsing                                                 |
+| SoundSpaces         | 2020            | -        | -       | 3D environment              | 3D simulator            | Audio-visual navigation                                       |
+| AVSD                | 2019            | 11,816   | 98h+    | video with dialog           | Crowd-sourced           | Audio-visual dialog                                           |
+| Pano-AVQA           | 2021            | 5.4k     | 7.7h    | $360^{\circ}$ video with QA | Video-sharing platforms | Audio-visual question answering                               |
+| MUSIC-AVQA          | 2022            | 9,288    | 150h+   | video with QA               | YouTube                 | Audio-visual question answering                               |
