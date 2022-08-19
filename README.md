@@ -244,12 +244,13 @@ This is a curated list of audio-visual learning methods and datasets.
 * [Enhanced Audio Tagging via Multi- to Single-Modal Teacher-Student Mutual Learning](https://ojs.aaai.org/index.php/AAAI/article/view/17280), 2021 
 * [Knowledge Distillation from Multi-Modality to Single-Modality for Person Verification](https://drive.google.com/file/d/1ISP0ot1WFxZz_IhTAOiWu4nT-Q1bXWtH/view), 2021
 * [Multimodal Knowledge Expansion](https://openaccess.thecvf.com/content/ICCV2021/html/Xue_Multimodal_Knowledge_Expansion_ICCV_2021_paper.html), 2021
+* [Distilling Audio-visual Knowledge by Compositional Contrastive Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Distilling_Audio-Visual_Knowledge_by_Compositional_Contrastive_Learning_CVPR_2021_paper.pdf), 2021
 
 ### Cross-modal Retrieval
 * [Content-Based Video-Music Retrieval Using Soft Intra-Modal Structure Constraint](https://arxiv.org/abs/1704.06761), 2017
+* [Image2song: Song Retrieval via Bridging Image Content and Lyric Words](https://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Image2song_Song_Retrieval_ICCV_2017_paper.pdf), 2017
 * [Cross-modal Embeddings for Video and Audio Retrieval](https://openaccess.thecvf.com/content_eccv_2018_workshops/w24/html/Suris_Cross-modal_Embeddings_for_Video_and_Audio_Retrieval_ECCVW_2018_paper.html), 2018
 * [Audio-Visual Embedding for Cross-Modal Music Video Retrieval through Supervised Deep CCA](https://ieeexplore.ieee.org/abstract/document/8603275/), 2019
-* [Audio-Visual Embedding for Cross-Modal MusicVideo Retrieval through Supervised Deep CCA](https://arxiv.org/abs/1908.03744), 2019
 * [Deep Triplet Neural Networks with Cluster-CCA for Audio-Visual Cross-Modal Retrieval](https://dl.acm.org/doi/abs/10.1145/3387164), 2020  
 * [Deep Cross-Modal Image–Voice Retrieval in Remote Sensing](https://ieeexplore.ieee.org/abstract/document/9044618), 2020
 
