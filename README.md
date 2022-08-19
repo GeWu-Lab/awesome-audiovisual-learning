@@ -18,7 +18,7 @@
       - [Object Sound Separation](#object-sound-separation)
       - [Face Super-resolution and Reconstruction](#face-super-resolution-and-reconstruction)
   - [Cross-modal Perception](#cross-modal-perception)
-    - [Audio-visual Generation](#audio-visual-generation)
+    - [Cross-modal Generation](#cross-modal-generation)
       - [Mono Sound Generation](#mono-sound-generation)
         - [Speech](#speech)
         - [Music](#music)
@@ -147,7 +147,7 @@ This is a curated list of audio-visual learning methods and datasets.
 
 ## Cross-modal Perception
 
-### Audio-visual Generation
+### Cross-modal Generation
 
 #### Mono Sound Generation
 ##### Speech
