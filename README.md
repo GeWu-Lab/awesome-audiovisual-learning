@@ -2,7 +2,7 @@
 
 This is a curated list of audio-visual learning methods and datasets, based on our survey: <Learning in Audio-visual Context: A Review, Analysis, and New Perspective>.
 
-[Website of Our Survey](https://gewu-lab.github.io/audio-visual-learning)
+[[Website of Our Survey]](https://gewu-lab.github.io/audio-visual-learning), [[arXiv]](https://arxiv.org/abs/2208.09579)
 
 
 ## Table of contents
