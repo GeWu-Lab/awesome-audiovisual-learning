@@ -1,6 +1,6 @@
 ## Overview
 
-This is a curated list of audio-visual learning methods and datasets, based on our survey: <Learning in Audio-visual Context: A Review, Analysis, and New Perspective>.
+This is a curated list of audio-visual learning methods and datasets, based on our survey: <Learning in Audio-visual Context: A Review, Analysis, and New Perspective>. This list will continue to be updated, please feel free to nominate good related works with Pull Requests!
 
 [[Website of Our Survey]](https://gewu-lab.github.io/audio-visual-learning), [[arXiv]](https://arxiv.org/abs/2208.09579)
 
@@ -249,9 +249,11 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 * [Content-Based Video-Music Retrieval Using Soft Intra-Modal Structure Constraint](https://arxiv.org/abs/1704.06761), 2017
 * [Image2song: Song Retrieval via Bridging Image Content and Lyric Words](https://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Image2song_Song_Retrieval_ICCV_2017_paper.pdf), 2017
 * [Cross-modal Embeddings for Video and Audio Retrieval](https://openaccess.thecvf.com/content_eccv_2018_workshops/w24/html/Suris_Cross-modal_Embeddings_for_Video_and_Audio_Retrieval_ECCVW_2018_paper.html), 2018
+* [Seeing voices and hearing faces: Cross-modal biometric matching](https://openaccess.thecvf.com/content_cvpr_2018/papers/Nagrani_Seeing_Voices_and_CVPR_2018_paper.pdf), 2018
 * [Audio-Visual Embedding for Cross-Modal Music Video Retrieval through Supervised Deep CCA](https://ieeexplore.ieee.org/abstract/document/8603275/), 2019
 * [Deep Triplet Neural Networks with Cluster-CCA for Audio-Visual Cross-Modal Retrieval](https://dl.acm.org/doi/abs/10.1145/3387164), 2020  
 * [Deep Cross-Modal Image–Voice Retrieval in Remote Sensing](https://ieeexplore.ieee.org/abstract/document/9044618), 2020
+* [Unsupervised Voice-Face Representation Learning by Cross-Modal Prototype Contrast](https://www.ijcai.org/proceedings/2022/526), 2022
 
 
 
