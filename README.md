@@ -1,12 +1,12 @@
 <a name="top"></a>
 # Overview
----
+
 This is a curated list of audio-visual learning methods and datasets, based on our survey: <Learning in Audio-visual Context: A Review, Analysis, and New Perspective>.
 
 [[Website of Our Survey]](https://gewu-lab.github.io/audio-visual-learning), [[arXiv]](https://arxiv.org/abs/2208.09579)
 
 # Table of contents
----
+
 - [Overview](#overview)
 - [Table of contents](#table-of-contents)
 - [Audio-visual Boosting](#audio-visual-boosting)
@@ -50,9 +50,6 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 
 
 # 1 Audio-visual Boosting
-
----
-
 ## 1.1 Audio-visual Recognition
 ### 1.1.1 Speech Recognition
 **[Applied Intelligence-2015]**
@@ -504,13 +501,8 @@ Chenqi Kong, Baoliang Chen, Wenhan Yang, Haoliang Li, Peilin Chen, Shiqi Wang
 
 [Back to Top](#top)
 # 2 Cross-modal Perception
-
----
-
 ## 2.1 Cross-modal Generation
-
 ### 2.1.1 Mono Sound Generation
-
 #### 2.1.1.1 Speech
 **[ICASSP-2017]**
 [Vid2speech: Speech Reconstruction From Silent Video](https://ieeexplore.ieee.org/abstract/document/7953127)
@@ -1046,10 +1038,7 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 
 [Back to Top](#top)
 # 3 Audio-visual Collaboration
-
----
 ## 3.1 Audio-visual Representation Learning
-
 **[ICCV-2017]**
 [Look, Listen and Learn](https://openaccess.thecvf.com/content_iccv_2017/html/Arandjelovic_Look_Listen_and_ICCV_2017_paper.html)
 <br>
