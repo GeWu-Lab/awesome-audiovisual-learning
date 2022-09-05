@@ -1475,54 +1475,28 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 
 ## Datasets
 
-
-
-| Dataset             | Year            | # Videos | Length  | Data form                   | Video source            | Task                                                          |
-<br>
-| ------------------- | ------- | ------- | ------- | --------------------------- | ----------------------- | ------------------------------------------------------------- |
-<br>
+| Dataset | Year | Videos | Length  | Data form | Video source            | Task                                               
+| :-------------------: | :-------: | :-------: | :-------: | :---------------------------: | :-----------------------: | :-------------------------------------------------------------: |
 | [LRW, LRS2 and LRS3](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/)  | 2016,2018, 2018 | -        | 800h+   | video                       | in the wild             | Speech-related, speaker-related,face generation-related tasks |
-<br>
 | [VoxCeleb, VoxCeleb2](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox2.html) | 2017, 2018      | -        | 2,000h+ | video                       | YouTube                 | Speech-related, speaker-related,face generation-related tasks |
-<br>
 | [AVA-ActiveSpeaker](https://paperswithcode.com/dataset/ava-activespeaker)  | 2019            | -        | 38.5h   | video                       | YouTube                 | Speech-related task, speaker-related task                     |
-<br>
 | [Kinetics-400](https://deepai.org/dataset/kinetics-400)        | 2017            | 306,245  | 850h+   | video                       | YouTube                 | Action recognition                                            |
-<br>
 | [EPIC-KITCHENS](https://epic-kitchens.github.io/2022)       | 2018            | 39,594   | 55h     | video                       | Recorded videos         | Action recognition                                            |
-<br>
 | [CMU-MOSI](http://multicomp.cs.cmu.edu/resources/cmu-mosi-dataset/)            | 2016            | 2,199    | 2h+     | video                       | YouTube                 | Emotion recognition                                           |
-<br>
 | [CMU-MOSEI](http://multicomp.cs.cmu.edu/resources/cmu-mosei-dataset/)           | 2018            | 23,453   | 65h+    | video                       | YouTube                 | Emotion recognition                                           |
-<br>
 | [VGGSound](https://www.robots.ox.ac.uk/~vgg/data/vggsound/)            | 2020            | 200k+    | 550h+   | video                       | YouTube                 | Action recognition, sound localization                        |
-<br>
 | [AudioSet](https://paperswithcode.com/dataset/audioset)            | 2017            | 2M+      | 5,800h+ | video                       | YouTube                 | Action recognition, sound sepearation                         |
-<br>
 | [Greatest Hits](https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=299)       | 2016            | 977      | 9h+     | video                       | Recorded videos         | Sound generation                                              |
-<br>
 | [MUSIC](https://www.kaggle.com/tiwaris436/music-dataset)               | 2018            | 714      | 23h+    | video                       | YouTube                 | Sound seperation, sound localization                          |
-<br>
 | [FAIR-Play](https://paperswithcode.com/dataset/fair-play)           | 2019            | 1,871    | 5.2h    | video with binaural sound   | Recorded videos         | Spatial sound generation                                      |
-<br>
 | [YT-ALL](https://yt-project.org/)              | 2018            | 1,146    | 113.1h  | 360 video         | YouTube                 | Spatial sound generation                                      |
-<br>
 | [Replica](https://github.com/facebookresearch/Replica-Dataset)             | 2019            | -        | -       | 3D environment              | 3D simulator            | Depth estimation                                              |
-<br>
 | [AIST++](https://google.github.io/aistplusplus_dataset/)              | 2021            | -        | 5.2h    | 3D video                    | Recorded videos         | Dance generation                                              |
-<br>
 | [TED](https://www.kaggle.com/datasets/357d87783a50f64e58afdb56d66cffda7aad25e2d2806c583d87c7d4b604b141)                 | 2019            | -        | 52h     | video                       | TED talks               | Gesture generation                                            |
-<br>
 | [SumMe](https://paperswithcode.com/dataset/summe)               | 2014            | 25       | 1h+     | video with eye-tracking     | User videos             | Saliency detection                                            |
-<br>
 | [AVE](https://paperswithcode.com/dataset/ave)                 | 2018            | 4,143    | 11h+    | video                       | YouTube                 | Event localization                                            |
-<br>
 | LLP                 | 2020            | 11,849   | 32.9h   | video                       | YouTube                 | Event parsing                                                 |
-<br>
 | [SoundSpaces](https://soundspaces.org/)         | 2020            | -        | -       | 3D environment              | 3D simulator            | Audio-visual navigation                                       |
-<br>
 | [AVSD](https://paperswithcode.com/dataset/avsd)                | 2019            | 11,816   | 98h+    | video with dialog           | Crowd-sourced           | Audio-visual dialog                                           |
-<br>
 | [Pano-AVQA](https://paperswithcode.com/dataset/visual-question-answering)           | 2021            | 5.4k     | 7.7h    | 360 video with QA | Video-sharing platforms | Audio-visual question answering                               |
-<br>
 | [MUSIC-AVQA](https://gewu-lab.github.io/MUSIC-AVQA/)          | 2022            | 9,288    | 150h+   | video with QA               | YouTube                 | Audio-visual question answering                               |
