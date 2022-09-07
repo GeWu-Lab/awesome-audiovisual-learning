@@ -1,7 +1,7 @@
 <a name="top"></a>
 # Overview
 
-This is a curated list of audio-visual learning methods and datasets, based on our survey: <Learning in Audio-visual Context: A Review, Analysis, and New Perspective>.
+This is a curated list of audio-visual learning methods and datasets, based on our survey: <Learning in Audio-visual Context: A Review, Analysis, and New Perspective>. This list will continue to be updated, please feel free to nominate good related works with Pull Requests!
 
 [[Website of Our Survey]](https://gewu-lab.github.io/audio-visual-learning), [[arXiv]](https://arxiv.org/abs/2208.09579)
 
@@ -9,49 +9,52 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 
 - [Overview](#overview)
 - [Table of contents](#table-of-contents)
-- [Audio-visual Boosting](#audio-visual-boosting)
-  - [Audio-visual Recognition](#audio-visual-recognition)
-    - [Speech Recognition](#speech-recognition)
-    - [Speaker Recognition](#speaker-recognition)
-    - [Action Recognition](#action-recognition)
-    - [Emotion Recognition](#emotion-recognition)
-  - [Uni-modal Enhancement](#uni-modal-enhancement)
-    - [Speech Enhancement and Separation](#speech-enhancement-and-separation)
-    - [Object Sound Separation](#object-sound-separation)
-    - [Face Super-resolution and Reconstruction](#face-super-resolution-and-reconstruction)
-- [Cross-modal Perception](#cross-modal-perception)
-  - [Cross-modal Generation](#cross-modal-generation)
-    - [Mono Sound Generation](#mono-sound-generation)
-      - [Speech](#speech)
-      - [Music](#music)
-      - [Natural Sound](#natural-sound)
-    - [Spatial Sound Generation](#spatial-sound-generation)
-    - [Video Generation](#video-generation)
-      - [talking face](#talking-face)
+  - [Audio-visual Boosting](#audio-visual-boosting)
+    - [Audio-visual Recognition](#audio-visual-recognition)
+      - [Speech Recognition](#speech-recognition)
+      - [Speaker Recognition](#speaker-recognition)
+      - [Action Recognition](#action-recognition)
+      - [Emotion Recognition](#emotion-recognition)
+    - [Uni-modal Enhancement](#uni-modal-enhancement)
+      - [Speech Enhancement and Separation](#speech-enhancement-and-separation)
+      - [Object Sound Separation](#object-sound-separation)
+      - [Face Super-resolution and Reconstruction](#face-super-resolution-and-reconstruction)
+  - [Cross-modal Perception](#cross-modal-perception)
+    - [Cross-modal Generation](#cross-modal-generation)
+      - [Mono Sound Generation](#mono-sound-generation)
+        - [Speech](#speech)
+        - [Music](#music)
+        - [Natural Sound](#natural-sound)
+      - [Spatial Sound Generation](#spatial-sound-generation)
+      - [Video Generation](#video-generation)
+        - [talking face](#talking-face)
       - [Gesture](#gesture)
-      - [Dance](#dance)
-    - [Depth Estimation](#depth-estimation)
-  - [Audio-visual Transfer Learning](#audio-visual-transfer-learning)
-  - [Cross-modal Retrieval](#cross-modal-retrieval)
-- [Audio-visual Collaboration](#audio-visual-collaboration)
-  - [Audio-visual Representation Learning](#audio-visual-representation-learning)
-  - [Audio-visual Localization](#audio-visual-localization)
-    - [Sound Localization in Videos](#sound-localization-in-videos)
-    - [Audio-visual Saliency Detection](#audio-visual-saliency-detection)
-    - [Audio-visual Navigation](#audio-visual-navigation)
-  - [Audio-visual Event Localization and Parsing](#audio-visual-event-localization-and-parsing)
-    - [Localization](#localization)
-    - [Parsing](#parsing)
-  - [Audio-visual Question Answering and Dialog](#audio-visual-question-answering-and-dialog)
-    - [Question Answering](#question-answering)
-    - [Dialog](#dialog)
-- [Datasets](#datasets)
+        - [Dance](#dance)
+      - [Depth Estimation](#depth-estimation)
+    - [Audio-visual Transfer Learning](#audio-visual-transfer-learning)
+    - [Cross-modal Retrieval](#cross-modal-retrieval)
+  - [Audio-visual Collaboration](#audio-visual-collaboration)
+    - [Audio-visual Representation Learning](#audio-visual-representation-learning)
+    - [Audio-visual Localization](#audio-visual-localization)
+      - [Sound Localization in Videos](#sound-localization-in-videos)
+      - [Audio-visual Saliency Detection](#audio-visual-saliency-detection)
+      - [Audio-visual Navigation](#audio-visual-navigation)
+    - [Audio-visual Event Localization and Parsing](#audio-visual-event-localization-and-parsing)
+      - [Localization](#localization)
+      - [Parsing](#parsing)
+    - [Audio-visual Question Answering and Dialog](#audio-visual-question-answering-and-dialog)
+      - [Question Answering](#question-answering)
+      - [Dialog](#dialog)
+  - [Datasets](#datasets)
 
 
 
-# 1 Audio-visual Boosting
-## 1.1 Audio-visual Recognition
-### 1.1.1 Speech Recognition
+
+## Audio-visual Boosting
+
+### Audio-visual Recognition
+
+#### Speech Recognition
 **[Applied Intelligence-2015]**
 [Audio-visual Speech Recognition Using Deep Learning](https://link.springer.com/article/10.1007/s10489-014-0629-7)
 <br>
@@ -102,7 +105,7 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 **Institution:** Toyota Technological Institute at Chicago; Meta AI
 
 
-### 1.1.2 Speaker Recognition
+#### Speaker Recognition
 **[Multimedia Tools and Applications-2016]**
 [Audio-visual Speaker Diarization Using Fisher Linear Semi-discriminant Analysis](https://link.springer.com/article/10.1007/s11042-014-2274-x)
 <br>
@@ -152,7 +155,7 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Institution:** Shanghai Jiao Tong University
 
-### 1.1.3 Action Recognition
+#### Action Recognition
 **[IJCNN-2016]**
 [Exploring Multimodal Video Representation For Action Recognition](https://ieeexplore.ieee.org/abstract/document/7727435)
 <br>
@@ -237,7 +240,7 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Institution:** Shenzhen University; Guangdong Key Laboratory of Intelligent Information Processing; Pazhou Lab
 
-### 1.1.4 Emotion Recognition
+#### Emotion Recognition
 
 **[EMNLP-2017]**
 [Tensor Fusion Network for Multimodal Sentiment Analysis](https://arxiv.org/abs/1707.07250)
@@ -318,9 +321,9 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 
 
 
-## 1.2 Uni-modal Enhancement
+### Uni-modal Enhancement
 
-### 1.2.1 Speech Enhancement and Separation
+#### Speech Enhancement and Separation
 
 **[Interspeech-2018]**
 [Visual Speech Enhancement](https://arxiv.org/abs/1711.08789)
@@ -408,7 +411,7 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 **Institution:** Inria Grenoble; Université Grenoble Alpes; Inria Nancy Grand-Est; Reality Labs Research
 
 
-### 1.2.2 Object Sound Separation
+#### Object Sound Separation
 
 **[ECCV-2018]**
 [Learning to Separate Object Sounds by Watching Unlabeled Video](https://openaccess.thecvf.com/content_ECCV_2018/html/Ruohan_Gao_Learning_to_Separate_ECCV_2018_paper.html)
@@ -481,7 +484,7 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 **Institution:** University of Rochester; Renmin University of China; Beijing Key Laboratory of Big Data Management and Analysis Methods
 
 
-### 1.2.3 Face Super-resolution and Reconstruction
+#### Face Super-resolution and Reconstruction
 
 **[CVPR-2020]**
 [Learning to Have an Ear for Face Super-Resolution](https://openaccess.thecvf.com/content_CVPR_2020/html/Meishvili_Learning_to_Have_an_Ear_for_Face_Super-Resolution_CVPR_2020_paper.html)
@@ -499,11 +502,13 @@ Chenqi Kong, Baoliang Chen, Wenhan Yang, Haoliang Li, Peilin Chen, Shiqi Wang
 **Institution:** City University of Hong Kong; Nanyang Technological University
 
 
-[Back to Top](#top)
-# 2 Cross-modal Perception
-## 2.1 Cross-modal Generation
-### 2.1.1 Mono Sound Generation
-#### 2.1.1.1 Speech
+## Cross-modal Perception
+
+### Cross-modal Generation
+
+#### Mono Sound Generation
+##### Speech
+
 **[ICASSP-2017]**
 [Vid2speech: Speech Reconstruction From Silent Video](https://ieeexplore.ieee.org/abstract/document/7953127)
 <br>
@@ -553,7 +558,7 @@ Chenqi Kong, Baoliang Chen, Wenhan Yang, Haoliang Li, Peilin Chen, Shiqi Wang
 <br>
 **Institution:** Imperial College London; University of Augsburg; Meta AI
 
-#### 2.1.1.2 Music
+##### Music
 **[IEEE Transactions on Multimedia-2015]**
 [Real-Time Piano Music Transcription Based on Computer Vision](https://ieeexplore.ieee.org/abstract/document/7225173)
 <br>
@@ -614,7 +619,7 @@ Zeren Jiang, Si Liu, Zhaokai Wang, Leyan Zhu, Zexin He, Hongming Liu, Shuicheng 
 <br>
 **Institution:** Beihang University; Charterhouse School, Godalming, Surrey; Sea AI Lab
 
-#### 2.1.1.3 Natural Sound
+##### Natural Sound
 **[CVPR-2016]**
 [Visually Indicated Sounds](https://openaccess.thecvf.com/content_cvpr_2016/html/Owens_Visually_Indicated_Sounds_CVPR_2016_paper.html)
 <br>
@@ -645,7 +650,7 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Institution:** Tampere University
 
 
-### 2.1.2 Spatial Sound Generation
+#### Spatial Sound Generation
 **[ACM Transactions on Graphics-2018]**
 [Scene-aware audio for 360° videos](https://dl.acm.org/doi/abs/10.1145/3197517.3201391)
 <br>
@@ -703,8 +708,8 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Institution:** Indian Institute of Technology Kanpur; CDAC Noida; TensorTour Inc.
 
 
-### 2.1.3 Video Generation
-#### 2.1.3.1 talking face
+#### Video Generation
+##### talking face
 **[ACM Transactions on Graphics-2017]**
 [Synthesizing Obama: learning lip sync from audio](https://dl.acm.org/doi/abs/10.1145/3072959.3073640)
 <br>
@@ -803,7 +808,7 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Nanjing University; The Chinese University of Hong Kong; The University of Sydney; SenseTime Research; Nanyang Technological University; Tsinghua University
 
-#### 2.1.3.2 Gesture
+#### Gesture
 **[IVA-2018]**
 [Evaluation of Speech-to-Gesture Generation Using Bi-Directional LSTM Network](https://dl.acm.org/doi/abs/10.1145/3267851.3267878)
 <br>
@@ -867,7 +872,7 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Alibaba; University of Technology Sydney; Zhejiang University 
 
-#### 2.1.3.3 Dance
+##### Dance
 **[MM-2018]**
 [Dance with Melody: An LSTM-autoencoder Approach to Music-oriented Dance Synthesis](https://dl.acm.org/doi/abs/10.1145/3240508.3240526)
 <br>
@@ -911,7 +916,7 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Institution:** Shanghai University; University of Chinese Academy of Sciences; JD AI Research; Fudan University
 
 
-### 2.1.4 Depth Estimation
+#### Depth Estimation
 **[ICRA-2020]**
 [BatVision: Learning to See 3D Spatial Layout with Two Ears](https://ieeexplore.ieee.org/abstract/document/9196934/)
 <br>
@@ -942,7 +947,7 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 
 
 
-## 2.2 Audio-visual Transfer Learning
+### Audio-visual Transfer Learning
 **[NIPS-2016]**
 [SoundNet: Learning Sound Representations from Unlabeled Video](https://proceedings.neurips.cc/paper/2016/hash/7dcd340d84f762eba80aa538b0c527f7-Abstract.html)
 <br>
@@ -994,7 +999,7 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 
 
 
-## 2.3 Cross-modal Retrieval
+### Cross-modal Retrieval
 **[2017]**
 [Content-Based Video-Music Retrieval Using Soft Intra-Modal Structure Constraint](https://arxiv.org/abs/1704.06761)
 <br>
@@ -1006,6 +1011,15 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Authors:** Xuelong Li, Di Hu, Xiaoqiang Lu
 <br>
 **Institution:** Chinese Academy of Sciences; Northwestern Polytechnical University
+
+**[CVPR-2018]**
+[Seeing voices and hearing faces: Cross-modal biometric matching](https://openaccess.thecvf.com/content_cvpr_2018/papers/Nagrani_Seeing_Voices_and_CVPR_2018_paper.pdf)
+<br>
+**Authors:** Arsha Nagrani, Samuel Albanie, Andrew Zisserman
+<br>
+**Institution:** University of Oxford
+
+
 
 **[ECCV-2018]**
 [Cross-modal Embeddings for Video and Audio Retrieval](https://openaccess.thecvf.com/content_eccv_2018_workshops/w24/html/Suris_Cross-modal_Embeddings_for_Video_and_Audio_Retrieval_ECCVW_2018_paper.html)
@@ -1035,10 +1049,18 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** China University of Chinese Academy of Sciences; Chinese Academy of Sciences
 
+**[IJCAI-2022]**
+[Unsupervised Voice-Face Representation Learning by Cross-Modal Prototype Contrast](https://www.ijcai.org/proceedings/2022/526)
+<br>
+**Authors:** Boqing Zhu, Kele Xu, Changjian Wang, Zheng Qin, Tao Sun, Huaimin Wang, Yuxing Peng
+<br>
+**Institution:** National University of Defense Technology
+
 
 [Back to Top](#top)
-# 3 Audio-visual Collaboration
-## 3.1 Audio-visual Representation Learning
+## Audio-visual Collaboration
+
+### Audio-visual Representation Learning
 **[ICCV-2017]**
 [Look, Listen and Learn](https://openaccess.thecvf.com/content_iccv_2017/html/Arandjelovic_Look_Listen_and_ICCV_2017_paper.html)
 <br>
@@ -1132,9 +1154,9 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 
 
 
-## 3.2 Audio-visual Localization
+### Audio-visual Localization
 
-### 3.2.1 Sound Localization in Videos
+#### Sound Localization in Videos
 **[ECCV-2018]**
 [Objects that Sound](https://openaccess.thecvf.com/content_ECCV_2018/html/Relja_Arandjelovic_Objects_that_Sound_ECCV_2018_paper.html)
 <br>
@@ -1213,7 +1235,7 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Institution:** Hefei University of Technology; SenseTime Research; Australian National University; Beihang University; NVIDIA; The University of Hong Kong; 7Shanghai Artificial Intelligence Laboratory
 
 
-### 3.2.2 Audio-visual Saliency Detection
+#### Audio-visual Saliency Detection
 **[2019]**
 [DAVE: A Deep Audio-Visual Embedding for Dynamic Saliency Prediction](https://arxiv.org/abs/1905.10693)
 <br>
@@ -1251,7 +1273,7 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Institution:** Beihang University; Qingdao University; Chinese Academy of Medical Sciences
 
 
-### 3.2.3 Audio-visual Navigation
+#### Audio-visual Navigation
 **[ECCV-2020]**
 [SoundSpaces: Audio-Visual Navigation in 3D Environments](https://link.springer.com/chapter/10.1007/978-3-030-58539-6_2)
 <br>
@@ -1303,8 +1325,9 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 
 
 
-## 3.3 Audio-visual Event Localization and Parsing
-### 3.3.1 Localization
+
+### Audio-visual Event Localization and Parsing
+#### Localization
 **[ECCV-2018]**
 [Audio-visual Event Localization in Unconstrained Videos](https://openaccess.thecvf.com/content_ECCV_2018/html/Yapeng_Tian_Audio-Visual_Event_Localization_ECCV_2018_paper.html)
 <br>
@@ -1362,7 +1385,7 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Institution:** Zhejiang University
 
 
-### 3.3.2 Parsing
+#### Parsing
 **[ECCV-2020]**
 [Unified Multisensory Perception: Weakly-Supervised Audio-Visual Video Parsing](https://link.springer.com/chapter/10.1007/978-3-030-58580-8_26)
 <br>
@@ -1400,8 +1423,8 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 
 
 
-## 3.4 Audio-visual Question Answering and Dialog
-### 3.4.1 Question Answering
+### Audio-visual Question Answering and Dialog
+#### Question Answering
 **[ICCV-2021]**
 [Pano-AVQA: Grounded Audio-Visual Question Answering on 360deg Videos](https://openaccess.thecvf.com/content/ICCV2021/html/Yun_Pano-AVQA_Grounded_Audio-Visual_Question_Answering_on_360deg_Videos_ICCV_2021_paper.html)
 <br>
@@ -1417,7 +1440,7 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Institution:** Renmin University of China; Beijing Key Laboratory of Big Data Management and Analysis Methods; University of Rochester
 
 
-### 3.4.2 Dialog
+#### Dialog
 **[CVPR-2019]**
 [Audio Visual Scene-Aware Dialog](https://openaccess.thecvf.com/content_CVPR_2019/html/Alamri_Audio_Visual_Scene-Aware_Dialog_CVPR_2019_paper.html)
 <br>
@@ -1460,9 +1483,6 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 <br>
 **Institution:** Mitsubishi Electric Research Laboratories; Carnegie Mellon University; Rutgers University; The Chinese University of Hong Kong
 
-
-[Back to Top](#top)
-
 ## Datasets
 
 | Dataset | Year | Videos | Length  | Data form | Video source            | Task                                               
@@ -1485,8 +1505,9 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 | [TED](https://www.kaggle.com/datasets/357d87783a50f64e58afdb56d66cffda7aad25e2d2806c583d87c7d4b604b141)                 | 2019            | -        | 52h     | video                       | TED talks               | Gesture generation                                            |
 | [SumMe](https://paperswithcode.com/dataset/summe)               | 2014            | 25       | 1h+     | video with eye-tracking     | User videos             | Saliency detection                                            |
 | [AVE](https://paperswithcode.com/dataset/ave)                 | 2018            | 4,143    | 11h+    | video                       | YouTube                 | Event localization                                            |
-| LLP                 | 2020            | 11,849   | 32.9h   | video                       | YouTube                 | Event parsing                                                 |
+| [LLP](https://link.springer.com/chapter/10.1007/978-3-030-58580-8_26)                 | 2020            | 11,849   | 32.9h   | video                       | YouTube                 | Event parsing                                                 |
 | [SoundSpaces](https://soundspaces.org/)         | 2020            | -        | -       | 3D environment              | 3D simulator            | Audio-visual navigation                                       |
 | [AVSD](https://paperswithcode.com/dataset/avsd)                | 2019            | 11,816   | 98h+    | video with dialog           | Crowd-sourced           | Audio-visual dialog                                           |
 | [Pano-AVQA](https://paperswithcode.com/dataset/visual-question-answering)           | 2021            | 5.4k     | 7.7h    | 360 video with QA | Video-sharing platforms | Audio-visual question answering                               |
 | [MUSIC-AVQA](https://gewu-lab.github.io/MUSIC-AVQA/)          | 2022            | 9,288    | 150h+   | video with QA               | YouTube                 | Audio-visual question answering                               |
+| [AVSBench](https://arxiv.org/abs/2207.05042)         | 2022            | 5,356    | 14.8h+   | video         | YouTube                 | Audio-visual segmentation, sound localization                             |
