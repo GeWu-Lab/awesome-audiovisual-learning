@@ -125,6 +125,12 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Institution:** Tsinghua University; Beijing National Research Center for Information Science and Technology; University of Rochester
 
+**[NIPS-2022]**
+[A Single Self-Supervised Model for Many Speech Modalities Enables Zero-Shot Modality Transfer](https://arxiv.org/pdf/2207.07036.pdf)
+<br>
+**Authors:** Wei-Ning Hsu, Bowen Shi
+<br>
+**Institution:** Toyota Technological Institute at Chicago
 #### Speaker Recognition
 **[Multimedia Tools and Applications-2016]**
 [Audio-visual Speaker Diarization Using Fisher Linear Semi-discriminant Analysis](https://link.springer.com/article/10.1007/s11042-014-2274-x)
@@ -560,6 +566,13 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 **Institution:** University of Rochester; Renmin University of China; Beijing Key Laboratory of Big Data Management and Analysis Methods
 
 <font color=#808080>**[ECCV-2022]**</font>
+[AudioScopeV2: Audio-Visual Attention Architectures for Calibrated Open-Domain On-Screen Sound Separation](https://arxiv.org/abs/2207.10141)
+<br>
+**Authors:** Efthymios Tzinis, Scott Wisdom, Tal Remez, John R. Hershey
+<br>
+**Institution:** Google Research; University of Illinois Urbana-Champaign
+
+**[ECCV-2022]**
 [AudioScopeV2: Audio-Visual Attention Architectures for Calibrated Open-Domain On-Screen Sound Separation](https://arxiv.org/abs/2207.10141)
 <br>
 **Authors:** Efthymios Tzinis, Scott Wisdom, Tal Remez, John R. Hershey
@@ -1034,7 +1047,19 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Nippon Telegraph & Telephone Corporation
 
+**[NIPS-2022]**
+[Learning Neural Acoustic Fields](https://arxiv.org/abs/2204.00628)
+<br>
+**Authors:** Andrew Luo, Yilun Du, Michael Tarr, Josh Tenenbaum, Antonio Torralba, Chuang Gan
+<br>
+**Institution:** Carnegie Mellon University; Massachusetts Institute of Technology; MIT-IBM Watson AI Lab
 
+**[NIPS-2022]**
+[Few-Shot Audio-Visual Learning of Environment Acoustics](https://arxiv.org/abs/2206.04006)
+<br>
+**Authors:** Sagnik Majumder, Changan Chen, Ziad Al-Halah, Kristen Grauman
+<br>
+**Institution:** The University of Texas at Austin; Facebook AI Research
 
 ### Audio-visual Transfer Learning
 **[NIPS-2016]**
@@ -1264,20 +1289,26 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** University of Washington; Allen Institute for Artificial Intelligence; University of Edinburgh
 
-<font color=#808080>**[2022]**</font>
+**[2022]**
 [Probing Visual-Audio Representation for Video Highlight Detection via Hard-Pairs Guided Contrastive Learning](https://arxiv.org/abs/2206.10157)
 <br>
 **Authors:** Shuaicheng Li, Feng Zhang, Kunlin Yang, Lingbo Liu, Shinan Liu, Jun Hou, Shuai Yi
 <br>
 **Institution:** Sensetime Research; The Hong Kong Polytechnic University
 
-<font color=#808080>**[2021]**</font>
+**[2021]**
 [Audio-visual Representation Learning for Anomaly Events Detection in Crowds](https://arxiv.org/abs/2110.14862)
 <br>
 **Authors:** Junyu Gao, Maoguo Gong, Xuelong Li
 <br>
 **Institution:** Xidian University; Northwestern Polytechnical University
 
+**[NIPS-2022]**
+[Non-Linguistic Supervision for Contrastive Learning of Sentence Embeddings](https://arxiv.org/abs/2209.09433)
+<br>
+**Authors:** Yiren Jian, Chongyang Gao, Soroush Vosoughi
+<br>
+**Institution:** Dartmouth College; Northwestern University
 ### Audio-visual Localization
 
 #### Sound Localization in Videos
@@ -1358,12 +1389,19 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Hefei University of Technology; SenseTime Research; Australian National University; Beihang University; NVIDIA; The University of Hong Kong; 7Shanghai Artificial Intelligence Laboratory
 
-<font color=#808080>**[2022]**</font>
+**[2022]**
 [Egocentric Deep Multi-Channel Audio-Visual Active Speaker Localization](https://arxiv.org/abs/2201.01928)
 <br>
 **Authors:** Hao Jiang, Calvin Murdock, Vamsi Krishna Ithapu
 <br>
 **Institution:** Meta Reality Labs
+
+**[MM-2022]**
+[Exploiting Transformation Invariance and Equivariance for Self-supervised Sound Localisation](https://arxiv.org/abs/2206.12772)
+<br>
+**Authors:** Jinxiang Liu, Chen Ju, Weidi Xie, Ya Zhang
+<br>
+**Institution:** Shanghai Jiao Tong University; Shanghai AI Laboratory
 
 #### Audio-visual Saliency Detection
 **[2019]**
@@ -1402,6 +1440,12 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 <br>
 **Institution:** Beihang University; Qingdao University; Chinese Academy of Medical Sciences
 
+**[2022]**
+[A Comprehensive Survey on Video Saliency Detection with Auditory Information: the Audio-visual Consistency Perceptual is the Key!](https://arxiv.org/abs/2206.13390)
+<br>
+**Authors:** Chenglizhao Chen, Mengke Song, Wenfeng Song, Li Guo, Muwei Jian
+<br>
+**Institution:** China University of Petroleum; Shandong University of Finance and Economics; Beijing Information Science and Technology University
 
 #### Audio-visual Navigation
 **[ECCV-2020]**
@@ -1453,12 +1497,19 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 <br>
 **Institution:** Tsinghua University; Xinjiang University; The University of Texas at Austin; JD Explore Academy
 
-<font color=#808080>**[CVPR-2022]**</font>
+**[CVPR-2022]**
 [Towards Generalisable Audio Representations for Audio-Visual Navigation](https://arxiv.org/abs/2206.00393)
 <br>
 **Authors:** Shunqi Mao, Chaoyi Zhang, Heng Wang, Weidong Cai
 <br>
 **Institution:** University of Sydney
+
+**[NIPS-2022]**
+[SoundSpaces 2.0: A Simulation Platform for Visual-Acoustic Learning](https://arxiv.org/abs/2206.08312v1)
+<br>
+**Authors:** Changan Chen, Carl Schissler, Sanchit Garg, Philip Kobernik, Alexander Clegg, Paul
+<br>
+**Institution:** The University of Texas at Austin; Reality Labs at Meta; Georgia Tech; Meta AI
 
 ### Audio-visual Event Localization and Parsing
 #### Localization
@@ -1573,6 +1624,12 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 <br>
 **Institution:** Renmin University of China; Beijing Key Laboratory of Big Data Management and Analysis Methods; University of Rochester
 
+**[NIPS-2022]**
+[Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners](https://arxiv.org/abs/2205.10747)
+<br>
+**Authors:** Zhenhailong Wang, Manling Li, Ruochen Xu, Luowei Zhou, Jie Lei, Xudong Lin ·  Shuohang Wang · Ziyi Yang · Chenguang Zhu · Derek Hoiem · Shih-Fu Chang · Mohit Bansal · Heng Ji
+<br>
+**Institution:** University of Illinois at Urbana-Champaign; MSR; The University of North Carolina at Chapel Hill; Columbia University
 
 #### Dialog
 **[CVPR-2019]**
@@ -1616,6 +1673,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Ankit Shah, Shijie Geng, Peng Gao, Anoop Cherian, Takaaki Hori, Tim K. Marks, Jonathan Le Roux, Chiori Hori
 <br>
 **Institution:** Mitsubishi Electric Research Laboratories; Carnegie Mellon University; Rutgers University; The Chinese University of Hong Kong
+
+**[CVPR-2019]**
+[Exploring Context, Attention and Audio Features for Audio Visual Scene-Aware Dialog](https://arxiv.org/abs/1912.10132)
+<br>
+**Authors:** Shachi H Kumar, Eda Okur, Saurav Sahay, Jonathan Huang, Lama Nachman
+<br>
+**Institution:** Anticipatory Computing Lab
 
 ## Datasets
 
