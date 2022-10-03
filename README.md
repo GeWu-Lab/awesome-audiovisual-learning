@@ -189,6 +189,13 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 **Institution:** Interdisciplinary Innovation Research Institute, Zhejiang Lab; Dalhousie University; University of Electronic 
 Science and Technology of China; Zhejiang University
 
+**[2022]**
+[Unsupervised active speaker detection in media content using cross-modal information](https://arxiv.org/abs/2209.11896)
+<br>
+**Authors:** Rahul Sharma, Shrikanth Narayanan
+<br>
+**Institution:** University of Southern California
+
 #### Action Recognition
 **[IJCNN-2016]**
 [Exploring Multimodal Video Representation For Action Recognition](https://ieeexplore.ieee.org/abstract/document/7727435)
@@ -1194,6 +1201,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** KDDI Research, Inc.; National Institute of Informatics, SOKENDAI
 
+**[NeurIPS-2022]**
+[Text-Adaptive Multiple Visual Prototype Matching for Video-Text Retrieval](https://arxiv.org/abs/2209.13307)
+<br>
+**Authors:** Chengzhi Lin, Ancong Wu, Junwei Liang, Jun Zhang, Wenhang Ge, Wei-Shi Zheng, Chunhua Shen
+<br>
+**Institution:** Sun Yat-sen University; The Hong Kong university of Science and Technology; Tencent Youtu Lab; Zhejiang University
+
 [Back to Top](#top)
 ## Audio-visual Collaboration
 
@@ -1606,7 +1620,12 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 <br>
 **Institution:** Harbin Institute of Technology; Wireless Technology Lab
 
-
+**[ECCV-2022]**
+[Joint-Modal Label Denoising for Weakly-Supervised Audio-Visual Video Parsing](https://arxiv.org/pdf/2204.11573)
+<br>
+**Authors:** Haoyue Cheng, Zhaoyang Liu, Hang Zhou, Chen Qian, Wayne Wu, Limin Wang
+<br>
+**Institution:** Nanjing University; SenseTime Research; The Chinese University of Hong Kong; Shanghai AI Laboratory
 
 ### Audio-visual Question Answering and Dialog
 #### Question Answering
@@ -1680,6 +1699,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Shachi H Kumar, Eda Okur, Saurav Sahay, Jonathan Huang, Lama Nachman
 <br>
 **Institution:** Anticipatory Computing Lab
+
+**[WACV-2022]**
+[QUALIFIER: Question-Guided Self-Attentive Multimodal Fusion Network for Audio Visual Scene-Aware Dialog](https://ieeexplore.ieee.org/document/9706866)
+<br>
+**Authors:** Muchao Ye;Quanzeng You;Fenglong Ma
+<br>
+**Institution:** University Park; Microsoft Azure Computer Vision
 
 ## Datasets
 
