@@ -76,7 +76,7 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Institution:** Imperial College London; University of Twente
 
-**[IEEE Transactions on Pattern Analysis and Machine Intelligence-2018]**
+**[IEEE TPAMI-2018]**
 [Deep Audio-visual Speech Recognition](https://ieeexplore.ieee.org/abstract/document/8585066)
 <br>
 **Authors:** Triantafyllos Afouras, Joon Son Chung, Andrew Senior, Oriol Vinyals, Andrew Zisserman
@@ -90,7 +90,7 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Institution:** Peking University
 
-**[IEEE Transactions on Neural Networks and Learning Systems-2022]**
+**[IEEE TNNLS-2022]**
 [Multimodal Sparse Transformer Network for Audio-visual Speech Recognition](https://ieeexplore.ieee.org/abstract/document/9755926)
 <br>
 **Authors:** Qiya Song, Bin Sun, Shutao Li
@@ -132,7 +132,7 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Institution:** Toyota Technological Institute at Chicago
 #### Speaker Recognition
-**[Multimedia Tools and Applications-2016]**
+**[MTA-2016]**
 [Audio-visual Speaker Diarization Using Fisher Linear Semi-discriminant Analysis](https://link.springer.com/article/10.1007/s11042-014-2274-x)
 <br>
 **Authors:** Nikolaos Sarafianos, Theodoros Giannakopoulos, Sergios Petridis
@@ -174,7 +174,7 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Institution:** University of Illinois at Urbana-Champaign, Facebook AI Research
 
-**[IEEE/ACM Transactions on Audio, Speech, and Language Processing-2021]**
+**[IEEE/ACM TASLP-2021]**
 [Audio-visual Deep Neural Network for Robust Person Verification](https://ieeexplore.ieee.org/abstract/document/9350195)
 <br>
 **Authors:** Yanmin Qian, Zhengyang Chen, Shuai Wang
@@ -188,13 +188,6 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Institution:** Interdisciplinary Innovation Research Institute, Zhejiang Lab; Dalhousie University; University of Electronic 
 Science and Technology of China; Zhejiang University
-
-**[2022]**
-[Unsupervised active speaker detection in media content using cross-modal information](https://arxiv.org/abs/2209.11896)
-<br>
-**Authors:** Rahul Sharma, Shrikanth Narayanan
-<br>
-**Institution:** University of Southern California
 
 #### Action Recognition
 **[IJCNN-2016]**
@@ -362,14 +355,14 @@ Intelligent Networks and Network Security
 <br>
 **Institution:** Southwest Jiaotong University; Southwestern University of Finance and Economics; Tencent; University of Electronic Science and Technology of China; Nanyang Technological University
 
-**[IEEE Transactions on Affective Computing-2021]**
+**[IEEE TAC-2021]**
 [Multi-modal Sarcasm Detection and Humor Classification in Code-mixed Conversations](https://ieeexplore.ieee.org/abstract/document/9442359)
 <br>
 **Authors:** Manjot Bedi, Shivani Kumar, Md Shad Akhtar, Tanmoy Chakraborty
 <br>
 **Institution:** Indraprastha Institute of Information Technology, Delhi
 
-<font color=#808080>**[CVPR-2022]**</font>
+**[CVPR-2022]**
 [M2FNet: Multi-modal Fusion Network for Emotion Recognition in Conversation](https://arxiv.org/abs/2206.02187)
 <br>
 **Authors:** Vishal Chudasama, Purbayan Kar, Ashish Gudmalwar, Nirmesh Shah, Pankaj Wasnik, Naoyuki Onoe
@@ -394,7 +387,7 @@ Intelligent Networks and Network Security
 <br>
 **Institution:** University of Oxford
 
-**[IEEE Transactions on Emerging Topics in Computational Intelligence-2018]**
+**[IEEE TETCI-2018]**
 [Audio-Visual Speech Enhancement Using Multimodal Deep Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/8323326)
 <br>
 **Authors:** 
@@ -595,7 +588,7 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 <br>
 **Institution:** University of Bern
 
-**[IEEE Transactions on Circuits and Systems for Video Technology-2021]**
+**[IEEE TCSVT-2021]**
 [Appearance Matters, So Does Audio: Revealing the Hidden Face via Cross-Modality Transfer](https://ieeexplore.ieee.org/abstract/document/9349088)
 <br>
 **Authors:** 
@@ -653,7 +646,7 @@ Chenqi Kong, Baoliang Chen, Wenhan Yang, Haoliang Li, Peilin Chen, Shiqi Wang
 <br>
 **Institution:** Netaji Subhas Institute of Technology; Adobe Research; National University of Singapore; Delhi Technological University
 
-**[IEEE Transactions on Cybernetics-2022]**
+**[IEEE TCYB-2022]**
 [End-to-End Video-to-Speech Synthesis Using Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/9760273)
 <br>
 **Authors:** Rodrigo Mira, Konstantinos Vougioukas, Pingchuan Ma, Stavros Petridis, Bj?rn W. Schuller, Maja Pantic
@@ -661,7 +654,7 @@ Chenqi Kong, Baoliang Chen, Wenhan Yang, Haoliang Li, Peilin Chen, Shiqi Wang
 **Institution:** Imperial College London; University of Augsburg; Meta AI
 
 ##### Music
-**[IEEE Transactions on Multimedia-2015]**
+**[IEEE TMM-2015]**
 [Real-Time Piano Music Transcription Based on Computer Vision](https://ieeexplore.ieee.org/abstract/document/7225173)
 <br>
 **Authors:** Mohammad Akbari, Howard Cheng
@@ -736,7 +729,7 @@ Zeren Jiang, Si Liu, Zhaokai Wang, Leyan Zhu, Zexin He, Hongming Liu, Shuicheng 
 <br>
 **Institution:** University of North Carolina at Chapel Hill; Adobe Research
 
-**[IEEE Transactions on Image Processing-2020]**
+**[IEEE TIP-2020]**
 [Generating Visually Aligned Sound From Videos](https://ieeexplore.ieee.org/abstract/document/9151258)
 <br>
 **Authors:** 
@@ -753,7 +746,7 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 
 
 #### Spatial Sound Generation
-**[ACM Transactions on Graphics-2018]**
+**[ACM TOG-2018]**
 [Scene-aware audio for 360° videos](https://dl.acm.org/doi/abs/10.1145/3197517.3201391)
 <br>
 **Authors:** Dingzeyu Li, Timothy R.Langlois, Changxi Zheng
@@ -812,7 +805,7 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 
 #### Video Generation
 ##### talking face
-**[ACM Transactions on Graphics-2017]**
+**[ACM TOG-2017]**
 [Synthesizing Obama: learning lip sync from audio](https://dl.acm.org/doi/abs/10.1145/3072959.3073640)
 <br>
 **Authors:** Supasorn Suwajanakorn, Steven Maxwell Seitz, Ira Kemelmacher-Shlizerman
@@ -826,7 +819,7 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** University of Rochester
 
-**[International Journal of Computer Vision-2019]**
+**[IJCV-2019]**
 [You Said That?: Synthesising Talking Faces from Audio](https://link.springer.com/article/10.1007/s11263-019-01150-y)
 <br>
 **Authors:** Amir Jamaludin, Joon Son Chung, Andrew Zisserman
@@ -840,21 +833,21 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Samsung AI Center; Skolkovo Institute of Science and Technology
 
-**[International Journal of Computer Vision-2020]**
+**[IJCV-2020]**
 [Realistic Speech-Driven Facial Animation with GANs](https://link.springer.com/article/10.1007/s11263-019-01251-8)
 <br>
 **Authors:** Konstantinos Vougioukas, Stavros Petridis, Maja Pantic
 <br>
 **Institution:** Imperial College London; Samsung AI Research Centre Cambridge
 
-**[International Journal of Computer Vision-2020]**
+**[IJCV-2020]**
 [GANimation: One-Shot Anatomically Consistent Facial Animation](https://link.springer.com/article/10.1007/s11263-019-01210-3)
 <br>
 **Authors:** Albert Pumarola, Antonio Agudo, Aleix M. Martinez, Alberto Sanfeliu, Francesc Moreno-Noguer
 <br>
 **Institution:** Institut de Robòtica i Informàtica Industrial; The Ohio State University
 
-**[ACM Transactions on Graphics-2020]**
+**[ACM TOG-2020]**
 [Makelttalk: Speaker-Aware Talking-Head Animation](https://dl.acm.org/doi/abs/10.1145/3414685.3417774)
 <br>
 **Authors:** Yang Zhou, Xintong Han, Eli Shechtman, Jose Echevarria, Evangelos Kalogerakis, Dingzeyu Li
@@ -910,7 +903,7 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Nanjing University; The Chinese University of Hong Kong; The University of Sydney; SenseTime Research; Nanyang Technological University; Tsinghua University
 
-<font color=#808080>**[AAAI-2022]**</font>
+**[AAAI-2022]**
 [One-shot Talking Face Generation from Single-speaker Audio-Visual Correlation Learning](https://arxiv.org/abs/2112.02749)
 <br>
 **Authors:** Suzhen Wang, Lincheng Li, Yu Ding, Xin Yu
@@ -967,7 +960,7 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Carnegie Mellon University; Seikei University
 
-**[ACM Transactions on Graphics-2020]**
+**[ACM TOG-2020]**
 [Speech Gesture Generation From The Trimodal Context Of Text, Audio, And Speaker Identity](https://dl.acm.org/doi/abs/10.1145/3414685.3417838)
 <br>
 **Authors:** Youngwoo Yoon, Bok Cha, Joo-Haeng Lee, Minsu Jang, Jaeyeon Lee, Jaehong Kim, Geehyuk Lee
@@ -1173,14 +1166,14 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** National Institute of Informatics
 
-**[ACM Transactions on Multimedia Computing, Communications, and Applications-2020]**
+**[TOMCCAP-2020]**
 [Deep Triplet Neural Networks with Cluster-CCA for Audio-Visual Cross-Modal Retrieval](https://dl.acm.org/doi/abs/10.1145/3387164)
 <br>
 **Authors:** Donghuo Zeng, Yi Yu, Keizo Oyama
 <br>
 **Institution:** National Institute of Informatics
  
-**[IEEE Transactions on Geoscience and Remote Sensing-2020]**
+**[IEEE TGRS-2020]**
 [Deep Cross-Modal Image–Voice Retrieval in Remote Sensing](https://ieeexplore.ieee.org/abstract/document/9044618)
 <br>
 **Authors:** Yaxiong Chen, Xiaoqiang Lu, Shuai Wang
@@ -1200,13 +1193,6 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Authors:** Donghuo Zeng, Jianming Wu, Gen Hattori, Yi Yu, Rong Xu
 <br>
 **Institution:** KDDI Research, Inc.; National Institute of Informatics, SOKENDAI
-
-**[NeurIPS-2022]**
-[Text-Adaptive Multiple Visual Prototype Matching for Video-Text Retrieval](https://arxiv.org/abs/2209.13307)
-<br>
-**Authors:** Chengzhi Lin, Ancong Wu, Junwei Liang, Jun Zhang, Wenhang Ge, Wei-Shi Zheng, Chunhua Shen
-<br>
-**Institution:** Sun Yat-sen University; The Hong Kong university of Science and Technology; Tencent Youtu Lab; Zhejiang University
 
 [Back to Top](#top)
 ## Audio-visual Collaboration
@@ -1347,7 +1333,7 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Massachusetts Institute of Technology; MIT-IBM Watson AI Lab; Columbia University
 
-**[IEEE Transactions on Pattern Analysis and Machine Intelligence-2021]**
+**[IEEE TPAMI-2021]**
 [Learning to Localize Sound Sources in Visual Scenes: Analysis and Applications](https://ieeexplore.ieee.org/abstract/document/8894565/)
 <br>
 **Authors:** Arda Senocak, Tae-Hyun Oh, Junsik Kim, Ming-Hsuan Yang, In So Kweon
@@ -1382,7 +1368,7 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** University of Oxford
 
-**[IEEE Transactions on Pattern Analysis and Machine Intelligence-2021]**
+**[IEEE TPAMI-2021]**
 [Class-aware Sounding Objects Localization via Audiovisual Correspondence](https://ieeexplore.ieee.org/abstract/document/9662191/)
 <br>
 **Authors:** Di Hu, Yake Wei, Rui Qian, Weiyao Lin, Ruihua Song, Ji-Rong Wen
@@ -1432,7 +1418,7 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** National Technical University of Athens
 
-**[IEEE Transactions on Image Processing-2020]**
+**[IEEE TIP-2020]**
 [A Multimodal Saliency Model for Videos With High Audio-visual Correspondence](https://ieeexplore.ieee.org/abstract/document/8962278/)
 <br>
 **Authors:** 
@@ -1460,6 +1446,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Chenglizhao Chen, Mengke Song, Wenfeng Song, Li Guo, Muwei Jian
 <br>
 **Institution:** China University of Petroleum; Shandong University of Finance and Economics; Beijing Information Science and Technology University
+
+**[TOMCCAP-2022]**
+[PAV-SOD: A New Task Towards Panoramic Audiovisual Saliency Detection](https://dl.acm.org/doi/abs/10.1145/3565267)
+<br>
+**Authors:** Yi Zhang, Fang-Yi Chao, Wassim Hamidouche, Olivier Deforges
+<br>
+**Institution:** University Rennes; Institut National des Sciences Appliquées Rennes; Centre national de la recherche scientifique; Trinity College Dublin
 
 #### Audio-visual Navigation
 **[ECCV-2020]**
