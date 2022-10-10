@@ -131,6 +131,13 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 **Authors:** Wei-Ning Hsu, Bowen Shi
 <br>
 **Institution:** Toyota Technological Institute at Chicago
+
+**[ITOEC-2022]**
+[FSMS: An Enhanced Polynomial Sampling Fusion Method for Audio-Visual Speech Recognition](https://ieeexplore.ieee.org/document/9734622)
+<br>
+**Authors:** Chenghan Li; Yuxin Zhang; Huaichang Du
+<br>
+**Institution:** Communication University of China
 #### Speaker Recognition
 **[MTA-2016]**
 [Audio-visual Speaker Diarization Using Fisher Linear Semi-discriminant Analysis](https://link.springer.com/article/10.1007/s11042-014-2274-x)
@@ -493,6 +500,12 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 <br>
 **Institution:** University of Oxford; Naver Corporation
 
+**[CVPR-2022]**
+[Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis](https://arxiv.org/abs/2203.17263)
+<br>
+**Authors:** Karren Yang, Dejan Marković, Steven Krenn, Vasu Agrawal, Alexander Richard
+<br>
+**Institution:** Massachusetts Institute of Technology; Meta Reality Labs Research
 #### Object Sound Separation
 
 **[ECCV-2018]**
@@ -596,7 +609,12 @@ Chenqi Kong, Baoliang Chen, Wenhan Yang, Haoliang Li, Peilin Chen, Shiqi Wang
 <br>
 **Institution:** City University of Hong Kong; Nanyang Technological University
 
-
+**[CVPR-2022]**
+[Deep Video Inpainting Guided by Audio-Visual Self-Supervision](https://ieeexplore.ieee.org/abstract/document/9747073/)
+<br>
+**Authors:** Kyuyeon Kim; Junsik Jung; Woo Jae Kim; Sung-Eui Yoon
+<br>
+**Institution:** Korea Advanced Institute of Science and Technology
 ## Cross-modal Perception
 
 ### Cross-modal Generation
@@ -1403,6 +1421,12 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Shanghai Jiao Tong University; Shanghai AI Laboratory
 
+**[CVPR-2022]**
+[Self-Supervised Predictive Learning: A Negative-Free Method for Sound Source Localization in Visual Scenes](https://arxiv.org/abs/2203.13412v1)
+<br>
+**Authors:** Zengjie Song, Yuxi Wang, Junsong Fan, Tieniu Tan, Zhaoxiang Zhang
+<br>
+**Institution:** Chinese Academy of Science; University of Chinese Academy of Sciences
 #### Audio-visual Saliency Detection
 **[2019]**
 [DAVE: A Deep Audio-Visual Embedding for Dynamic Saliency Prediction](https://arxiv.org/abs/1905.10693)
@@ -1453,6 +1477,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Yi Zhang, Fang-Yi Chao, Wassim Hamidouche, Olivier Deforges
 <br>
 **Institution:** University Rennes; Institut National des Sciences Appliquées Rennes; Centre national de la recherche scientifique; Trinity College Dublin
+
+**[ICME-2021]**
+[Lavs: A Lightweight Audio-Visual Saliency Prediction Model](https://ieeexplore.ieee.org/document/9428415)
+<br>
+**Authors:** Dandan Zhu; Defang Zhao; Xiongkuo Min; Tian Han; Qiangqiang Zhou; Shaobo Yu; Yongqing Chen; Guangtao Zhai; Xiaokang Yang
+<br>
+**Institution:** Shanghai Jiao Tong University; Tongji University; Stevens Institute of Technology; Jiangxi Normal University; East China Normal University; Hainan University
 
 #### Audio-visual Navigation
 **[ECCV-2020]**
@@ -1576,6 +1607,19 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 <br>
 **Institution:** Zhejiang University
 
+**[AIKE-2021]**
+[Audio-Visual Event Localization based on Cross-Modal Interacting Guidance](https://ieeexplore.ieee.org/document/9723768)
+<br>
+**Authors:** Qiurui Yue; Xiaoyu Wu; Jiayi Gao
+<br>
+**Institution:** Communication University of China
+
+**[ICASSSP-2022]**
+[Bi-Directional Modality Fusion Network For Audio-Visual Event Localization](https://ieeexplore.ieee.org/abstract/document/9746280/)
+<br>
+**Authors:** Shuo Liu; Weize Quan; Yuan Liu; Dong-Ming Yan
+<br>
+**Institution:** Chinese Academy of Sciences; Alibaba Group
 
 #### Parsing
 **[ECCV-2020]**
