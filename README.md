@@ -111,7 +111,7 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Institution:** the Chinese University of Hong Kong
 
-**[Interspeech 2022]**
+**[Interspeech-2022]**
 [Visual Context-driven Audio Feature Enhancement for Robust End-to-End Audio-Visual Speech Recognition](https://arxiv.org/abs/2207.06020)
 <br>
 **Authors:** Joanna Hong, Minsu Kim, Daehun Yoo, Yong Man Ro
@@ -138,6 +138,14 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 **Authors:** Chenghan Li; Yuxin Zhang; Huaichang Du
 <br>
 **Institution:** Communication University of China
+
+**[IJCNN-2022]**
+[Continuous Phoneme Recognition based on Audio-Visual Modality Fusion](https://ieeexplore.ieee.org/document/9892053)
+<br>
+**Authors:** Julius Richter; Jeanine Liebold; Timo Gerkamnn
+<br>
+**Institution:** Universität Hamburg
+
 #### Speaker Recognition
 **[MTA-2016]**
 [Audio-visual Speaker Diarization Using Fisher Linear Semi-discriminant Analysis](https://link.springer.com/article/10.1007/s11042-014-2274-x)
@@ -376,6 +384,19 @@ Intelligent Networks and Network Security
 <br>
 **Institution:** Sony Research India
 
+**[CCC-2022]**
+[A Multimodal Emotion Perception Model based on Context-Aware Decision-Level Fusion](https://ieeexplore.ieee.org/document/9902799)
+<br>
+**Authors:** Yishan Chen; Zhiyang Jia; Kaoru Hirota; Yaping Dai
+<br>
+**Institution:** Beijing Institute of Technology; State Key Laboratory of Intelligent Control and Decision of Complex Systems
+
+**[IJCNN-2022]**
+[Sense-aware BERT and Multi-task Fine-tuning for Multimodal Sentiment Analysis](https://ieeexplore.ieee.org/document/9892116/)
+<br>
+**Authors:** Lingyong Fang, Gongshen Liu, Ru Zhang
+<br>
+**Institution:** Shanghai Jiao Tong University; Beijing University Posts and Telecommunications
 ### Uni-modal Enhancement
 
 #### Speech Enhancement and Separation
@@ -1427,6 +1448,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Authors:** Zengjie Song, Yuxi Wang, Junsong Fan, Tieniu Tan, Zhaoxiang Zhang
 <br>
 **Institution:** Chinese Academy of Science; University of Chinese Academy of Sciences
+
+**[CVPR-2022]**
+[Self-supervised object detection from audio-visual correspondence](https://ieeexplore.ieee.org/document/9879445/)
+<br>
+**Authors:** Triantafyllos Afouras; Yuki M. Asano; Francois Fagan; Andrea Vedaldi; Florian Metze
+<br>
+**Institution:** University of Oxford; University of Amsterdam; Meta AI
 #### Audio-visual Saliency Detection
 **[2019]**
 [DAVE: A Deep Audio-Visual Embedding for Dynamic Saliency Prediction](https://arxiv.org/abs/1905.10693)
@@ -1614,13 +1642,26 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 <br>
 **Institution:** Communication University of China
 
-**[ICASSSP-2022]**
+**[ICASSP-2022]**
 [Bi-Directional Modality Fusion Network For Audio-Visual Event Localization](https://ieeexplore.ieee.org/abstract/document/9746280/)
 <br>
 **Authors:** Shuo Liu; Weize Quan; Yuan Liu; Dong-Ming Yan
 <br>
 **Institution:** Chinese Academy of Sciences; Alibaba Group
 
+**[ICSIP-2022]**
+[Audio-Visual Event and Sound Source Localization Based on Spatial-Channel Feature Fusion](https://ieeexplore.ieee.org/document/9886106/)
+<br>
+**Authors:** Xiaolong Zheng, Ying Wei
+<br>
+**Institution:** Shandong University
+
+**[IJCNN-2022]**
+[Look longer to see better: Audio-visual event localization by exploiting long-term correlation](https://ieeexplore.ieee.org/document/9892495/)
+<br>
+**Authors:** Longyin Guo, Qijun Zhao, Hongmei Gao
+<br>
+**Institution:** Sichuan University; Tibet University
 #### Parsing
 **[ECCV-2020]**
 [Unified Multisensory Perception: Weakly-Supervised Audio-Visual Video Parsing](https://link.springer.com/chapter/10.1007/978-3-030-58580-8_26)
