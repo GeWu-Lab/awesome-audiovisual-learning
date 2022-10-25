@@ -146,6 +146,13 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Institution:** Universität Hamburg
 
+**[ICIP-2022]**
+[Learning Contextually Fused Audio-Visual Representations For Audio-Visual Speech Recognition](https://ieeexplore.ieee.org/document/9897235/)
+<br>
+**Authors:** Zi-Qiang Zhang, Jie Zhang, Jian-Shu Zhang, Ming-Hui Wu, Xin Fang, Li-Rong Dai
+<br>
+**Institution:** University of Science and Technology of China; Chinese Academy of Sciences; iFlytek Co., Ltd.
+
 #### Speaker Recognition
 **[MTA-2016]**
 [Audio-visual Speaker Diarization Using Fisher Linear Semi-discriminant Analysis](https://link.springer.com/article/10.1007/s11042-014-2274-x)
@@ -203,6 +210,13 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Institution:** Interdisciplinary Innovation Research Institute, Zhejiang Lab; Dalhousie University; University of Electronic 
 Science and Technology of China; Zhejiang University
+
+**[EUVIP-2022]**
+[Active Speaker Recognition using Cross Attention Audio-Video Fusion](https://ieeexplore.ieee.org/document/9922810/)
+<br>
+**Authors:** Bogdan Mocanu, Tapu Ruxandra
+<br>
+**Institution:** University "Politehnica" of Bucharest; Télécom SudParis
 
 #### Action Recognition
 **[IJCNN-2016]**
@@ -612,6 +626,13 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 **Authors:** Efthymios Tzinis, Scott Wisdom, Tal Remez, John R. Hershey
 <br>
 **Institution:** Google Research; University of Illinois Urbana-Champaign
+
+**[ICIP-2022]**
+[Visual Sound Source Separation with Partial Supervision Learning](https://ieeexplore.ieee.org/document/9897739/)
+<br>
+**Authors:** Huasen Wang, Lingling Gao, Qianchao Tan, Luping Ji
+<br>
+**Institution:** University of Electronic Science and Technology of China
 
 #### Face Super-resolution and Reconstruction
 
@@ -1233,6 +1254,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** KDDI Research, Inc.; National Institute of Informatics, SOKENDAI
 
+**[ICCV-2021]**
+[Temporal Cue Guided Video Highlight Detection With Low-Rank Audio-Visual Fusion](https://ieeexplore.ieee.org/document/9710903/)
+<br>
+**Authors:** Qinghao Ye, Xiyue Shen, Yuan Gao, Zirui Wang, Qi Bi, Ping Li, Guang Yang
+<br>
+**Institution:** Hangzhou Dianzi University; University of California; East China Normal University; University of Oxford; Wuhan University; Imperial College London
+
 [Back to Top](#top)
 ## Audio-visual Collaboration
 
@@ -1455,6 +1483,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Authors:** Triantafyllos Afouras; Yuki M. Asano; Francois Fagan; Andrea Vedaldi; Florian Metze
 <br>
 **Institution:** University of Oxford; University of Amsterdam; Meta AI
+
+**[EUSIPCO-2022]**
+[Visually Assisted Self-supervised Audio Speaker Localization and Tracking](https://ieeexplore.ieee.org/document/9909535/)
+<br>
+**Authors:** Jinzheng Zhao, Peipei Wu, Shidrokh Goudarzi, Xubo Liu, Jianyuan Sun, Yong Xu, Wenwu Wang
+<br>
+**Institution:** University of Surrey; Tencent AI Lab, Bellevue
 #### Audio-visual Saliency Detection
 **[2019]**
 [DAVE: A Deep Audio-Visual Embedding for Dynamic Saliency Prediction](https://arxiv.org/abs/1905.10693)
@@ -1662,6 +1697,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Longyin Guo, Qijun Zhao, Hongmei Gao
 <br>
 **Institution:** Sichuan University; Tibet University
+
+**[EUSIPCO-2022]**
+[Audio Visual Graph Attention Networks for Event Detection in Sports Video](https://ieeexplore.ieee.org/document/9909552/)
+<br>
+**Authors:** Taichi Ishiwatari, Makiko Azuma, Takuya Handa, Masaki Takahashi, Takahiro Mochizuki, Masanori Sano
+<br>
+**Institution:** Science and Technology Research Laboratories, NHK; Tokyo Institute of Technology
 #### Parsing
 **[ECCV-2020]**
 [Unified Multisensory Perception: Weakly-Supervised Audio-Visual Video Parsing](https://link.springer.com/chapter/10.1007/978-3-030-58580-8_26)
