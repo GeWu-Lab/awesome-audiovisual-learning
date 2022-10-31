@@ -391,6 +391,13 @@ Intelligent Networks and Network Security
 <br>
 **Institution:** Indraprastha Institute of Information Technology, Delhi
 
+**[IEEE SLT-2021]**
+[Detecting expressions with multimodal transformers](https://ieeexplore.ieee.org/document/9383573)
+<br>
+**Authors:** Srinivas Parthasarathy, Shiva Sundaram
+<br>
+**Institution:** Amazon
+
 **[CVPR-2022]**
 [M2FNet: Multi-modal Fusion Network for Emotion Recognition in Conversation](https://arxiv.org/abs/2206.02187)
 <br>
@@ -804,6 +811,12 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Tampere University
 
+**[IEEE TCSVT-2022]**
+[Towards an End-to-End Visual-to-Raw-Audio Generation With GAN](https://ieeexplore.ieee.org/document/9430540)
+<br>
+**Authors:** Shiguang Liu; Sijia Li; Haonan Cheng
+<br>
+**Institution:** Tianjin University
 
 #### Spatial Sound Generation
 **[ACM TOG-2018]**
@@ -854,6 +867,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Authors:** Yan-Bo Lin, Yu-Chiang Frank Wang
 <br>
 **Institution:** National Taiwan University; ASUS Intelligent Cloud Services
+
+**[TOG-2021]**
+[Binaural Audio Generation via Multi-task Learning](https://arxiv.org/abs/2109.00748)
+<br>
+**Authors:** Sijia Li, Shiguang Liu, Dinesh Manocha
+<br>
+**Institution:** Tianjin University; University of Maryland at College Park
 
 **[WACV-2022]**
 [Beyond Mono to Binaural: Generating Binaural Audio From Mono Audio With Depth and Cross Modal Attention](https://openaccess.thecvf.com/content/WACV2022/html/Parida_Beyond_Mono_to_Binaural_Generating_Binaural_Audio_From_Mono_Audio_WACV_2022_paper.html)
@@ -969,6 +989,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Authors:** Suzhen Wang, Lincheng Li, Yu Ding, Xin Yu
 <br>
 **Institution:** Netease Fuxi AI Lab; University of Technology Sydney
+
+**[TVCG-2022]**
+[Generating talking face with controllable eye movements by disentangled blinking feature](https://ieeexplore.ieee.org/document/9858334/)
+<br>
+**Authors:** Shiguang Liu, Jiaqi Hao
+<br>
+**Institution:** Tianjin University
 
 #### Gesture
 **[IVA-2018]**
@@ -1799,12 +1826,33 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 <br>
 **Institution:** Technion; University of Illinois at Urbana-Champaign
 
+**[CVPR-2019]**
+[Exploring Context, Attention and Audio Features for Audio Visual Scene-Aware Dialog](https://arxiv.org/abs/1912.10132)
+<br>
+**Authors:** Shachi H Kumar, Eda Okur, Saurav Sahay, Jonathan Huang, Lama Nachman
+<br>
+**Institution:** Anticipatory Computing Lab
+
+**[2020]**
+[TMT: A Transformer-based Modal Translator for Improving Multimodal Sequence Representations in Audio Visual Scene-aware Dialog](https://arxiv.org/abs/2010.10839)
+<br>
+**Authors:** Wubo Li, Dongwei Jiang, Wei Zou, Xiangang Li
+<br>
+**Institution:** Didi Chuxing
+
 **[AAAI-2021]**
 [Dynamic Graph Representation Learning for Video Dialog via Multi-Modal Shuffled Transformers](https://ojs.aaai.org/index.php/AAAI/article/view/16231)
 <br>
 **Authors:** Shijie Geng, Peng Gao, Moitreya Chatterjee, Chiori Hori, Jonathan Le Roux, Yongfeng Zhang, Hongsheng Li, Anoop Cherian
 <br>
 **Institution:** Rutgers University; The Chinese University of Hong Kong; University of Illinois at Urbana Champaign; Mitsubishi Electric Research Laboratories
+
+**[2021]**
+[VX2TEXT: End-to-End Learning of Video-Based Text Generation From Multimodal Inputs](https://arxiv.org/abs/2101.12059)
+<br>
+**Authors:** Xudong Lin, Gedas Bertasius, Jue Wang, Shih-Fu Chang, Devi Parikh, Lorenzo Torresani
+<br>
+**Institution:** Columbia University; Facebook AI; Georgia Tech; Dartmouth
 
 **[ICASSP-2022]**
 [Audio-Visual Scene-Aware Dialog and Reasoning Using Audio-Visual Transformers with Joint Student-Teacher Learning](https://ieeexplore.ieee.org/abstract/document/9746481)
@@ -1813,13 +1861,6 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 <br>
 **Institution:** Mitsubishi Electric Research Laboratories; Carnegie Mellon University; Rutgers University; The Chinese University of Hong Kong
 
-**[CVPR-2019]**
-[Exploring Context, Attention and Audio Features for Audio Visual Scene-Aware Dialog](https://arxiv.org/abs/1912.10132)
-<br>
-**Authors:** Shachi H Kumar, Eda Okur, Saurav Sahay, Jonathan Huang, Lama Nachman
-<br>
-**Institution:** Anticipatory Computing Lab
-
 **[WACV-2022]**
 [QUALIFIER: Question-Guided Self-Attentive Multimodal Fusion Network for Audio Visual Scene-Aware Dialog](https://ieeexplore.ieee.org/document/9706866)
 <br>
@@ -1827,6 +1868,12 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 <br>
 **Institution:** University Park; Microsoft Azure Computer Vision
 
+**[TACL-2022]**
+[Learning English with Peppa Pig](https://arxiv.org/abs/2202.12917)
+<br>
+**Authors:** Mitja Nikolaus, Afra Alishahi, Grzegorz Chrupała
+<br>
+**Institution:** Aix-Marseille University; Tilburg University
 ## Datasets
 
 | Dataset | Year | Videos | Length  | Data form | Video source            | Task                                               
