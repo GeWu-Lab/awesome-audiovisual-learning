@@ -818,6 +818,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Tianjin University
 
+**[2022]**
+[I Hear Your True Colors: Image Guided Audio Generation](https://arxiv.org/abs/2211.03089)
+<br>
+**Authors:** Roy Sheffer, Yossi Adi
+<br>
+**Institution:** The Hebrew University of Jerusalem
+
 #### Spatial Sound Generation
 **[ACM TOG-2018]**
 [Scene-aware audio for 360° videos](https://dl.acm.org/doi/abs/10.1145/3197517.3201391)
@@ -1061,6 +1068,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Alibaba; University of Technology Sydney; Zhejiang University 
 
+**[IEEE TNNLS-2022]**
+[VAG: A Uniform Model for Cross-Modal Visual-Audio Mutual Generation](https://ieeexplore.ieee.org/document/9753685)
+<br>
+**Authors:** Wangli Hao; He Guan; Zhaoxiang Zhang
+<br>
+**Institution:** Chinese Academy of Sciences; University of Chinese Academy of Sciences
+
 ##### Dance
 **[MM-2018]**
 [Dance with Melody: An LSTM-autoencoder Approach to Music-oriented Dance Synthesis](https://dl.acm.org/doi/abs/10.1145/3240508.3240526)
@@ -1288,6 +1302,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Hangzhou Dianzi University; University of California; East China Normal University; University of Oxford; Wuhan University; Imperial College London
 
+**[IEEE ISM-2022]**
+[Complete Cross-triplet Loss in Label Space for Audio-visual Cross-modal Retrieval](https://arxiv.org/abs/2211.03434)
+<br>
+**Authors:** Donghuo Zeng, Yanan Wang, Jianming Wu, Kazushi Ikeda
+<br>
+**Institution:** KDDI Research, Inc.
+
 [Back to Top](#top)
 ## Audio-visual Collaboration
 
@@ -1403,6 +1424,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Authors:** Yiren Jian, Chongyang Gao, Soroush Vosoughi
 <br>
 **Institution:** Dartmouth College; Northwestern University
+
+**[IEEE TMM-2022]**
+[Multimodal Information Bottleneck: Learning Minimal Sufficient Unimodal and Multimodal Representations](https://arxiv.org/abs/2210.17444)
+<br>
+**Authors:** Sijie Mai, Ying Zeng, Haifeng Hu
+<br>
+**Institution:** Sun Yat-sen University;  National Natural Science Foundation of China
 ### Audio-visual Localization
 
 #### Sound Localization in Videos
@@ -1639,6 +1667,19 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 <br>
 **Institution:** The University of Texas at Austin; Reality Labs at Meta; Georgia Tech; Meta AI
 
+**[NeurIPS-2022]**
+[AVLEN: Audio-Visual-Language Embodied Navigation in 3D Environments](https://arxiv.org/abs/2210.07940)
+<br>
+**Authors:** Sudipta Paul, Amit K. Roy-Chowdhury, Anoop Cherian
+<br>
+**Institution:** University of California; Mitsubishi Electric Research Labs, Cambridge
+
+**[BMVC-2022]**
+[Pay Self-Attention to Audio-Visual Navigation](https://arxiv.org/abs/2210.01353)
+<br>
+**Authors:** Yinfeng Yu, Lele Cao, Fuchun Sun, Xiaohong Liu, Liejun Wang
+<br>
+**Institution:** Tsinghua University; Motherbrain, EQT; Xinjiang University
 ### Audio-visual Event Localization and Parsing
 #### Localization
 **[ECCV-2018]**
