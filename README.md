@@ -548,6 +548,13 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 **Authors:** Karren Yang, Dejan Marković, Steven Krenn, Vasu Agrawal, Alexander Richard
 <br>
 **Institution:** Massachusetts Institute of Technology; Meta Reality Labs Research
+
+**[WACV-2023]**
+[BirdSoundsDenoising: Deep Visual Audio Denoising for Bird Sounds](https://arxiv.org/abs/2210.10196)
+<br>
+**Authors:** Youshan Zhang, Jialu Li
+<br>
+**Institution:** Yeshiva University; Cornell University
 #### Object Sound Separation
 
 **[ECCV-2018]**
@@ -664,6 +671,13 @@ Chenqi Kong, Baoliang Chen, Wenhan Yang, Haoliang Li, Peilin Chen, Shiqi Wang
 **Authors:** Kyuyeon Kim; Junsik Jung; Woo Jae Kim; Sung-Eui Yoon
 <br>
 **Institution:** Korea Advanced Institute of Science and Technology
+
+**[WACV-2023]**
+[Audio-Visual Face Reenactment](https://arxiv.org/abs/2210.02755)
+<br>
+**Authors:** Madhav Agarwal, Rudrabha Mukhopadhyay, Vinay Namboodiri, C V Jawahar
+<br>
+**Institution:** International Institute of Information Technology, Hyderabad
 ## Cross-modal Perception
 
 ### Cross-modal Generation
@@ -719,6 +733,13 @@ Chenqi Kong, Baoliang Chen, Wenhan Yang, Haoliang Li, Peilin Chen, Shiqi Wang
 **Authors:** Rodrigo Mira, Konstantinos Vougioukas, Pingchuan Ma, Stavros Petridis, Bj?rn W. Schuller, Maja Pantic
 <br>
 **Institution:** Imperial College London; University of Augsburg; Meta AI
+
+**[ICASSP-2021]**
+[Learning Audio-Visual Correlations From Variational Cross-Modal Generation](https://ieeexplore.ieee.org/document/9414296)
+<br>
+**Authors:** Ye Zhu, Yu Wu, Hugo Latapie, Yi Yang, Yan Yan
+<br>
+**Institution:** Illinois Institute of Technology; University of Technology Sydney; Cisco
 
 ##### Music
 **[IEEE TMM-2015]**
@@ -781,6 +802,12 @@ Zeren Jiang, Si Liu, Zhaokai Wang, Leyan Zhu, Zexin He, Hongming Liu, Shuicheng 
 <br>
 **Institution:** Beihang University; Charterhouse School, Godalming, Surrey; Sea AI Lab
 
+**[2022]**
+[Vis2Mus: Exploring Multimodal Representation Mapping for Controllable Music Generation](https://arxiv.org/abs/2211.05543)
+<br>
+**Authors:** Runbang Zhang, Yixiao Zhang, Kai Shao, Ying Shan, Gus Xia
+<br>
+**Institution:** New York University, Shanghai; Queen Mary University of London; Tencent Inc.; Mohamed bin Zayed University of Artificial Intelligence
 ##### Natural Sound
 **[CVPR-2016]**
 [Visually Indicated Sounds](https://openaccess.thecvf.com/content_cvpr_2016/html/Owens_Visually_Indicated_Sounds_CVPR_2016_paper.html)
@@ -1004,6 +1031,12 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Tianjin University
 
+**[AAAI-2022]**
+[SyncTalkFace: Talking Face Generation with Precise Lip-Syncing via Audio-Lip Memory](https://arxiv.org/abs/2211.00924)
+<br>
+**Authors:** Se Jin Park, Minsu Kim, Joanna Hong, Jeongsoo Choi, Yong Man Ro
+<br>
+**Institution:** Korea Advanced Institute of Science and Technology
 #### Gesture
 **[IVA-2018]**
 [Evaluation of Speech-to-Gesture Generation Using Bi-Directional LSTM Network](https://dl.acm.org/doi/abs/10.1145/3267851.3267878)
@@ -1545,6 +1578,14 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Authors:** Jinzheng Zhao, Peipei Wu, Shidrokh Goudarzi, Xubo Liu, Jianyuan Sun, Yong Xu, Wenwu Wang
 <br>
 **Institution:** University of Surrey; Tencent AI Lab, Bellevue
+
+**[WACV-2023]**
+[Hear The Flow: Optical Flow-Based Self-Supervised Visual Sound Source Localization](https://arxiv.org/abs/2211.03019)
+<br>
+**Authors:** Dennis Fedorishin, Deen Dayal Mohan, Bhavin Jawade, Srirangaraj Setlur, Venu Govindaraju
+<br>
+**Institution:** University at Buffalo
+
 #### Audio-visual Saliency Detection
 **[2019]**
 [DAVE: A Deep Audio-Visual Embedding for Dynamic Saliency Prediction](https://arxiv.org/abs/1905.10693)
@@ -1915,6 +1956,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Mitja Nikolaus, Afra Alishahi, Grzegorz Chrupała
 <br>
 **Institution:** Aix-Marseille University; Tilburg University
+
+**[2022]**
+[End-to-End Multimodal Representation Learning for Video Dialog](https://arxiv.org/abs/2210.14512)
+<br>
+**Authors:** Huda Alamri, Anthony Bilic, Michael Hu, Apoorva Beedu, Irfan Essa
+<br>
+**Institution:** Georgia Institute of Technology
 ## Datasets
 
 | Dataset | Year | Videos | Length  | Data form | Video source            | Task                                               
