@@ -1151,6 +1151,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Shanghai University; University of Chinese Academy of Sciences; JD AI Research; Fudan University
 
+**[CVPR-2022]**
+[Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory](https://arxiv.org/pdf/2203.13055.pdf)
+<br>
+**Authors:** Li Siyao, Weijiang Yu, Tianpei Gu, Chunze Lin, Quan Wang, Chen Qian, Chen Chang Loy, Ziwei Liu
+<br>
+**Institution:**  Nanyang Technological University; Sun Yat-Sen University; University of California, Los Angeles; SenseTime Research
+
 
 #### Depth Estimation
 **[ICRA-2020]**
