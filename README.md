@@ -1471,6 +1471,20 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Authors:** Sijie Mai, Ying Zeng, Haifeng Hu
 <br>
 **Institution:** Sun Yat-sen University;  National Natural Science Foundation of China
+
+**[CVPR-2022]**
+[Audiovisual Generalised Zero-shot Learning with Cross-modal Attention and Language](https://ieeexplore.ieee.org/document/9880403)
+<br>
+**Authors:** Otniel-Bogdan Mercea, Lukas Riesch, A. Sophia Koepke, Zeynep Akata
+<br>
+**Institution:** University of Tübingen; Robert Bosch GmbH; Max Planck Institute
+
+**[CVPRW-2022]**
+[Multi-task Learning for Human Affect Prediction with Auditory–Visual Synchronized Representation](https://ieeexplore.ieee.org/document/9856974)
+<br>
+**Authors:** Euiseok Jeong;, Geesung Oh, Sejoon Lim
+<br>
+**Institution:** Kookmin University
 ### Audio-visual Localization
 
 #### Sound Localization in Videos
@@ -1593,6 +1607,19 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** University at Buffalo
 
+**[CVPR-2022]**
+[Mix and Localize: Localizing Sound Sources in Mixtures](https://arxiv.org/abs/2211.15058)
+<br>
+**Authors:** Xixi Hu, Ziyang Chen, Andrew Owens
+<br>
+**Institution:** University of Michigan; The University of Texas at Austin
+
+**[2022]**
+[MarginNCE: Robust Sound Localization with a Negative Margin](https://arxiv.org/abs/2211.01966)
+<br>
+**Authors:** Sooyoung Park, Arda Senocak, Joon Son Chung
+<br>
+**Institution:** Korea Advanced Institute of Science and Technology; Electronics and Telecommunications Research Institute, South Korea
 #### Audio-visual Saliency Detection
 **[2019]**
 [DAVE: A Deep Audio-Visual Embedding for Dynamic Saliency Prediction](https://arxiv.org/abs/1905.10693)
@@ -1820,6 +1847,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Taichi Ishiwatari, Makiko Azuma, Takuya Handa, Masaki Takahashi, Takahiro Mochizuki, Masanori Sano
 <br>
 **Institution:** Science and Technology Research Laboratories, NHK; Tokyo Institute of Technology
+
+**[TMM-2021]**
+[Audio-Visual Event Localization by Learning Spatial and Semantic Co-attention]()
+<br>
+**Authors:** Cheng Xue, Xionghu Zhong, Minjie Cai, Hao Chen, Wenwu Wang
+<br>
+**Institution:** Hunan University; United Kingdom of Great Britain and Northern Ireland
 #### Parsing
 **[ECCV-2020]**
 [Unified Multisensory Perception: Weakly-Supervised Audio-Visual Video Parsing](https://link.springer.com/chapter/10.1007/978-3-030-58580-8_26)
