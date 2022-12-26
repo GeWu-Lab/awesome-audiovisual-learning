@@ -151,7 +151,21 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Authors:** Zi-Qiang Zhang, Jie Zhang, Jian-Shu Zhang, Ming-Hui Wu, Xin Fang, Li-Rong Dai
 <br>
-**Institution:** University of Science and Technology of China; Chinese Academy of Sciences; iFlytek Co., Ltd.
+**Institution:** University of Science and Technology of China; Chinese Academy of Sciences; iFLYTEK Co., Ltd.
+
+**[AAAI-2023]**
+[Leveraging Modality-specific Representations for Audio-visual Speech Recognition via Reinforcement Learning](https://arxiv.org/abs/2212.05301)
+<br>
+**Authors:** Chen Chen, Yuchen Hu, Qiang Zhang, Heqing Zou, Beier Zhu, Eng Siong Chng
+<br>
+**Institution:** Nanyang Technological University; ZJU-Hangzhou Global Scientific and Technological Innovation Center; Zhejiang University
+
+**[2022]**
+[Self-Supervised Audio-Visual Speech Representations Learning By Multimodal Self-Distillation](https://arxiv.org/abs/2212.02782)
+<br>
+**Authors:** Jing-Xuan Zhang, Genshun Wan, Zhen-Hua Ling, Jia Pan, Jianqing Gao, Cong Liu
+<br>
+**Institution:** University of Science and Technology of China; iFLYTEK Co. Ltd.
 
 #### Speaker Recognition
 **[MTA-2016]**
@@ -217,6 +231,13 @@ Science and Technology of China; Zhejiang University
 **Authors:** Bogdan Mocanu, Tapu Ruxandra
 <br>
 **Institution:** University "Politehnica" of Bucharest; Télécom SudParis
+
+**[2022]**
+[Audio-Visual Activity Guided Cross-Modal Identity Association for Active Speaker Detection](https://arxiv.org/abs/2212.00539)
+<br>
+**Authors:** Rahul Sharma, Shrikanth Narayanan
+<br>
+**Institution:** University of Southern California
 
 #### Action Recognition
 **[IJCNN-2016]**
@@ -418,6 +439,20 @@ Intelligent Networks and Network Security
 **Authors:** Lingyong Fang, Gongshen Liu, Ru Zhang
 <br>
 **Institution:** Shanghai Jiao Tong University; Beijing University Posts and Telecommunications
+
+**[IEEE TASLP-2022]**
+[EmoInt-Trans: A Multimodal Transformer for Identifying Emotions and Intents in Social Conversations](https://ieeexplore.ieee.org/document/9961847)
+<br>
+**Authors:** Gopendra Vikram Singh, Mauajama Firdaus, Asif Ekbal, Pushpak Bhattacharyya
+<br>
+**Institution:** Indian Institute of Technology
+
+**[ICPR-2022]**
+[Self-attention fusion for audiovisual emotion recognition with incomplete data](https://ieeexplore.ieee.org/document/9956592)
+<br>
+**Authors:** Kateryna Chumachenko, Alexandros Iosifidis, Moncef Gabbouj
+<br>
+**Institution:** Tampere University; Aarhus University
 ### Uni-modal Enhancement
 
 #### Speech Enhancement and Separation
@@ -555,6 +590,13 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 **Authors:** Youshan Zhang, Jialu Li
 <br>
 **Institution:** Yeshiva University; Cornell University
+
+**[IEEE MMSP-2022]**
+[As We Speak: Real-Time Visually Guided Speaker Separation and Localization](https://ieeexplore.ieee.org/document/9949329)
+<br>
+**Authors:** Piotr Czarnecki, Jakub Tkaczuk
+<br>
+**Institution:** Warsaw University of Technology
 #### Object Sound Separation
 
 **[ECCV-2018]**
@@ -740,6 +782,13 @@ Chenqi Kong, Baoliang Chen, Wenhan Yang, Haoliang Li, Peilin Chen, Shiqi Wang
 **Authors:** Ye Zhu, Yu Wu, Hugo Latapie, Yi Yang, Yan Yan
 <br>
 **Institution:** Illinois Institute of Technology; University of Technology Sydney; Cisco
+
+**[ICPR-2022]**
+[Learning Speaker-specific Lip-to-Speech Generation](https://ieeexplore.ieee.org/document/9956600/)
+<br>
+**Authors:** Munender Varshney, Ravindra Yadav, Vinay P. Namboodiri, Rajesh M Hegde
+<br>
+**Institution:** Indian institute of Technology; University of Bath
 
 ##### Music
 **[IEEE TMM-2015]**
@@ -1349,6 +1398,12 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** KDDI Research, Inc.
 
+**[IEEE SMC-2022]**
+[Graph Network based Approaches for Multi-modal Movie Recommendation System](https://ieeexplore.ieee.org/document/9945488)
+<br>
+**Authors:** Daipayan Chakder, Prabir Mondal, Subham Raj, Sriparna Saha, Angshuman Ghosh, Naoyuki Onoe
+<br>
+**Institution:** Indian Institute of Technology; Sony Research
 [Back to Top](#top)
 ## Audio-visual Collaboration
 
@@ -1485,6 +1540,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Authors:** Euiseok Jeong;, Geesung Oh, Sejoon Lim
 <br>
 **Institution:** Kookmin University
+
+**[2022]**
+[Vision Transformers are Parameter-Efficient Audio-Visual Learners](https://arxiv.org/abs/2212.07983)
+<br>
+**Authors:** Yan-Bo Lin, Yi-Lin Sung, Jie Lei, Mohit Bansal, Gedas Bertasius
+<br>
+**Institution:** The University of North Carolina at Chapel Hill
 ### Audio-visual Localization
 
 #### Sound Localization in Videos
@@ -1849,11 +1911,19 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Institution:** Science and Technology Research Laboratories, NHK; Tokyo Institute of Technology
 
 **[TMM-2021]**
-[Audio-Visual Event Localization by Learning Spatial and Semantic Co-attention]()
+[Audio-Visual Event Localization by Learning Spatial and Semantic Co-attention](https://ieeexplore.ieee.org/document/9615027)
 <br>
 **Authors:** Cheng Xue, Xionghu Zhong, Minjie Cai, Hao Chen, Wenwu Wang
 <br>
 **Institution:** Hunan University; United Kingdom of Great Britain and Northern Ireland
+
+**[IEEE TPAMI-2022]**
+[Semantic and Relation Modulation for Audio-Visual Event Localization](https://ieeexplore.ieee.org/abstract/document/9990903)
+<br>
+**Authors:** Hao Wang, Zheng-Jun Zha, Liang Li, Xuejin Chen, Jiebo Luo
+<br>
+**Institution:** University of Science and Technology of China; Chinese Academy of Sciences; University of Rochester
+
 #### Parsing
 **[ECCV-2020]**
 [Unified Multisensory Perception: Weakly-Supervised Audio-Visual Video Parsing](https://link.springer.com/chapter/10.1007/978-3-030-58580-8_26)
