@@ -333,6 +333,13 @@ Science and Technology of China; Zhejiang University
 Knowledge Fusion and Engineering; the Ministry of Education Key Laboratory for
 Intelligent Networks and Network Security
 
+**[ICCV-2019]**
+[Uncertainty-Aware Audiovisual Activity Recognition Using Deep Bayesian Variational Inference](https://ieeexplore.ieee.org/document/9008242)
+<br>
+**Authors:** Mahesh Subedar, Ranganath Krishnan, Paulo Lopez Meyer, Omesh Tickoo, Jonathan Huang
+<br>
+**Institution:** Intel Labs
+
 #### Emotion Recognition
 
 **[EMNLP-2017]**
@@ -453,6 +460,21 @@ Intelligent Networks and Network Security
 **Authors:** Kateryna Chumachenko, Alexandros Iosifidis, Moncef Gabbouj
 <br>
 **Institution:** Tampere University; Aarhus University
+
+**[IEEE TAC-2023]**
+[Audio-Visual Emotion Recognition With Preference Learning Based on Intended and Multi-Modal Perceived Labels](https://ieeexplore.ieee.org/document/10008998)
+<br>
+**Authors:** Yuanyuan Lei, Houwei Cao
+<br>
+**Institution:** Texas A&M University; New York Institute of Technology
+
+**[IEEE T-BIOM-2023]**
+[Audio-Visual Fusion for Emotion Recognition in the Valence-Arousal Space Using Joint Cross-Attention](https://ieeexplore.ieee.org/document/10005783)
+<br>
+**Authors:** R Gnana Praveen, Patrick Cardinal, Eric Granger
+<br>
+**Institution:** Ecole de technologie supérieure
+
 ### Uni-modal Enhancement
 
 #### Speech Enhancement and Separation
@@ -597,6 +619,13 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 **Authors:** Piotr Czarnecki, Jakub Tkaczuk
 <br>
 **Institution:** Warsaw University of Technology
+
+**[IEEE HEALTHCOM-2022]**
+[A Novel Frame Structure for Cloud-Based Audio-Visual Speech Enhancement in Multimodal Hearing-aids](https://ieeexplore.ieee.org/document/9982772)
+<br>
+**Authors:** Abhijeet Bishnu, Ankit Gupta, Mandar Gogate, Kia Dashtipour, Ahsan Adeel, Amir Hussain, Mathini Sellathurai, Tharmalingam Ratnarajah
+<br>
+**Institution:** University of Edinburgh; Heriot-Watt Watt University; Edinburgh Napier University; University of Wolverhampton
 #### Object Sound Separation
 
 **[ECCV-2018]**
@@ -1682,6 +1711,20 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Authors:** Sooyoung Park, Arda Senocak, Joon Son Chung
 <br>
 **Institution:** Korea Advanced Institute of Science and Technology; Electronics and Telecommunications Research Institute, South Korea
+
+**[IEEE TMM-2022]**
+[Cross modal video representations for weakly supervised active speaker localization](https://ieeexplore.ieee.org/document/9991097)
+<br>
+**Authors:** Rahul Sharma, Krishna Somandepalli, Shrikanth Narayanan
+<br>
+**Institution:** University of Southern California; Google Inc.
+
+**[IEEE TASLP-2023]**
+[Audio-Visual Cross-Attention Network for Robotic Speaker Tracking](https://ieeexplore.ieee.org/document/9968308/)
+<br>
+**Authors:** Xinyuan Qian, Zhengdong Wang, Jiadong Wang, Guohui Guan, Haizhou Li
+<br>
+**Institution:** University of Science and Technology Beijing; Chinese University of Hong Kong; Shenzhen Research Institute of Big dataNational University of Singapore; Univeristy of California at Berkeley; University of Bremen
 #### Audio-visual Saliency Detection
 **[2019]**
 [DAVE: A Deep Audio-Visual Embedding for Dynamic Saliency Prediction](https://arxiv.org/abs/1905.10693)
