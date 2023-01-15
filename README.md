@@ -167,6 +167,20 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Institution:** University of Science and Technology of China; iFLYTEK Co. Ltd.
 
+**[CVPR-2022]**
+[Improving Multimodal Speech Recognition by Data Augmentation and Speech Representations](https://arxiv.org/abs/2204.13206)
+<br>
+**Authors:** Dan Oneaţă, Horia Cucu
+<br>
+**Institution:** University POLITEHNICA of Bucharest
+
+**[AAAI-2022]**
+[Distinguishing Homophenes Using Multi-Head Visual-Audio Memory for Lip Reading](https://arxiv.org/abs/2204.01725)
+<br>
+**Authors:** Minsu Kim, Jeong Hun Yeo, Yong Man Ro
+<br>
+**Institution:** Korea Advanced Institute of Science and Technology
+
 #### Speaker Recognition
 **[MTA-2016]**
 [Audio-visual Speaker Diarization Using Fisher Linear Semi-discriminant Analysis](https://link.springer.com/article/10.1007/s11042-014-2274-x)
@@ -268,6 +282,13 @@ Science and Technology of China; Zhejiang University
 <br>
 **Institution:** Facebook AI Research
 
+**[ICCV-2019]**
+[Uncertainty-Aware Audiovisual Activity Recognition Using Deep Bayesian Variational Inference](https://ieeexplore.ieee.org/document/9008242)
+<br>
+**Authors:** Mahesh Subedar, Ranganath Krishnan, Paulo Lopez Meyer, Omesh Tickoo, Jonathan Huang
+<br>
+**Institution:** Intel Labs
+
 **[CVPR-2020]**
 [Listen to Look: Action Recognition by Previewing Audio](https://openaccess.thecvf.com/content_CVPR_2020/html/Gao_Listen_to_Look_Action_Recognition_by_Previewing_Audio_CVPR_2020_paper.html)
 <br>
@@ -332,13 +353,6 @@ Science and Technology of China; Zhejiang University
 **Institution:** Xi’an Jiaotong University,  the Shanxi Provincial Key Laboratory of Institute of Multimedia
 Knowledge Fusion and Engineering; the Ministry of Education Key Laboratory for
 Intelligent Networks and Network Security
-
-**[ICCV-2019]**
-[Uncertainty-Aware Audiovisual Activity Recognition Using Deep Bayesian Variational Inference](https://ieeexplore.ieee.org/document/9008242)
-<br>
-**Authors:** Mahesh Subedar, Ranganath Krishnan, Paulo Lopez Meyer, Omesh Tickoo, Jonathan Huang
-<br>
-**Institution:** Intel Labs
 
 #### Emotion Recognition
 
@@ -626,6 +640,13 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 **Authors:** Abhijeet Bishnu, Ankit Gupta, Mandar Gogate, Kia Dashtipour, Ahsan Adeel, Amir Hussain, Mathini Sellathurai, Tharmalingam Ratnarajah
 <br>
 **Institution:** University of Edinburgh; Heriot-Watt Watt University; Edinburgh Napier University; University of Wolverhampton
+
+**[CVPR-2022]**
+[Reading to Listen at the Cocktail Party: Multi-Modal Speech Separation](https://ieeexplore.ieee.org/document/9879155)
+<br>
+**Authors:** Akam Rahimi, Triantafyllos Afouras, Andrew Zisserman
+<br>
+**Institution:** University of Oxford
 #### Object Sound Separation
 
 **[ECCV-2018]**
@@ -719,6 +740,12 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 <br>
 **Institution:** University of Electronic Science and Technology of China
 
+**[NeurIPS-2022]**
+[Learning Audio-Visual Dynamics Using Scene Graphs for Audio Source Separation](https://arxiv.org/abs/2210.16472)
+<br>
+**Authors:** Moitreya Chatterjee, Narendra Ahuja, Anoop Cherian
+<br>
+**Institution:** University of Illinois; Mitsubishi Electric Research Labs
 #### Face Super-resolution and Reconstruction
 
 **[CVPR-2020]**
@@ -743,12 +770,20 @@ Chenqi Kong, Baoliang Chen, Wenhan Yang, Haoliang Li, Peilin Chen, Shiqi Wang
 <br>
 **Institution:** Korea Advanced Institute of Science and Technology
 
+**[CVPR-2022]**
+[Cross-Modal Perceptionist: Can Face Geometry be Gleaned from Voices?](https://arxiv.org/abs/2203.09824)
+<br>
+**Authors:** Cho-Ying Wu, Chin-Cheng Hsu, Ulrich Neumann
+<br>
+**Institution:** University of Southern California
+
 **[WACV-2023]**
 [Audio-Visual Face Reenactment](https://arxiv.org/abs/2210.02755)
 <br>
 **Authors:** Madhav Agarwal, Rudrabha Mukhopadhyay, Vinay Namboodiri, C V Jawahar
 <br>
 **Institution:** International Institute of Information Technology, Hyderabad
+
 ## Cross-modal Perception
 
 ### Cross-modal Generation
@@ -1115,6 +1150,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Authors:** Se Jin Park, Minsu Kim, Joanna Hong, Jeongsoo Choi, Yong Man Ro
 <br>
 **Institution:** Korea Advanced Institute of Science and Technology
+
+**[CVPR-2022]**
+[FaceFormer: Speech-Driven 3D Facial Animation with Transformers](https://ieeexplore.ieee.org/document/9878591)
+<br>
+**Authors:** Yingruo Fan, Zhaojiang Lin, Jun Saito, Wenping Wang, Taku Komura
+<br>
+**Institution:** The University of Hong Kong; The Hong Kong University of Science and Technology; Adobe Research; Texas A&M University
 #### Gesture
 **[IVA-2018]**
 [Evaluation of Speech-to-Gesture Generation Using Bi-Directional LSTM Network](https://dl.acm.org/doi/abs/10.1145/3267851.3267878)
@@ -1399,13 +1441,6 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** China University of Chinese Academy of Sciences; Chinese Academy of Sciences
 
-**[IJCAI-2022]**
-[Unsupervised Voice-Face Representation Learning by Cross-Modal Prototype Contrast](https://www.ijcai.org/proceedings/2022/526)
-<br>
-**Authors:** Boqing Zhu, Kele Xu, Changjian Wang, Zheng Qin, Tao Sun, Huaimin Wang, Yuxing Peng
-<br>
-**Institution:** National University of Defense Technology
-
 **[2021]**
 [Learning Explicit and Implicit Latent Common Spaces for Audio-Visual Cross-Modal Retrieval](https://arxiv.org/abs/2110.13556)
 <br>
@@ -1420,6 +1455,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Hangzhou Dianzi University; University of California; East China Normal University; University of Oxford; Wuhan University; Imperial College London
 
+**[IJCAI-2022]**
+[Unsupervised Voice-Face Representation Learning by Cross-Modal Prototype Contrast](https://www.ijcai.org/proceedings/2022/526)
+<br>
+**Authors:** Boqing Zhu, Kele Xu, Changjian Wang, Zheng Qin, Tao Sun, Huaimin Wang, Yuxing Peng
+<br>
+**Institution:** National University of Defense Technology
+
 **[IEEE ISM-2022]**
 [Complete Cross-triplet Loss in Label Space for Audio-visual Cross-modal Retrieval](https://arxiv.org/abs/2211.03434)
 <br>
@@ -1433,6 +1475,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Authors:** Daipayan Chakder, Prabir Mondal, Subham Raj, Sriparna Saha, Angshuman Ghosh, Naoyuki Onoe
 <br>
 **Institution:** Indian Institute of Technology; Sony Research
+
+**[CVPR-2022]**
+[Visual Acoustic Matching](https://arxiv.org/abs/2202.06875)
+<br>
+**Authors:** Changan Chen, Ruohan Gao, Paul Calamia, Kristen Grauman
+<br>
+**Institution:** University of Texas at Austin; Stanford University; Meta AI
 [Back to Top](#top)
 ## Audio-visual Collaboration
 
@@ -1514,6 +1563,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Columbia University; Google Inc.; Cornell University
 
+**[2021]**
+[Audio-visual Representation Learning for Anomaly Events Detection in Crowds](https://arxiv.org/abs/2110.14862)
+<br>
+**Authors:** Junyu Gao, Maoguo Gong, Xuelong Li
+<br>
+**Institution:** Xidian University; Northwestern Polytechnical University
+
 **[ICASSP-2022]**
 [Audioclip: Extending Clip to Image, Text and Audio](https://ieeexplore.ieee.org/abstract/document/9747631/)
 <br>
@@ -1534,13 +1590,6 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Authors:** Shuaicheng Li, Feng Zhang, Kunlin Yang, Lingbo Liu, Shinan Liu, Jun Hou, Shuai Yi
 <br>
 **Institution:** Sensetime Research; The Hong Kong Polytechnic University
-
-**[2021]**
-[Audio-visual Representation Learning for Anomaly Events Detection in Crowds](https://arxiv.org/abs/2110.14862)
-<br>
-**Authors:** Junyu Gao, Maoguo Gong, Xuelong Li
-<br>
-**Institution:** Xidian University; Northwestern Polytechnical University
 
 **[NeurIPS-2022]**
 [Non-Linguistic Supervision for Contrastive Learning of Sentence Embeddings](https://arxiv.org/abs/2209.09433)
@@ -1576,6 +1625,42 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Authors:** Yan-Bo Lin, Yi-Lin Sung, Jie Lei, Mohit Bansal, Gedas Bertasius
 <br>
 **Institution:** The University of North Carolina at Chapel Hill
+
+**[CVPR-2022]**
+[Audio-visual Generalised Zero-shot Learning with Cross-modal Attention and Language](https://arxiv.org/abs/2203.03598)
+<br>
+**Authors:** Otniel-Bogdan Mercea, Lukas Riesch, A. Sophia Koepke, Zeynep Akata
+<br>
+**Institution:** University of Tubingen; Robert Bosch GmbH; Max Planck Institute
+
+**[ECCV-2022]**
+[Temporal and cross-modal attention for audio-visual zero-shot learning](https://arxiv.org/abs/2207.09966)
+<br>
+**Authors:** Otniel-Bogdan Mercea, Thomas Hummel, A. Sophia Koepke, Zeynep Akata
+<br>
+**Institution:** University of Tuebingen; Max Planck Institute
+
+**[NeurIPS-2022]**
+[u-HuBERT: Unified Mixed-Modal Speech Pretraining And Zero-Shot Transfer to Unlabeled Modality](https://arxiv.org/abs/2207.07036)
+<br>
+**Authors:** Wei-Ning Hsu, Bowen Shi
+<br>
+**Institution:** Meta AI
+
+**[NeurIPS-2022]**
+[Scaling Multimodal Pre-Training via Cross-Modality Gradient Harmonization](https://arxiv.org/abs/2211.02077)
+<br>
+**Authors:** Junru Wu, Yi Liang, Feng Han, Hassan Akbari, Zhangyang Wang, Cong Yu
+<br>
+**Institution:** Texas A&M University; Google Research; University of Texas at Austin; Celonis Inc.
+
+**[AAAI-2023]**
+[Self-Supervised Audio-Visual Representation Learning with Relaxed Cross-Modal Synchronicity](https://arxiv.org/abs/2111.05329)
+<br>
+**Authors:** Pritam Sarkar, Ali Etemad
+<br>
+**Institution:** Queen’s University; Vector Institute
+
 ### Audio-visual Localization
 
 #### Sound Localization in Videos
@@ -1691,13 +1776,6 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** University of Surrey; Tencent AI Lab, Bellevue
 
-**[WACV-2023]**
-[Hear The Flow: Optical Flow-Based Self-Supervised Visual Sound Source Localization](https://arxiv.org/abs/2211.03019)
-<br>
-**Authors:** Dennis Fedorishin, Deen Dayal Mohan, Bhavin Jawade, Srirangaraj Setlur, Venu Govindaraju
-<br>
-**Institution:** University at Buffalo
-
 **[CVPR-2022]**
 [Mix and Localize: Localizing Sound Sources in Mixtures](https://arxiv.org/abs/2211.15058)
 <br>
@@ -1719,12 +1797,41 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** University of Southern California; Google Inc.
 
+**[NeurIPS-2022]**
+[A Closer Look at Weakly-Supervised Audio-Visual Source Localization](https://arxiv.org/abs/2209.09634)
+<br>
+**Authors:** Shentong Mo, Pedro Morgado
+<br>
+**Institution:** Carnegie Mellon University; University of Wisconsin-Madison
+
+**[AAAI-2022]**
+[Visual Sound Localization in the Wild by Cross-Modal Interference Erasing](https://arxiv.org/abs/2202.06406)
+<br>
+**Authors:** Xian Liu, Rui Qian, Hang Zhou, Di Hu, Weiyao Lin, Ziwei Liu, Bolei Zhou, Xiaowei Zhou
+<br>
+**Institution:** The Chinese University of Hong Kong; Zhejiang University; Shanghai Jiao Tong University; Renmin University of China; Nanyang Technological University
+
+**[ECCV-2022]**
+[Sound Localization by Self-Supervised Time Delay Estimation](https://arxiv.org/abs/2204.12489)
+<br>
+**Authors:** Ziyang Chen, David F. Fouhey, Andrew Owens
+<br>
+**Institution:** University of Michigan
+
 **[IEEE TASLP-2023]**
 [Audio-Visual Cross-Attention Network for Robotic Speaker Tracking](https://ieeexplore.ieee.org/document/9968308/)
 <br>
 **Authors:** Xinyuan Qian, Zhengdong Wang, Jiadong Wang, Guohui Guan, Haizhou Li
 <br>
 **Institution:** University of Science and Technology Beijing; Chinese University of Hong Kong; Shenzhen Research Institute of Big dataNational University of Singapore; Univeristy of California at Berkeley; University of Bremen
+
+**[WACV-2023]**
+[Hear The Flow: Optical Flow-Based Self-Supervised Visual Sound Source Localization](https://arxiv.org/abs/2211.03019)
+<br>
+**Authors:** Dennis Fedorishin, Deen Dayal Mohan, Bhavin Jawade, Srirangaraj Setlur, Venu Govindaraju
+<br>
+**Institution:** University at Buffalo
+
 #### Audio-visual Saliency Detection
 **[2019]**
 [DAVE: A Deep Audio-Visual Embedding for Dynamic Saliency Prediction](https://arxiv.org/abs/1905.10693)
@@ -1860,6 +1967,21 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Yinfeng Yu, Lele Cao, Fuchun Sun, Xiaohong Liu, Liejun Wang
 <br>
 **Institution:** Tsinghua University; Motherbrain, EQT; Xinjiang University
+
+**[CVPR-2022]**
+[Finding Fallen Objects Via Asynchronous Audio-Visual Integration](https://arxiv.org/abs/2207.03483)
+<br>
+**Authors:** Chuang Gan, Yi Gu, Siyuan Zhou, Jeremy Schwartz, Seth Alter, James Traer, Dan Gutfreund, Joshua B. Tenenbaum, Josh McDermott, Antonio Torralba
+<br>
+**Institution:** Massachusetts Institute of Technology; MIT-IBM Watson AI Lab
+
+**[CVPR-2022]**
+[ObjectFolder 2.0: A Multisensory Object Dataset for Sim2Real Transfer](https://arxiv.org/abs/2204.02389)
+<br>
+**Authors:** Ruohan Gao, Zilin Si, Yen-Yu Chang, Samuel Clarke, Jeannette Bohg, Li Fei-Fei, Wenzhen Yuan, Jiajun Wu
+<br>
+**Institution:** Stanford Univeristy; Carnegie Mellon University
+
 ### Audio-visual Event Localization and Parsing
 #### Localization
 **[ECCV-2018]**
@@ -2010,6 +2132,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 <br>
 **Institution:** Nanjing University; SenseTime Research; The Chinese University of Hong Kong; Shanghai AI Laboratory
 
+**[NeurIPS-2022]**
+[Multi-modal Grouping Network for Weakly-Supervised Audio-Visual Video Parsing](https://openreview.net/forum?id=zfo2LqFEVY)
+<br>
+**Authors:** Shentong Mo, Yapeng Tian
+<br>
+**Institution:** Carnegie Mellon University; University of Texas at Dallas
+
 ### Audio-visual Question Answering and Dialog
 #### Question Answering
 **[ICCV-2021]**
@@ -2117,6 +2246,14 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Huda Alamri, Anthony Bilic, Michael Hu, Apoorva Beedu, Irfan Essa
 <br>
 **Institution:** Georgia Institute of Technology
+
+**[AAAI-2022]**
+[Audio Visual Scene-Aware Dialog Generation with Transformer-based Video Representations](https://arxiv.org/abs/2202.09979)
+<br>
+**Authors:** Yoshihiro Yamazaki, Shota Orihashi, Ryo Masumura, Mihiro Uchida, Akihiko Takashima
+<br>
+**Institution:** Nippon Telegraph and Telephone Corporation
+
 ## Datasets
 
 | Dataset | Year | Videos | Length  | Data form | Video source            | Task                                               
