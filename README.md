@@ -153,13 +153,6 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Institution:** University of Science and Technology of China; Chinese Academy of Sciences; iFLYTEK Co., Ltd.
 
-**[AAAI-2023]**
-[Leveraging Modality-specific Representations for Audio-visual Speech Recognition via Reinforcement Learning](https://arxiv.org/abs/2212.05301)
-<br>
-**Authors:** Chen Chen, Yuchen Hu, Qiang Zhang, Heqing Zou, Beier Zhu, Eng Siong Chng
-<br>
-**Institution:** Nanyang Technological University; ZJU-Hangzhou Global Scientific and Technological Innovation Center; Zhejiang University
-
 **[2022]**
 [Self-Supervised Audio-Visual Speech Representations Learning By Multimodal Self-Distillation](https://arxiv.org/abs/2212.02782)
 <br>
@@ -180,6 +173,13 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 **Authors:** Minsu Kim, Jeong Hun Yeo, Yong Man Ro
 <br>
 **Institution:** Korea Advanced Institute of Science and Technology
+
+**[AAAI-2023]**
+[Leveraging Modality-specific Representations for Audio-visual Speech Recognition via Reinforcement Learning](https://arxiv.org/abs/2212.05301)
+<br>
+**Authors:** Chen Chen, Yuchen Hu, Qiang Zhang, Heqing Zou, Beier Zhu, Eng Siong Chng
+<br>
+**Institution:** Nanyang Technological University; ZJU-Hangzhou Global Scientific and Technological Innovation Center; Zhejiang University
 
 #### Speaker Recognition
 **[MTA-2016]**
@@ -571,6 +571,13 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 <br>
 **Institution:** Yonsei University; Naver Corporation; Korea Aerospace University
 
+**[ISCAS-2021]**
+[Audio-Visual Target Speaker Enhancement on Multi-Talker Environment using Event-Driven Cameras](https://arxiv.org/abs/1912.02671)
+<br>
+**Authors:** Ander Arriandiaga, Giovanni Morrone, Luca Pasa, Leonardo Badino, Chiara Bartolozzi
+<br>
+**Institution:** Istituto Italiano di Tecnologia; University of Modena and Reggio Emilia
+
 **[ICASSP-2022]**
 [The Impact of Removing Head Movements on Audio-Visual Speech Enhancement](https://ieeexplore.ieee.org/abstract/document/9746401)
 <br>
@@ -599,33 +606,12 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 <br>
 **Institution:** Northwestern Polytechnical University; Nanchang University
 
-**[ISCAS-2021]**
-[Audio-Visual Target Speaker Enhancement on Multi-Talker Environment using Event-Driven Cameras](https://arxiv.org/abs/1912.02671)
-<br>
-**Authors:** Ander Arriandiaga, Giovanni Morrone, Luca Pasa, Leonardo Badino, Chiara Bartolozzi
-<br>
-**Institution:** Istituto Italiano di Tecnologia; University of Modena and Reggio Emilia
-
-**[Interspeech-2019]**
-[My lips are concealed: Audio-visual speech enhancement through obstructions](https://arxiv.org/abs/1907.04975)
-<br>
-**Authors:** Triantafyllos Afouras, Joon Son Chung, Andrew Zisserman
-<br>
-**Institution:** University of Oxford; Naver Corporation
-
 **[CVPR-2022]**
 [Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis](https://arxiv.org/abs/2203.17263)
 <br>
 **Authors:** Karren Yang, Dejan Marković, Steven Krenn, Vasu Agrawal, Alexander Richard
 <br>
 **Institution:** Massachusetts Institute of Technology; Meta Reality Labs Research
-
-**[WACV-2023]**
-[BirdSoundsDenoising: Deep Visual Audio Denoising for Bird Sounds](https://arxiv.org/abs/2210.10196)
-<br>
-**Authors:** Youshan Zhang, Jialu Li
-<br>
-**Institution:** Yeshiva University; Cornell University
 
 **[IEEE MMSP-2022]**
 [As We Speak: Real-Time Visually Guided Speaker Separation and Localization](https://ieeexplore.ieee.org/document/9949329)
@@ -647,8 +633,15 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 **Authors:** Akam Rahimi, Triantafyllos Afouras, Andrew Zisserman
 <br>
 **Institution:** University of Oxford
-#### Object Sound Separation
 
+**[WACV-2023]**
+[BirdSoundsDenoising: Deep Visual Audio Denoising for Bird Sounds](https://arxiv.org/abs/2210.10196)
+<br>
+**Authors:** Youshan Zhang, Jialu Li
+<br>
+**Institution:** Yeshiva University; Cornell University
+
+#### Object Sound Separation
 **[ECCV-2018]**
 [Learning to Separate Object Sounds by Watching Unlabeled Video](https://openaccess.thecvf.com/content_ECCV_2018/html/Ruohan_Gao_Learning_to_Separate_ECCV_2018_paper.html)
 <br>
@@ -746,8 +739,8 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 **Authors:** Moitreya Chatterjee, Narendra Ahuja, Anoop Cherian
 <br>
 **Institution:** University of Illinois; Mitsubishi Electric Research Labs
-#### Face Super-resolution and Reconstruction
 
+#### Face Super-resolution and Reconstruction
 **[CVPR-2020]**
 [Learning to Have an Ear for Face Super-Resolution](https://openaccess.thecvf.com/content_CVPR_2020/html/Meishvili_Learning_to_Have_an_Ear_for_Face_Super-Resolution_CVPR_2020_paper.html)
 <br>
@@ -790,7 +783,6 @@ Chenqi Kong, Baoliang Chen, Wenhan Yang, Haoliang Li, Peilin Chen, Shiqi Wang
 
 #### Mono Sound Generation
 ##### Speech
-
 **[ICASSP-2017]**
 [Vid2speech: Speech Reconstruction From Silent Video](https://ieeexplore.ieee.org/abstract/document/7953127)
 <br>
@@ -833,19 +825,19 @@ Chenqi Kong, Baoliang Chen, Wenhan Yang, Haoliang Li, Peilin Chen, Shiqi Wang
 <br>
 **Institution:** Netaji Subhas Institute of Technology; Adobe Research; National University of Singapore; Delhi Technological University
 
-**[IEEE TCYB-2022]**
-[End-to-End Video-to-Speech Synthesis Using Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/9760273)
-<br>
-**Authors:** Rodrigo Mira, Konstantinos Vougioukas, Pingchuan Ma, Stavros Petridis, Bj?rn W. Schuller, Maja Pantic
-<br>
-**Institution:** Imperial College London; University of Augsburg; Meta AI
-
 **[ICASSP-2021]**
 [Learning Audio-Visual Correlations From Variational Cross-Modal Generation](https://ieeexplore.ieee.org/document/9414296)
 <br>
 **Authors:** Ye Zhu, Yu Wu, Hugo Latapie, Yi Yang, Yan Yan
 <br>
 **Institution:** Illinois Institute of Technology; University of Technology Sydney; Cisco
+
+**[IEEE TCYB-2022]**
+[End-to-End Video-to-Speech Synthesis Using Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/9760273)
+<br>
+**Authors:** Rodrigo Mira, Konstantinos Vougioukas, Pingchuan Ma, Stavros Petridis, Bj?rn W. Schuller, Maja Pantic
+<br>
+**Institution:** Imperial College London; University of Augsburg; Meta AI
 
 **[ICPR-2022]**
 [Learning Speaker-specific Lip-to-Speech Generation](https://ieeexplore.ieee.org/document/9956600/)
@@ -1157,6 +1149,7 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Authors:** Yingruo Fan, Zhaojiang Lin, Jun Saito, Wenping Wang, Taku Komura
 <br>
 **Institution:** The University of Hong Kong; The Hong Kong University of Science and Technology; Adobe Research; Texas A&M University
+
 #### Gesture
 **[IVA-2018]**
 [Evaluation of Speech-to-Gesture Generation Using Bi-Directional LSTM Network](https://dl.acm.org/doi/abs/10.1145/3267851.3267878)
@@ -1507,6 +1500,20 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** University of California
 
+**[NeurIPS-2020]**
+[Self-Supervised Learning by Cross-Modal Audio-Video Clustering](https://proceedings.neurips.cc/paper/2020/hash/6f2268bd1d3d3ebaabb04d6b5d099425-Abstract.html)
+<br>
+**Authors:** Humam Alwassel, Dhruv Mahajan, Bruno Korbar, Lorenzo Torresani, Bernard Ghanem, Du Tran
+<br>
+**Institution:** King Abdullah University of Science and Technology; Facebook AI Research
+
+**[NeurIPS-2020]**
+[Labelling Unlabelled Videos From Scratch With Multi-Modal Self-Supervision](https://proceedings.neurips.cc/paper/2020/hash/31fefc0e570cb3860f2a6d4b38c6490d-Abstract.html)
+<br>
+**Authors:** Yuki Asano, Mandela Patrick, Christian Rupprecht, Andrea Vedaldi
+<br>
+**Institution:** University of Oxford; Facebook AI Research
+
 **[CVPR-2021]**
 [Audio-Visual Instance Discrimination with Cross-Modal Agreement](https://openaccess.thecvf.com/content/CVPR2021/html/Morgado_Audio-Visual_Instance_Discrimination_with_Cross-Modal_Agreement_CVPR_2021_paper.html)
 <br>
@@ -1527,20 +1534,6 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Authors:** Yan-Bo Lin, Hung-Yu Tseng, Hsin-Ying Lee, Yen-Yu Lin, Ming-Hsuan Yang
 <br>
 **Institution:** National Yang Ming Chiao Tung University; University of California; Snap Inc.; Google Research
-
-**[NeurIPS-2020]**
-[Self-Supervised Learning by Cross-Modal Audio-Video Clustering](https://proceedings.neurips.cc/paper/2020/hash/6f2268bd1d3d3ebaabb04d6b5d099425-Abstract.html)
-<br>
-**Authors:** Humam Alwassel, Dhruv Mahajan, Bruno Korbar, Lorenzo Torresani, Bernard Ghanem, Du Tran
-<br>
-**Institution:** King Abdullah University of Science and Technology; Facebook AI Research
-
-**[NeurIPS-2020]**
-[Labelling Unlabelled Videos From Scratch With Multi-Modal Self-Supervision](https://proceedings.neurips.cc/paper/2020/hash/31fefc0e570cb3860f2a6d4b38c6490d-Abstract.html)
-<br>
-**Authors:** Yuki Asano, Mandela Patrick, Christian Rupprecht, Andrea Vedaldi
-<br>
-**Institution:** University of Oxford; Facebook AI Research
 
 **[ICCV-2021]**
 [Multimodal Clustering Networks for Self-Supervised Learning From Unlabeled Videos](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_Multimodal_Clustering_Networks_for_Self-Supervised_Learning_From_Unlabeled_Videos_ICCV_2021_paper.html)
@@ -1685,13 +1678,6 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Massachusetts Institute of Technology; MIT-IBM Watson AI Lab; Columbia University
 
-**[IEEE TPAMI-2021]**
-[Learning to Localize Sound Sources in Visual Scenes: Analysis and Applications](https://ieeexplore.ieee.org/abstract/document/8894565/)
-<br>
-**Authors:** Arda Senocak, Tae-Hyun Oh, Junsik Kim, Ming-Hsuan Yang, In So Kweon
-<br>
-**Institution:** Korea Advanced Institute of Science and Technology; Pohang University of Science and Technology; University of California
-
 **[ICASSP-2019]**
 [Self-supervised Audio-visual Co-segmentation](https://ieeexplore.ieee.org/abstract/document/8682467)
 <br>
@@ -1726,7 +1712,14 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Authors:** Di Hu, Yake Wei, Rui Qian, Weiyao Lin, Ruihua Song, Ji-Rong Wen
 <br>
 **Institution:** Renmin University of China; Shanghai Jiao Tong University
- 
+
+**[IEEE TPAMI-2021]**
+[Learning to Localize Sound Sources in Visual Scenes: Analysis and Applications](https://ieeexplore.ieee.org/abstract/document/8894565/)
+<br>
+**Authors:** Arda Senocak, Tae-Hyun Oh, Junsik Kim, Ming-Hsuan Yang, In So Kweon
+<br>
+**Institution:** Korea Advanced Institute of Science and Technology; Pohang University of Science and Technology; University of California
+
 **[CVPR-2022]**
 [Mix and Localize: Localizing Sound Sources in Mixtures](https://openaccess.thecvf.com/content/CVPR2022/html/Hu_Mix_and_Localize_Localizing_Sound_Sources_in_Mixtures_CVPR_2022_paper.html)
 <br>
@@ -1869,6 +1862,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 <br>
 **Institution:** Beihang University; Qingdao University; Chinese Academy of Medical Sciences
 
+**[ICME-2021]**
+[Lavs: A Lightweight Audio-Visual Saliency Prediction Model](https://ieeexplore.ieee.org/document/9428415)
+<br>
+**Authors:** Dandan Zhu; Defang Zhao; Xiongkuo Min; Tian Han; Qiangqiang Zhou; Shaobo Yu; Yongqing Chen; Guangtao Zhai; Xiaokang Yang
+<br>
+**Institution:** Shanghai Jiao Tong University; Tongji University; Stevens Institute of Technology; Jiangxi Normal University; East China Normal University; Hainan University
+
 **[2022]**
 [A Comprehensive Survey on Video Saliency Detection with Auditory Information: the Audio-visual Consistency Perceptual is the Key!](https://arxiv.org/abs/2206.13390)
 <br>
@@ -1882,13 +1882,6 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Yi Zhang, Fang-Yi Chao, Wassim Hamidouche, Olivier Deforges
 <br>
 **Institution:** University Rennes; Institut National des Sciences Appliquées Rennes; Centre national de la recherche scientifique; Trinity College Dublin
-
-**[ICME-2021]**
-[Lavs: A Lightweight Audio-Visual Saliency Prediction Model](https://ieeexplore.ieee.org/document/9428415)
-<br>
-**Authors:** Dandan Zhu; Defang Zhao; Xiongkuo Min; Tian Han; Qiangqiang Zhou; Shaobo Yu; Yongqing Chen; Guangtao Zhai; Xiaokang Yang
-<br>
-**Institution:** Shanghai Jiao Tong University; Tongji University; Stevens Institute of Technology; Jiangxi Normal University; East China Normal University; Hainan University
 
 #### Audio-visual Navigation
 **[ECCV-2020]**
@@ -1918,13 +1911,6 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Changan Chen, Ziad Al-Halah, Kristen Grauman
 <br>
 **Institution:** The University of Texas at Austin; Facebook AI Research
-
-**[2021]**
-[Catch Me If You Hear Me: Audio-Visual Navigation in Complex Unmapped Environments with Moving Sounds](https://arxiv.org/abs/2111.14843)
-<br>
-**Authors:** Abdelrahman Younes, Daniel Honerkamp, Tim Welschehold, Abhinav Valada
-<br>
-**Institution:** University of Freiburg
 
 **[ICCV-2021]**
 [Move2Hear: Active Audio-Visual Source Separation](https://openaccess.thecvf.com/content/ICCV2021/html/Majumder_Move2Hear_Active_Audio-Visual_Source_Separation_ICCV_2021_paper.html)
@@ -1982,6 +1968,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 <br>
 **Institution:** Stanford Univeristy; Carnegie Mellon University
 
+**[IEEE RAL-2023]**
+[Catch Me If You Hear Me: Audio-Visual Navigation in Complex Unmapped Environments with Moving Sounds](https://arxiv.org/abs/2111.14843)
+<br>
+**Authors:** Abdelrahman Younes, Daniel Honerkamp, Tim Welschehold, Abhinav Valada
+<br>
+**Institution:** University of Freiburg
+
 ### Audio-visual Event Localization and Parsing
 #### Localization
 **[ECCV-2018]**
@@ -2033,19 +2026,26 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 <br>
 **Institution:** Hefei University of Technology; Intelligent Interconnected Systems Laboratory of Anhui Province; Australian National University
 
-**[CVPR-2022]**
-[Cross-Modal Background Suppression for Audio-Visual Event Localization](https://openaccess.thecvf.com/content/CVPR2022/html/Xia_Cross-Modal_Background_Suppression_for_Audio-Visual_Event_Localization_CVPR_2022_paper.html)
-<br>
-**Authors:** Yan Xia, Zhou Zhao
-<br>
-**Institution:** Zhejiang University
-
 **[AIKE-2021]**
 [Audio-Visual Event Localization based on Cross-Modal Interacting Guidance](https://ieeexplore.ieee.org/document/9723768)
 <br>
 **Authors:** Qiurui Yue; Xiaoyu Wu; Jiayi Gao
 <br>
 **Institution:** Communication University of China
+
+**[TMM-2021]**
+[Audio-Visual Event Localization by Learning Spatial and Semantic Co-attention](https://ieeexplore.ieee.org/document/9615027)
+<br>
+**Authors:** Cheng Xue, Xionghu Zhong, Minjie Cai, Hao Chen, Wenwu Wang
+<br>
+**Institution:** Hunan University; United Kingdom of Great Britain and Northern Ireland
+
+**[CVPR-2022]**
+[Cross-Modal Background Suppression for Audio-Visual Event Localization](https://openaccess.thecvf.com/content/CVPR2022/html/Xia_Cross-Modal_Background_Suppression_for_Audio-Visual_Event_Localization_CVPR_2022_paper.html)
+<br>
+**Authors:** Yan Xia, Zhou Zhao
+<br>
+**Institution:** Zhejiang University
 
 **[ICASSP-2022]**
 [Bi-Directional Modality Fusion Network For Audio-Visual Event Localization](https://ieeexplore.ieee.org/abstract/document/9746280/)
@@ -2074,13 +2074,6 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Taichi Ishiwatari, Makiko Azuma, Takuya Handa, Masaki Takahashi, Takahiro Mochizuki, Masanori Sano
 <br>
 **Institution:** Science and Technology Research Laboratories, NHK; Tokyo Institute of Technology
-
-**[TMM-2021]**
-[Audio-Visual Event Localization by Learning Spatial and Semantic Co-attention](https://ieeexplore.ieee.org/document/9615027)
-<br>
-**Authors:** Cheng Xue, Xionghu Zhong, Minjie Cai, Hao Chen, Wenwu Wang
-<br>
-**Institution:** Hunan University; United Kingdom of Great Britain and Northern Ireland
 
 **[IEEE TPAMI-2022]**
 [Semantic and Relation Modulation for Audio-Visual Event Localization](https://ieeexplore.ieee.org/abstract/document/9990903)
