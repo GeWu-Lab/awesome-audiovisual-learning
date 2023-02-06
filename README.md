@@ -253,6 +253,13 @@ Science and Technology of China; Zhejiang University
 <br>
 **Institution:** University of Southern California
 
+**[SLT-2023]**
+[Push-Pull: Characterizing the Adversarial Robustness for Audio-Visual Active Speaker Detection](https://ieeexplore.ieee.org/document/10022646)
+<br>
+**Authors:** Xuanjun Chen, Haibin Wu, Helen Meng, Hung-yi Lee, Jyh-Shing Roger Jang
+<br>
+**Institution:** National Taiwan University; The Chinese University of Hong Kong
+
 #### Action Recognition
 **[IJCNN-2016]**
 [Exploring Multimodal Video Representation For Action Recognition](https://ieeexplore.ieee.org/abstract/document/7727435)
@@ -354,8 +361,14 @@ Science and Technology of China; Zhejiang University
 Knowledge Fusion and Engineering; the Ministry of Education Key Laboratory for
 Intelligent Networks and Network Security
 
-#### Emotion Recognition
+**[ICLR-2023]**
+[Exploring Temporally Dynamic Data Augmentation for Video Recognition](https://arxiv.org/abs/2206.15015)
+<br>
+**Authors:** Taeoh Kim, Jinhyung Kim, Minho Shim, Sangdoo Yun, Myunggu Kang, Dongyoon Wee, Sangyoun Lee
+<br>
+**Institution:** NAVER Clova; KAIST; NAVER AI Lab; Yonsei University
 
+#### Emotion Recognition
 **[EMNLP-2017]**
 [Tensor Fusion Network for Multimodal Sentiment Analysis](https://arxiv.org/abs/1707.07250)
 <br>
@@ -492,7 +505,6 @@ Intelligent Networks and Network Security
 ### Uni-modal Enhancement
 
 #### Speech Enhancement and Separation
-
 **[Interspeech-2018]**
 [Visual Speech Enhancement](https://arxiv.org/abs/1711.08789)
 <br>
@@ -641,6 +653,20 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 <br>
 **Institution:** Yeshiva University; Cornell University
 
+**[SLT-2023]**
+[AVSE Challenge: Audio-Visual Speech Enhancement Challenge](https://ieeexplore.ieee.org/document/10023284)
+<br>
+**Authors:** Andrea Lorena Aldana Blanco, Cassia Valentini-Botinhao, Ondrej Klejch, Mandar Gogate, Kia Dashtipour, Amir Hussain, Peter Bell
+<br>
+**Institution:** University of Edinburgh
+
+**[ICLR-2023]**
+[Filter-Recovery Network for Multi-Speaker Audio-Visual Speech Separation](https://openreview.net/forum?id=fiB2RjmgwQ6)
+<br>
+**Authors:** Haoyue Cheng, Zhaoyang Liu, Wayne Wu, Limin Wang
+<br>
+**Institution:** Nanjing University; SenseTime
+
 #### Object Sound Separation
 **[ECCV-2018]**
 [Learning to Separate Object Sounds by Watching Unlabeled Video](https://openaccess.thecvf.com/content_ECCV_2018/html/Ruohan_Gao_Learning_to_Separate_ECCV_2018_paper.html)
@@ -739,6 +765,13 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 **Authors:** Moitreya Chatterjee, Narendra Ahuja, Anoop Cherian
 <br>
 **Institution:** University of Illinois; Mitsubishi Electric Research Labs
+
+**[ICLR-2023]**
+[CLIPSep: Learning Text-queried Sound Separation with Noisy Unlabeled Videos](https://arxiv.org/abs/2212.07065) 
+<br>
+**Authors:** Hao-Wen Dong, Naoya Takahashi, Yuki Mitsufuji, Julian McAuley, Taylor Berg-Kirkpatrick
+<br>
+**Institution:** Sony Group Corporation; University of California San Diego
 
 #### Face Super-resolution and Reconstruction
 **[CVPR-2020]**
@@ -1653,6 +1686,20 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Authors:** Pritam Sarkar, Ali Etemad
 <br>
 **Institution:** Queen’s University; Vector Institute
+
+**[ICLR-2023]**
+[Contrastive Audio-Visual Masked Autoencoder](https://arxiv.org/abs/2210.07839)
+<br>
+**Authors:** Yuan Gong, Andrew Rouditchenko, Alexander H. Liu, David Harwath, Leonid Karlinsky, Hilde Kuehne, James R. Glass
+<br>
+**Institution:** Massachusetts Institute of Technology; The University of Texas at Austin; MIT-IBM Watson AI Lab; Goethe University Frankfurt
+
+**[ICLR-2023]**
+[Jointly Learning Visual and Auditory Speech Representations from Raw Data](https://arxiv.org/abs/2212.06246)
+<br>
+**Authors:** Alexandros Haliassos, Pingchuan Ma, Rodrigo Mira, Stavros Petridis, Maja Pantic
+<br>
+**Institution:** Imperial College London; Meta AI
 
 ### Audio-visual Localization
 
