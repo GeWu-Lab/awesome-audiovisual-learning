@@ -181,6 +181,13 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Institution:** Nanyang Technological University; ZJU-Hangzhou Global Scientific and Technological Innovation Center; Zhejiang University
 
+**[WACV-2023]**
+[Audio-Visual Efficient Conformer for Robust Speech Recognition](https://ieeexplore.ieee.org/document/10030963)
+<br>
+**Authors:** Maxime Burchi, Radu Timofte
+<br>
+**Institution:** University of Würzburg
+
 #### Speaker Recognition
 **[MTA-2016]**
 [Audio-visual Speaker Diarization Using Fisher Linear Semi-discriminant Analysis](https://link.springer.com/article/10.1007/s11042-014-2274-x)
@@ -367,6 +374,13 @@ Intelligent Networks and Network Security
 **Authors:** Taeoh Kim, Jinhyung Kim, Minho Shim, Sangdoo Yun, Myunggu Kang, Dongyoon Wee, Sangyoun Lee
 <br>
 **Institution:** NAVER Clova; KAIST; NAVER AI Lab; Yonsei University
+
+**[2023]**
+[Epic-Sounds: A Large-scale Dataset of Actions That Sound](https://arxiv.org/abs/2302.00646)
+<br>
+**Authors:** Jaesung Huh, Jacob Chalk, Evangelos Kazakos, Dima Damen, Andrew Zisserman
+<br>
+**Institution:** University of Oxford; University of Bristol
 
 #### Emotion Recognition
 **[EMNLP-2017]**
@@ -667,6 +681,13 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 <br>
 **Institution:** Nanjing University; SenseTime
 
+**[WACV-2023]**
+[Unsupervised Audio-Visual Lecture Segmentation](https://ieeexplore.ieee.org/document/10030327/)
+<br>
+**Authors:** Darshan Singh S, Anchit Gupta, C. V. Jawahar, Makarand Tapaswi
+<br>
+**Institution:** International Institute of Information Technology, Hyderabad
+
 #### Object Sound Separation
 **[ECCV-2018]**
 [Learning to Separate Object Sounds by Watching Unlabeled Video](https://openaccess.thecvf.com/content_ECCV_2018/html/Ruohan_Gao_Learning_to_Separate_ECCV_2018_paper.html)
@@ -808,7 +829,7 @@ Chenqi Kong, Baoliang Chen, Wenhan Yang, Haoliang Li, Peilin Chen, Shiqi Wang
 <br>
 **Authors:** Madhav Agarwal, Rudrabha Mukhopadhyay, Vinay Namboodiri, C V Jawahar
 <br>
-**Institution:** International Institute of Information Technology, Hyderabad
+**Institution:** International Institute of Information Technology, Hyderabad; University of Bath
 
 ## Cross-modal Perception
 
@@ -1419,6 +1440,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** ESAT, KU Leuven
 
+**[2023]**
+[Revisiting Pre-training in Audio-Visual Learning](https://arxiv.org/abs/2302.03533)
+<br>
+**Authors:** Ruoxuan Feng, Wenke Xia, Di Hu
+<br>
+**Institution:** Hunan University; Renmin University of China
+
 ### Cross-modal Retrieval
 **[2017]**
 [Content-Based Video-Music Retrieval Using Soft Intra-Modal Structure Constraint](https://arxiv.org/abs/1704.06761)
@@ -1701,6 +1729,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Imperial College London; Meta AI
 
+**[WACV-2023]**
+[Audio Representation Learning by Distilling Video as Privileged Information](https://ieeexplore.ieee.org/document/10041728)
+<br>
+**Authors:** Amirhossein Hajavi, Ali Etemad
+<br>
+**Institution:** Queen's University, Canada
+
 ### Audio-visual Localization
 
 #### Sound Localization in Videos
@@ -1871,6 +1906,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Authors:** Dennis Fedorishin, Deen Dayal Mohan, Bhavin Jawade, Srirangaraj Setlur, Venu Govindaraju
 <br>
 **Institution:** University at Buffalo
+
+**[WACV-2023]**
+[Exploiting Visual Context Semantics for Sound Source Localization](https://ieeexplore.ieee.org/document/10030749/)
+<br>
+**Authors:** Xinchi Zhou, Dongzhan Zhou, Di Hu, Hang Zhou, Wanli Ouyang
+<br>
+**Institution:** The University of Sydney; Renmin University of China; Baidu Inc.
 
 #### Audio-visual Saliency Detection
 **[2019]**
@@ -2128,6 +2170,20 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Hao Wang, Zheng-Jun Zha, Liang Li, Xuejin Chen, Jiebo Luo
 <br>
 **Institution:** University of Science and Technology of China; Chinese Academy of Sciences; University of Rochester
+
+**[WACV-2023]**
+[AVE-CLIP: AudioCLIP-based Multi-window Temporal Transformer for Audio Visual Event Localization](https://ieeexplore.ieee.org/document/10030779/)
+<br>
+**Authors:** Tanvir Mahmud, Diana Marculescu
+<br>
+**Institution:** The University of Texas at Austin
+
+**[WACV-2023]**
+[Event-Specific Audio-Visual Fusion Layers: A Simple and New Perspective on Video Understanding](https://ieeexplore.ieee.org/document/10030378)
+<br>
+**Authors:** Arda Senocak, Junsik Kim, Tae-Hyun Oh, Dingzeyu Li, In So Kweon
+<br>
+**Institution:** Korea Advanced Institute of Science & Technology; Harvard University; Pohang University of Science and Technology; Adobe Research
 
 #### Parsing
 **[ECCV-2020]**
