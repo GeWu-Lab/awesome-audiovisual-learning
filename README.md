@@ -188,6 +188,13 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Institution:** University of Würzburg
 
+**[2023]**
+[Prompt Tuning of Deep Neural Networks for Speaker-adaptive Visual Speech Recognition](https://arxiv.org/abs/2302.08102)
+<br>
+**Authors:** Minsu Kim, Hyung-Il Kim, Yong Man Ro
+<br>
+**Institution:** Korea Advanced Institute of Science and Technology; Electronics and Telecommunications Research Institute
+
 #### Speaker Recognition
 **[MTA-2016]**
 [Audio-visual Speaker Diarization Using Fisher Linear Semi-discriminant Analysis](https://link.springer.com/article/10.1007/s11042-014-2274-x)
@@ -687,6 +694,13 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 **Authors:** Darshan Singh S, Anchit Gupta, C. V. Jawahar, Makarand Tapaswi
 <br>
 **Institution:** International Institute of Information Technology, Hyderabad
+
+**[ISCSLP-2022]**
+[Multi-Task Joint Learning for Embedding Aware Audio-Visual Speech Enhancement](https://ieeexplore.ieee.org/document/10038268/)
+<br>
+**Authors:** Chenxi Wang, Hang Chen, Jun Du, Baocai Yin, Jia Pan
+<br>
+**Institution:** University of Science and Technology of China; iFlytek
 
 #### Object Sound Separation
 **[ECCV-2018]**
@@ -1736,6 +1750,20 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Queen's University, Canada
 
+**[2023]**
+[AV-data2vec: Self-supervised Learning of Audio-Visual Speech Representations with Contextualized Target Representations](https://arxiv.org/abs/2302.06419)
+<br>
+**Authors:** Jiachen Lian, Alexei Baevski, Wei-Ning Hsu, Michael Auli
+<br>
+**Institution:** University of California; Meta AI
+
+**[AAAI-2023]**
+[Audio-Visual Contrastive Learning with Temporal Self-Supervision](https://arxiv.org/abs/2302.07702)
+<br>
+**Authors:** Simon Jenni, Alexander Black, John Collomosse
+<br>
+**Institution:** Adobe Research; University of Surrey
+
 ### Audio-visual Localization
 
 #### Sound Localization in Videos
@@ -2184,6 +2212,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Arda Senocak, Junsik Kim, Tae-Hyun Oh, Dingzeyu Li, In So Kweon
 <br>
 **Institution:** Korea Advanced Institute of Science & Technology; Harvard University; Pohang University of Science and Technology; Adobe Research
+
+**[2023]**
+[A dataset for Audio-Visual Sound Event Detection in Movies](https://arxiv.org/abs/2302.07315)
+<br>
+**Authors:** Rajat Hebbar, Digbalay Bose, Krishna Somandepalli, Veena Vijai, Shrikanth Narayanan
+<br>
+**Institution:** University of Southern California
 
 #### Parsing
 **[ECCV-2020]**
