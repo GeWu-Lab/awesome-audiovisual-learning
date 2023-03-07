@@ -195,6 +195,20 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Institution:** Korea Advanced Institute of Science and Technology; Electronics and Telecommunications Research Institute
 
+**[2023]**
+[Multimodal Speech Recognition for Language-Guided Embodied Agents](https://arxiv.org/abs/2302.14030)
+<br>
+**Authors:** Allen Chang, Xiaoyuan Zhu, Aarav Monga, Seoho Ahn, Tejas Srinivasan, Jesse Thomason
+<br>
+**Institution:** University of Southern California
+
+**[2023]**
+[MuAViC: A Multilingual Audio-Visual Corpus for Robust Speech Recognition and Robust Speech-to-Text Translation](https://arxiv.org/abs/2303.00628)
+<br>
+**Authors:** Mohamed Anwar, Bowen Shi, Vedanuj Goswami, Wei-Ning Hsu, Juan Pino, Changhan Wang
+<br>
+**Institution:** Meta AI
+
 #### Speaker Recognition
 **[MTA-2016]**
 [Audio-visual Speaker Diarization Using Fisher Linear Semi-discriminant Analysis](https://link.springer.com/article/10.1007/s11042-014-2274-x)
@@ -273,6 +287,13 @@ Science and Technology of China; Zhejiang University
 **Authors:** Xuanjun Chen, Haibin Wu, Helen Meng, Hung-yi Lee, Jyh-Shing Roger Jang
 <br>
 **Institution:** National Taiwan University; The Chinese University of Hong Kong
+
+**[ICAI-2023]**
+[Speaker Recognition in Realistic Scenario Using Multimodal Data](https://arxiv.org/abs/2302.13033)
+<br>
+**Authors:** Saqlain Hussain Shah, Muhammad Saad Saeed, Shah Nawaz, Muhammad Haroon Yousaf
+<br>
+**Institution:** University of Engineering and Technology Taxila; Swarm Robotics Lab NCRA; Deutsches Elektronen-Synchrotron DESY
 
 #### Action Recognition
 **[IJCNN-2016]**
@@ -913,6 +934,13 @@ Chenqi Kong, Baoliang Chen, Wenhan Yang, Haoliang Li, Peilin Chen, Shiqi Wang
 **Authors:** Munender Varshney, Ravindra Yadav, Vinay P. Namboodiri, Rajesh M Hegde
 <br>
 **Institution:** Indian institute of Technology; University of Bath
+
+**[ICASSP-2023]**
+[Imaginary Voice: Face-styled Diffusion Model for Text-to-Speech](https://arxiv.org/abs/2302.13700)
+<br>
+**Authors:** Jiyoung Lee, Joon Son Chung, Soo-Whan Chung
+<br>
+**Institution:** NAVER AI Lab; Korea Advanced Institute of Science and Technology; NAVER Cloud
 
 ##### Music
 **[IEEE TMM-2015]**
