@@ -209,6 +209,13 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Institution:** Meta AI
 
+**[ICASSP-2023]**
+[The NPU-ASLP System for Audio-Visual Speech Recognition in MISP 2022 Challenge](https://arxiv.org/abs/2303.06341)
+<br>
+**Authors:** Pengcheng Guo, He Wang, Bingshen Mu, Ao Zhang, Peikun Chen
+<br>
+**Institution:** Northwestern Polytechnical University
+
 #### Speaker Recognition
 **[MTA-2016]**
 [Audio-visual Speaker Diarization Using Fisher Linear Semi-discriminant Analysis](https://link.springer.com/article/10.1007/s11042-014-2274-x)
@@ -294,6 +301,20 @@ Science and Technology of China; Zhejiang University
 **Authors:** Saqlain Hussain Shah, Muhammad Saad Saeed, Shah Nawaz, Muhammad Haroon Yousaf
 <br>
 **Institution:** University of Engineering and Technology Taxila; Swarm Robotics Lab NCRA; Deutsches Elektronen-Synchrotron DESY
+
+**[CVPR-2023]**
+[A Light Weight Model for Active Speaker Detection](https://arxiv.org/abs/2303.04439)
+<br>
+**Authors:** Junhua Liao, Haihan Duan, Kanghui Feng, Wanbing Zhao, Yanbing Yang, Liangyin Chen
+<br>
+**Institution:** Sichuan University; The Chinese University of Hong Kong
+
+**[ICASSP-2023]**
+[The Multimodal Information based Speech Processing (MISP) 2022 Challenge: Audio-Visual Diarization and Recognition](https://arxiv.org/abs/2303.06326)
+<br>
+**Authors:** Zhe Wang, Shilong Wu, Hang Chen, Mao-Kui He, Jun Du, Chin-Hui Lee, Jingdong Chen, Shinji Watanabe, Sabato Siniscalchi, Odette Scharenborg, Diyuan Liu, Baocai Yin, Jia Pan, Jianqing Gao, Cong Liu
+<br>
+**Institution:** University of Science and Technology of China; Georgia Institute of Technology; Carnegie Mellon University; Kore University of Enna; iFlytek; Northwestern Polytechnical University; Delft University of Technology
 
 #### Action Recognition
 **[IJCNN-2016]**
@@ -722,6 +743,13 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 **Authors:** Chenxi Wang, Hang Chen, Jun Du, Baocai Yin, Jia Pan
 <br>
 **Institution:** University of Science and Technology of China; iFlytek
+
+**[ICASSP-2023]**
+[Real-Time Audio-Visual End-to-End Speech Enhancement](https://arxiv.org/abs/2303.07005)
+<br>
+**Authors:** Zirun Zhu, Hemin Yang, Min Tang, Ziyi Yang, Sefik Emre Eskimez, Huaming Wang
+<br>
+**Institution:** Microsoft
 
 #### Object Sound Separation
 **[ECCV-2018]**
@@ -2027,6 +2055,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Yi Zhang, Fang-Yi Chao, Wassim Hamidouche, Olivier Deforges
 <br>
 **Institution:** University Rennes; Institut National des Sciences Appliquées Rennes; Centre national de la recherche scientifique; Trinity College Dublin
+
+**[CVPR-2023]**
+[CASP-Net: Rethinking Video Saliency Prediction from an Audio-VisualConsistency Perceptual Perspective](https://arxiv.org/abs/2303.06357)
+<br>
+**Authors:** Junwen Xiong, Ganglai Wang, Peng Zhang, Wei Huang, Yufei Zha, Guangtao Zhai
+<br>
+**Institution:** Northwestern Polytechnical University; Ningbo Institute of Northwestern Polytechnical University; Nanchang University; Shanghai Jiao Tong University
 
 #### Audio-visual Navigation
 **[ECCV-2020]**
