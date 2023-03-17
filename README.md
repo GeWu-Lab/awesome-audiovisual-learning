@@ -2267,7 +2267,8 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 <br>
 **Authors:** Jinxing Zhou, Dan Guo, Meng Wang
 <br>
-**Institution:** Hefei University of Technology;
+**Institution:** Hefei University of Technology
+
 **[IEEE TPAMI-2022]**
 [Semantic and Relation Modulation for Audio-Visual Event Localization](https://ieeexplore.ieee.org/abstract/document/9990903)
 <br>
