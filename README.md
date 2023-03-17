@@ -1998,6 +1998,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** The University of Sydney; Renmin University of China; Baidu Inc.
 
+**[2023]**
+[Audio-Visual Segmentation with Semantics](https://arxiv.org/abs/2301.13190)
+<br>
+**Authors:** Jinxing Zhou, Xuyang Shen, Jianyuan Wang, Jiayi Zhang, Weixuan Sun, Jing Zhang, Stan Birchfield, Dan Guo, Lingpeng Kong, Meng Wang, Yiran Zhong
+<br>
+**Institution:** Hefei University of Technology; SenseTime Research; University of Oxford; Australian National University; Beihang University; NVIDIA; The University of Hong Kong; Shanghai Artificial Intelligence Laboratory
+
 #### Audio-visual Saliency Detection
 **[2019]**
 [DAVE: A Deep Audio-Visual Embedding for Dynamic Saliency Prediction](https://arxiv.org/abs/1905.10693)
@@ -2256,6 +2263,12 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Institution:** Science and Technology Research Laboratories, NHK; Tokyo Institute of Technology
 
 **[IEEE TPAMI-2022]**
+[Contrastive Positive Sample Propagation along the Audio-Visual Event Line](https://ieeexplore.ieee.org/abstract/document/9956870/)
+<br>
+**Authors:** Jinxing Zhou, Dan Guo, Meng Wang
+<br>
+**Institution:** Hefei University of Technology;
+**[IEEE TPAMI-2022]**
 [Semantic and Relation Modulation for Audio-Visual Event Localization](https://ieeexplore.ieee.org/abstract/document/9990903)
 <br>
 **Authors:** Hao Wang, Zheng-Jun Zha, Liang Li, Xuejin Chen, Jiebo Luo
@@ -2332,6 +2345,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Shentong Mo, Yapeng Tian
 <br>
 **Institution:** Carnegie Mellon University; University of Texas at Dallas
+
+**[2023]**
+[Improving Audio-Visual Video Parsing with Pseudo Visual Labels](https://arxiv.org/abs/2303.02344)
+<br>
+**Authors:** Jinxing Zhou, Dan Guo, Yiran Zhong, Meng Wang
+<br>
+**Institution:** Hefei University of Technology; Shanghai AI Lab
 
 ### Audio-visual Question Answering and Dialog
 #### Question Answering
