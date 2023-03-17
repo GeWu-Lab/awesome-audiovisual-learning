@@ -1743,13 +1743,6 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Kookmin University
 
-**[2022]**
-[Vision Transformers are Parameter-Efficient Audio-Visual Learners](https://arxiv.org/abs/2212.07983)
-<br>
-**Authors:** Yan-Bo Lin, Yi-Lin Sung, Jie Lei, Mohit Bansal, Gedas Bertasius
-<br>
-**Institution:** The University of North Carolina at Chapel Hill
-
 **[CVPR-2022]**
 [Audio-visual Generalised Zero-shot Learning with Cross-modal Attention and Language](https://arxiv.org/abs/2203.03598)
 <br>
@@ -1805,6 +1798,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Authors:** Amirhossein Hajavi, Ali Etemad
 <br>
 **Institution:** Queen's University, Canada
+
+**[CVPR-2023]**
+[Vision Transformers are Parameter-Efficient Audio-Visual Learners](https://arxiv.org/abs/2212.07983)
+<br>
+**Authors:** Yan-Bo Lin, Yi-Lin Sung, Jie Lei, Mohit Bansal, Gedas Bertasius
+<br>
+**Institution:** The University of North Carolina at Chapel Hill
 
 **[2023]**
 [AV-data2vec: Self-supervised Learning of Audio-Visual Speech Representations with Contextualized Target Representations](https://arxiv.org/abs/2302.06419)
