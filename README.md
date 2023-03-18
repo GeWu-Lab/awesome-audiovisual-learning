@@ -1743,7 +1743,7 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Kookmin University
 
-**[2022]**
+**[CVPR-2023]**
 [Vision Transformers are Parameter-Efficient Audio-Visual Learners](https://arxiv.org/abs/2212.07983)
 <br>
 **Authors:** Yan-Bo Lin, Yi-Lin Sung, Jie Lei, Mohit Bansal, Gedas Bertasius
