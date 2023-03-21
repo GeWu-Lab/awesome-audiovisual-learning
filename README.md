@@ -216,6 +216,13 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Institution:** Northwestern Polytechnical University
 
+**[CVPR-2023]**
+[Watch or Listen: Robust Audio-Visual Speech Recognition with Visual Corruption Modeling and Reliability Scoring](https://arxiv.org/abs/2303.08536)
+<br>
+**Authors:** Joanna Hong, Minsu Kim, Jeongsoo Choi, Yong Man Ro
+<br>
+**Institution:** KAIST
+
 #### Speaker Recognition
 **[MTA-2016]**
 [Audio-visual Speaker Diarization Using Fisher Linear Semi-discriminant Analysis](https://link.springer.com/article/10.1007/s11042-014-2274-x)
@@ -1743,6 +1750,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Kookmin University
 
+**[CVPR-2023]**
+[Vision Transformers are Parameter-Efficient Audio-Visual Learners](https://arxiv.org/abs/2212.07983)
+<br>
+**Authors:** Yan-Bo Lin, Yi-Lin Sung, Jie Lei, Mohit Bansal, Gedas Bertasius
+<br>
+**Institution:** The University of North Carolina at Chapel Hill
+
 **[CVPR-2022]**
 [Audio-visual Generalised Zero-shot Learning with Cross-modal Attention and Language](https://arxiv.org/abs/2203.03598)
 <br>
@@ -2161,6 +2175,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Abdelrahman Younes, Daniel Honerkamp, Tim Welschehold, Abhinav Valada
 <br>
 **Institution:** University of Freiburg
+
+**[2023]**
+[Audio Visual Language Maps for Robot Navigation](https://arxiv.org/abs/2303.07522)
+<br>
+**Authors:** Chenguang Huang, Oier Mees, Andy Zeng, Wolfram Burgard
+<br>
+**Institution:** University of Freiburg; Google Research; University of Technology Nuremberg
 
 ### Audio-visual Event Localization and Parsing
 #### Localization
