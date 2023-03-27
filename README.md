@@ -2040,13 +2040,6 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Australian National University; Beihang University; The University of Oxford; Shanghai AI Lab; OPPO Research Institute
 
-**[CVPR-2023]**
-[Egocentric Audio-Visual Object Localization](https://arxiv.org/abs/2303.13471)
-<br>
-**Authors:** Chao Huang, Yapeng Tian, Anurag Kumar, Chenliang Xu
-<br>
-**Institution:** University of Rochester; Meta Reality Labs Research
-
 #### Audio-visual Saliency Detection
 **[2019]**
 [DAVE: A Deep Audio-Visual Embedding for Dynamic Saliency Prediction](https://arxiv.org/abs/1905.10693)
