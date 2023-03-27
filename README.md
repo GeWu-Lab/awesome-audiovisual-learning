@@ -2019,6 +2019,34 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Hefei University of Technology; SenseTime Research; University of Oxford; Australian National University; Beihang University; NVIDIA; The University of Hong Kong; Shanghai Artificial Intelligence Laboratory
 
+**[CVPR-2023]**
+[Learning Audio-Visual Source Localization via False Negative Aware Contrastive Learning](https://arxiv.org/abs/2303.11302)
+<br>
+**Authors:** Weixuan Sun, Jiayi Zhang, Jianyuan Wang, Zheyuan Liu, Yiran Zhong, Tianpeng Feng, Yandong Guo, Yanhao Zhang, Nick Barnes
+<br>
+**Institution:** Australian National University; Beihang University; The University of Oxford; Shanghai AI Lab; OPPO Research Institute
+
+**[CVPR-2023]**
+[Egocentric Audio-Visual Object Localization](https://arxiv.org/abs/2303.13471)
+<br>
+**Authors:** Chao Huang, Yapeng Tian, Anurag Kumar, Chenliang Xu
+<br>
+**Institution:** University of Rochester; Meta Reality Labs Research
+
+**[CVPR-2023]**
+[Learning Audio-Visual Source Localization via False Negative Aware Contrastive Learning](https://arxiv.org/abs/2303.11302)
+<br>
+**Authors:** Weixuan Sun, Jiayi Zhang, Jianyuan Wang, Zheyuan Liu, Yiran Zhong, Tianpeng Feng, Yandong Guo, Yanhao Zhang, Nick Barnes
+<br>
+**Institution:** Australian National University; Beihang University; The University of Oxford; Shanghai AI Lab; OPPO Research Institute
+
+**[CVPR-2023]**
+[Egocentric Audio-Visual Object Localization](https://arxiv.org/abs/2303.13471)
+<br>
+**Authors:** Chao Huang, Yapeng Tian, Anurag Kumar, Chenliang Xu
+<br>
+**Institution:** University of Rochester; Meta Reality Labs Research
+
 #### Audio-visual Saliency Detection
 **[2019]**
 [DAVE: A Deep Audio-Visual Embedding for Dynamic Saliency Prediction](https://arxiv.org/abs/1905.10693)
@@ -2317,6 +2345,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Rajat Hebbar, Digbalay Bose, Krishna Somandepalli, Veena Vijai, Shrikanth Narayanan
 <br>
 **Institution:** University of Southern California
+
+**[CVPR-2023]**
+[Dense-Localizing Audio-Visual Events in Untrimmed Videos: A Large-Scale Benchmark and Baseline](https://arxiv.org/abs/2303.12930)
+<br>
+**Authors:** Tiantian Geng, Teng Wang, Jinming Duan, Runmin Cong, Feng Zheng
+<br>
+**Institution:** Southern University of Science and Technology; University of Birmingham; The University of Hong Kong; Shandong University; Peng Cheng Laboratory
 
 #### Parsing
 **[ECCV-2020]**
