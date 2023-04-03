@@ -223,6 +223,27 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Institution:** KAIST
 
+**[ICASSP-2023]**
+[Auto-AVSR: Audio-Visual Speech Recognition with Automatic Labels](https://arxiv.org/abs/2303.14307)
+<br>
+**Authors:** Pingchuan Ma, Alexandros Haliassos, Adriana Fernandez-Lopez, Honglie Chen, Stavros Petridis, Maja Pantic
+<br>
+**Institution:** Imperial College London; Meta AI
+
+**[CVPR-2023]**
+[AVFormer: Injecting Vision into Frozen Speech Models for Zero-Shot AV-ASR](https://arxiv.org/abs/2303.16501)
+<br>
+**Authors:** Paul Hongsuck Seo, Arsha Nagrani, Cordelia Schmid
+<br>
+**Institution:** Google Research
+
+**[CVPR-2023]**
+[SynthVSR: Scaling Up Visual Speech Recognition With Synthetic Supervision](https://arxiv.org/abs/2303.17200)
+<br>
+**Authors:** Xubo Liu, Egor Lakomkin, Konstantinos Vougioukas, Pingchuan Ma, Honglie Chen, Ruiming Xie, Morrie Doulaty, Niko Moritz, Jáchym Kolář, Stavros Petridis, Maja Pantic, Christian Fuegen
+<br>
+**Institution:** University of Surrey; Meta AI
+
 #### Speaker Recognition
 **[MTA-2016]**
 [Audio-visual Speaker Diarization Using Fisher Linear Semi-discriminant Analysis](https://link.springer.com/article/10.1007/s11042-014-2274-x)
@@ -864,6 +885,13 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 <br>
 **Institution:** Sony Group Corporation; University of California San Diego
 
+**[CVPR-2023]**
+[Language-Guided Audio-Visual Source Separation via Trimodal Consistency](https://arxiv.org/abs/2303.16342) 
+<br>
+**Authors:** Reuben Tan, Arijit Ray, Andrea Burns, Bryan A. Plummer, Justin Salamon, <br>
+**Institution:** Oriol Nieto, Bryan Russell, Kate Saenko
+Boston University; Adobe Research; MIT-IBM Watson AI Lab, IBM Research
+
 #### Face Super-resolution and Reconstruction
 **[CVPR-2020]**
 [Learning to Have an Ear for Face Super-Resolution](https://openaccess.thecvf.com/content_CVPR_2020/html/Meishvili_Learning_to_Have_an_Ear_for_Face_Super-Resolution_CVPR_2020_paper.html)
@@ -1044,6 +1072,7 @@ Zeren Jiang, Si Liu, Zhaokai Wang, Leyan Zhu, Zexin He, Hongming Liu, Shuicheng 
 **Authors:** Runbang Zhang, Yixiao Zhang, Kai Shao, Ying Shan, Gus Xia
 <br>
 **Institution:** New York University, Shanghai; Queen Mary University of London; Tencent Inc.; Mohamed bin Zayed University of Artificial Intelligence
+
 ##### Natural Sound
 **[CVPR-2016]**
 [Visually Indicated Sounds](https://openaccess.thecvf.com/content_cvpr_2016/html/Owens_Visually_Indicated_Sounds_CVPR_2016_paper.html)
@@ -1087,6 +1116,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Authors:** Roy Sheffer, Yossi Adi
 <br>
 **Institution:** The Hebrew University of Jerusalem
+
+**[CVPR-2023]**
+[Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos](https://arxiv.org/abs/2303.16897)
+<br>
+**Authors:** Kun Su, Kaizhi Qian, Eli Shlizerman, Antonio Torralba, Chuang Gan
+<br>
+**Institution:** University of Washington; MIT-IBM Watson AI Lab; MIT; UMass Amherst
 
 #### Spatial Sound Generation
 **[ACM TOG-2018]**
@@ -1281,6 +1317,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** The University of Hong Kong; The Hong Kong University of Science and Technology; Adobe Research; Texas A&M University
 
+**[CVPR-2023]**
+[Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert](https://arxiv.org/abs/2303.17480)
+<br>
+**Authors:** Jiadong Wang, Xinyuan Qian, Malu Zhang, Robby T. Tan, Haizhou Li
+<br>
+**Institution:** National University of Singapore; University of Science and Technology Beijing; University of Electronic Science and Technology of China; The Chinese University of Hong Kong
+
 #### Gesture
 **[IVA-2018]**
 [Evaluation of Speech-to-Gesture Generation Using Bi-Directional LSTM Network](https://dl.acm.org/doi/abs/10.1145/3267851.3267878)
@@ -1402,6 +1445,23 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:**  Nanyang Technological University; Sun Yat-Sen University; University of California, Los Angeles; SenseTime Research
 
+#### Image Manipulation
+**[2021]**
+[Sound-guided semantic image manipulation](https://arxiv.org/abs/2112.00007)
+Seung Hyun Lee, Wonseok Roh, Wonmin Byeon, Sang Ho Yoon, Chan Young Kim, Jinkyu Kim, Sangpil Kim
+Korea University; KAIST; NVIDIA Corp.
+
+**[2022]**
+[Learning visual styles from audio-visual associations](https://arxiv.org/abs/2205.05072)
+Tingle Li, Yichen Liu, Andrew Owens, Hang Zhao
+Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
+
+**[CVPR-2023]**
+[Sound to Visual Scene Generation by Audio-to-Visual Latent Alignment](https://arxiv.org/abs/2303.17490)
+<br>
+**Authors:** Kim Sung-Bin, Arda Senocak, Hyunwoo Ha, Andrew Owens, Tae-Hyun Oh
+<br>
+**Institution:** Pohang University of Science and Technology; KAIST; University of Michigan; Yonsei University
 
 #### Depth Estimation
 **[ICRA-2020]**
@@ -2040,6 +2100,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Australian National University; Beihang University; The University of Oxford; Shanghai AI Lab; OPPO Research Institute
 
+**[CVPR-2023]**
+[Audio-Visual Grouping Network for Sound Localization from Mixtures](https://arxiv.org/abs/2303.17056)
+<br>
+**Authors:** Shentong Mo, Yapeng Tian
+<br>
+**Institution:** Carnegie Mellon University; University of Texas at Dallas
+
 #### Audio-visual Saliency Detection
 **[2019]**
 [DAVE: A Deep Audio-Visual Embedding for Dynamic Saliency Prediction](https://arxiv.org/abs/1905.10693)
@@ -2345,6 +2412,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Tiantian Geng, Teng Wang, Jinming Duan, Runmin Cong, Feng Zheng
 <br>
 **Institution:** Southern University of Science and Technology; University of Birmingham; The University of Hong Kong; Shandong University; Peng Cheng Laboratory
+
+**[CVPR-2023]**
+[Collaborative Noisy Label Cleaner: Learning Scene-aware Trailers for Multi-modal Highlight Detection in Movies](https://arxiv.org/abs/2303.14768)
+<br>
+**Authors:** Bei Gan, Xiujun Shu, Ruizhi Qiao, Haoqian Wu, Keyu Chen, Hanjun Li, Bo Ren
+<br>
+**Institution:** Tencent YouTu Lab
 
 #### Parsing
 **[ECCV-2020]**
