@@ -30,6 +30,7 @@ This is a curated list of audio-visual learning methods and datasets, based on o
         - [Talking face](#talking-face)
         - [Gesture](#gesture)
         - [Dance](#dance)
+        - [Image Manipulation](#image-manipulation)
       - [Depth Estimation](#depth-estimation)
     - [Audio-visual Transfer Learning](#audio-visual-transfer-learning)
     - [Cross-modal Retrieval](#cross-modal-retrieval)
