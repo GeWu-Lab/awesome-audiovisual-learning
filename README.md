@@ -531,7 +531,7 @@ Intelligent Networks and Network Security
 <br>
 **Institution:** Southwest Jiaotong University; Southwestern University of Finance and Economics; Tencent; University of Electronic Science and Technology of China; Nanyang Technological University
 
-**[IEEE TAC-2021]**
+**[IEEE TAFFC-2021]**
 [Multi-modal Sarcasm Detection and Humor Classification in Code-mixed Conversations](https://ieeexplore.ieee.org/abstract/document/9442359)
 <br>
 **Authors:** Manjot Bedi, Shivani Kumar, Md Shad Akhtar, Tanmoy Chakraborty
@@ -580,7 +580,7 @@ Intelligent Networks and Network Security
 <br>
 **Institution:** Tampere University; Aarhus University
 
-**[IEEE TAC-2023]**
+**[IEEE TAFFC-2023]**
 [Audio-Visual Emotion Recognition With Preference Learning Based on Intended and Multi-Modal Perceived Labels](https://ieeexplore.ieee.org/document/10008998)
 <br>
 **Authors:** Yuanyuan Lei, Houwei Cao
