@@ -1074,6 +1074,13 @@ Zeren Jiang, Si Liu, Zhaokai Wang, Leyan Zhu, Zexin He, Hongming Liu, Shuicheng 
 <br>
 **Institution:** New York University, Shanghai; Queen Mary University of London; Tencent Inc.; Mohamed bin Zayed University of Artificial Intelligence
 
+**[CVPR-2023]**
+[Conditional Generation of Audio from Video via Foley Analogies](https://arxiv.org/abs/2304.08490)
+<br>
+**Authors:** Yuexi Du, Ziyang Chen, Justin Salamon, Bryan Russell, Andrew Owens
+<br>
+**Institution:** University of Michigan; Yale University; Adobe Research
+
 ##### Natural Sound
 **[CVPR-2016]**
 [Visually Indicated Sounds](https://openaccess.thecvf.com/content_cvpr_2016/html/Owens_Visually_Indicated_Sounds_CVPR_2016_paper.html)
