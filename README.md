@@ -1118,7 +1118,7 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Tianjin University
 
-**[2022]**
+**[ICASSP-2023]**
 [I Hear Your True Colors: Image Guided Audio Generation](https://arxiv.org/abs/2211.03089)
 <br>
 **Authors:** Roy Sheffer, Yossi Adi
@@ -2024,7 +2024,7 @@ Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
 <br>
 **Institution:** University of Michigan; The University of Texas at Austin
 
-**[2022]**
+**[ICASSP-2023]**
 [MarginNCE: Robust Sound Localization with a Negative Margin](https://arxiv.org/abs/2211.01966)
 <br>
 **Authors:** Sooyoung Park, Arda Senocak, Joon Son Chung
@@ -2407,7 +2407,7 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 <br>
 **Institution:** Korea Advanced Institute of Science & Technology; Harvard University; Pohang University of Science and Technology; Adobe Research
 
-**[2023]**
+**[ICASSP-2023]**
 [A dataset for Audio-Visual Sound Event Detection in Movies](https://arxiv.org/abs/2302.07315)
 <br>
 **Authors:** Rajat Hebbar, Digbalay Bose, Krishna Somandepalli, Veena Vijai, Shrikanth Narayanan
