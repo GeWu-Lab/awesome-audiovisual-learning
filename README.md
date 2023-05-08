@@ -154,7 +154,7 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Institution:** University of Science and Technology of China; Chinese Academy of Sciences; iFLYTEK Co., Ltd.
 
-**[2022]**
+**[ICASSP-2023]**
 [Self-Supervised Audio-Visual Speech Representations Learning By Multimodal Self-Distillation](https://arxiv.org/abs/2212.02782)
 <br>
 **Authors:** Jing-Xuan Zhang, Genshun Wan, Zhen-Hua Ling, Jia Pan, Jianqing Gao, Cong Liu
@@ -453,7 +453,7 @@ Intelligent Networks and Network Security
 <br>
 **Institution:** NAVER Clova; KAIST; NAVER AI Lab; Yonsei University
 
-**[2023]**
+**[ICASSP-2023]**
 [Epic-Sounds: A Large-scale Dataset of Actions That Sound](https://arxiv.org/abs/2302.00646)
 <br>
 **Authors:** Jaesung Huh, Jacob Chalk, Evangelos Kazakos, Dima Damen, Andrew Zisserman
