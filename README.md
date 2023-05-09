@@ -245,6 +245,34 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Institution:** University of Surrey; Meta AI
 
+**[ICASSP-2023]**
+[Multi-Temporal Lip-Audio Memory for Visual Speech Recognition](https://ieeexplore.ieee.org/document/10094693)
+<br>
+**Authors:** Jeong Hun Yeo, Minsu Kim, Yong Man Ro
+<br>
+**Institution:** KAIST
+
+**[ICASSP-2023]**
+[On the Role of LIP Articulation in Visual Speech Perception](https://ieeexplore.ieee.org/document/10096012)
+<br>
+**Authors:** Zakaria Aldeneh, Masha Fedzechkina, Skyler Seto, Katherine Metcalf, Miguel Sarabia, Nicholas Apostoloff, Barry-John Theobald
+<br>
+**Institution:** Apple Inc.
+
+**[ICASSP-2023]**
+[Practice of the Conformer Enhanced Audio-Visual Hubert on Mandarin and English](https://ieeexplore.ieee.org/document/10094579/)
+<br>
+**Authors:** Xiaoming Ren, Chao Li, Shenjian Wang, Biao Li
+<br>
+**Institution:** Beijing OPPO Telecommunications Corp., ltd.
+
+**[ICASSP-2023]**
+[Robust Audio-Visual ASR with Unified Cross-Modal Attention](https://ieeexplore.ieee.org/document/10096893/)
+<br>
+**Authors:** Jiahong Li, Chenda Li, Yifei Wu, Yanmin Qian
+<br>
+**Institution:** Shanghai Jiao Tong University
+
 #### Speaker Recognition
 **[MTA-2016]**
 [Audio-visual Speaker Diarization Using Fisher Linear Semi-discriminant Analysis](https://link.springer.com/article/10.1007/s11042-014-2274-x)
@@ -344,6 +372,62 @@ Science and Technology of China; Zhejiang University
 **Authors:** Zhe Wang, Shilong Wu, Hang Chen, Mao-Kui He, Jun Du, Chin-Hui Lee, Jingdong Chen, Shinji Watanabe, Sabato Siniscalchi, Odette Scharenborg, Diyuan Liu, Baocai Yin, Jia Pan, Jianqing Gao, Cong Liu
 <br>
 **Institution:** University of Science and Technology of China; Georgia Institute of Technology; Carnegie Mellon University; Kore University of Enna; iFlytek; Northwestern Polytechnical University; Delft University of Technology
+
+**[ICASSP-2023]**
+[ImagineNet: Target Speaker Extraction with Intermittent Visual Cue Through Embedding Inpainting](https://ieeexplore.ieee.org/document/10097232/)
+<br>
+**Authors:** Zexu Pan, Wupeng Wang, Marvin Borsdorf, Haizhou Li
+<br>
+**Institution:** National University of Singapore; University of Bremen; The Chinese University of Hong Kong
+
+**[ICASSP-2023]**
+[Speaker Recognition with Two-Step Multi-Modal Deep Cleansing](https://ieeexplore.ieee.org/document/10096814)
+<br>
+**Authors:** Ruijie Tao, Kong Aik Lee, Zhan Shi, Haizhou Li
+<br>
+**Institution:** National University of Singapore; A*STAR; The Chinese University of Hong Kong; University of Bremen; Shenzhen Research Institute of Big Data
+
+**[ICASSP-2023]**
+[Audio-Visual Speaker Diarization in the Framework of Multi-User Human-Robot Interaction](https://ieeexplore.ieee.org/document/10096295)
+<br>
+**Authors:** Timothée Dhaussy, Bassam Jabaian, Fabrice Lefèvre, Radu Horaud
+<br>
+**Institution:** Avignon University; Université Grenoble Alpes
+
+**[ICASSP-2023]**
+[Cross-Modal Audio-Visual Co-Learning for Text-Independent Speaker Verification](https://ieeexplore.ieee.org/document/10095883/)
+<br>
+**Authors:** Meng Liu, Kong Aik Lee, Longbiao Wang, Hanyi Zhang, Chang Zeng, Jianwu Dang
+<br>
+**Institution:** Tianjin University; A⋆STAR;Singapore Institute of Technology; National Institute of Informatics
+
+**[ICASSP-2023]**
+[Multi-Speaker End-to-End Multi-Modal Speaker Diarization System for the MISP 2022 Challenge](https://ieeexplore.ieee.org/document/10096327/)
+<br>
+**Authors:** Tao Liu, Zhengyang Chen, Yanmin Qian, Kai Yu
+<br>
+**Institution:** Shanghai Jiao Tong University
+
+**[ICASSP-2023]**
+[Av-Sepformer: Cross-Attention Sepformer for Audio-Visual Target Speaker Extraction](https://ieeexplore.ieee.org/document/10094306/)
+<br>
+**Authors:** Jiuxin Lin, Xinyu Cai, Heinrich Dinkel, Jun Chen, Zhiyong Yan, Yongqing Wang, Junbo Zhang, Zhiyong Wu, Yujun Wang, Helen Meng
+<br>
+**Institution:** Tsinghua University; Xiaomi Inc.; The Chinese University of Hong Kong
+
+**[ICASSP-2023]**
+[The WHU-Alibaba Audio-Visual Speaker Diarization System for the MISP 2022 Challenge](https://ieeexplore.ieee.org/document/10095802/)
+<br>
+**Authors:** Ming Cheng, Haoxu Wang, Ziteng Wang, Qiang Fu, Ming Li
+<br>
+**Institution:** Wuhan University; Duke Kunshan University; Alibaba Group
+
+**[ICASSP-2023]**
+[Self-Supervised Audio-Visual Speaker Representation with Co-Meta Learning](https://ieeexplore.ieee.org/document/10096925)
+<br>
+**Authors:** Hui Chen, Hanyi Zhang, Longbiao Wang, Kong Aik Lee, Meng Liu, Jianwu Dang
+<br>
+**Institution:** Tianjin University; A*STAR
 
 #### Action Recognition
 **[IJCNN-2016]**
@@ -459,6 +543,13 @@ Intelligent Networks and Network Security
 **Authors:** Jaesung Huh, Jacob Chalk, Evangelos Kazakos, Dima Damen, Andrew Zisserman
 <br>
 **Institution:** University of Oxford; University of Bristol
+
+**[ICASSP-2023]**
+[AV-TAD: Audio-Visual Temporal Action Detection With Transformer](https://ieeexplore.ieee.org/document/10095592/)
+<br>
+**Authors:** Yangcheng Li, Zefang Yu, Suncheng Xiang, Ting Liu, Yuzhuo Fu
+<br>
+**Institution:** Shanghai Jiao Tong University
 
 #### Emotion Recognition
 **[EMNLP-2017]**
@@ -593,6 +684,20 @@ Intelligent Networks and Network Security
 **Authors:** R Gnana Praveen, Patrick Cardinal, Eric Granger
 <br>
 **Institution:** Ecole de technologie supérieure
+
+**[ICASSP-2023]**
+[Adapted Multimodal Bert with Layer-Wise Fusion for Sentiment Analysis](https://ieeexplore.ieee.org/document/10094923/)
+<br>
+**Authors:** Odysseas S. Chlapanis, Georgios Paraskevopoulos, Alexandros Potamianos
+<br>
+**Institution:** National Technical University of Athens; Institute for Language and Speech Processing
+
+**[ICASSP-2023]**
+[Recursive Joint Attention for Audio-Visual Fusion in Regression Based Emotion Recognition](https://ieeexplore.ieee.org/document/10095234/)
+<br>
+**Authors:** R Gnana Praveen, Eric Granger, Patrick Cardinal
+<br>
+**Institution:** École de Technologie supérieure
 
 ### Uni-modal Enhancement
 
@@ -780,6 +885,76 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 <br>
 **Institution:** Microsoft
 
+**[ICASSP-2023]**
+[Efficient Intelligibility Evaluation Using Keyword Spotting: A Study on Audio-Visual Speech Enhancement](https://ieeexplore.ieee.org/document/10096479/)
+<br>
+**Authors:** Cassia Valentini-Botinhao, Andrea Lorena Aldana Blanco, Ondrej Klejch, Peter Bell
+<br>
+**Institution:** University of Edinburgh
+
+**[ICASSP-2023]**
+[Incorporating Visual Information Reconstruction into Progressive Learning for Optimizing audio-visual Speech Enhancement](https://ieeexplore.ieee.org/document/10096507)
+<br>
+**Authors:** Chenyue Zhang, Hang Chen, Jun Du, Baocai Yin, Jia Pan, Chinhui Lee
+<br>
+**Institution:** University of Science and Technology of China; iFlytek Co., Ltd.; Georgia Institute of Technology
+
+**[ICASSP-2023]**
+[Real-Time Audio-Visual End-To-End Speech Enhancement](https://ieeexplore.ieee.org/document/10094724)
+<br>
+**Authors:** Zirun Zhu, Hemin Yang, Min Tang, Ziyi Yang, Sefik Emre Eskimez, Huaming Wang
+<br>
+**Institution:** Microsoft
+
+**[ICASSP-2023]**
+[Audio-Visual Speech Enhancement with a Deep Kalman Filter Generative Model](https://ieeexplore.ieee.org/document/10094849)
+<br>
+**Authors:** Ali Golmakani, Mostafa Sadeghi, Romain Serizel
+<br>
+**Institution:** Université de Lorraine
+
+**[ICASSP-2023]**
+[A Multi-Scale Feature Aggregation Based Lightweight Network for Audio-Visual Speech Enhancement](https://ieeexplore.ieee.org/document/10096565)
+<br>
+**Authors:** Haitao Xu, Liangfa Wei, Jie Zhang, Jianming Yang, Yannan Wang, Tian Gao, Xin Fang, Lirong Dai
+<br>
+**Institution:** University of Science and Technology of China; Ethereal Audio Lab; Tsinghua Shenzhen International Graduate School
+
+**[ICASSP-2023]**
+[Egocentric Audio-Visual Noise Suppression](https://ieeexplore.ieee.org/document/10095890)
+<br>
+**Authors:** Roshan Sharma, Weipeng He, Ju Lin, Egor Lakomkin, Yang Liu, Kaustubh Kalgaonkar
+<br>
+**Institution:** Carnegie Mellon University; Meta
+
+**[ICASSP-2023]**
+[Dual-Path Cross-Modal Attention for Better Audio-Visual Speech Extraction](https://ieeexplore.ieee.org/document/10096732/)
+<br>
+**Authors:** Zhongweiyang Xu, Xulin Fan, Mark Hasegawa-Johnson
+<br>
+**Institution:** University of Illinois at Urbana-Champaign
+
+**[ICASSP-2023]**
+[On the Role of Visual Context in Enriching Music Representations](https://ieeexplore.ieee.org/document/10094915/)
+<br>
+**Authors:** Kleanthis Avramidis, Shanti Stewart, Shrikanth Narayanan
+<br>
+**Institution:** University of Southern California
+
+**[ICASSP-2023]**
+[LA-VOCE: LOW-SNR Audio-Visual Speech Enhancement Using Neural Vocoders](https://ieeexplore.ieee.org/document/10096390/)
+<br>
+**Authors:** Rodrigo Mira, Buye Xu, Jacob Donley, Anurag Kumar, Stavros Petridis, Vamsi Krishna Ithapu, Maja Pantic
+<br>
+**Institution:** Imperial College London; Meta
+
+**[ICASSP-2023]**
+[Learning Audio-Visual Dereverberation](https://ieeexplore.ieee.org/document/10095818)
+<br>
+**Authors:** Changan Chen, Wei Sun, David Harwath, Kristen Grauman
+<br>
+**Institution:** The University of Texas at Austin; Meta AI
+
 #### Object Sound Separation
 **[ECCV-2018]**
 [Learning to Separate Object Sounds by Watching Unlabeled Video](https://openaccess.thecvf.com/content_ECCV_2018/html/Ruohan_Gao_Learning_to_Separate_ECCV_2018_paper.html)
@@ -929,6 +1104,13 @@ Chenqi Kong, Baoliang Chen, Wenhan Yang, Haoliang Li, Peilin Chen, Shiqi Wang
 **Authors:** Madhav Agarwal, Rudrabha Mukhopadhyay, Vinay Namboodiri, C V Jawahar
 <br>
 **Institution:** International Institute of Information Technology, Hyderabad; University of Bath
+
+**[ICASSP-2023]**
+[Hearing and Seeing Abnormality: Self-Supervised Audio-Visual Mutual Learning for Deepfake Detection](https://ieeexplore.ieee.org/document/10095247/)
+<br>
+**Authors:** Changsung Sung, Juncheng Chen, Chusong Chen
+<br>
+**Institution:** National Taiwan University; Academia Sinica
 
 ## Cross-modal Perception
 
@@ -1080,6 +1262,13 @@ Zeren Jiang, Si Liu, Zhaokai Wang, Leyan Zhu, Zexin He, Hongming Liu, Shuicheng 
 **Authors:** Yuexi Du, Ziyang Chen, Justin Salamon, Bryan Russell, Andrew Owens
 <br>
 **Institution:** University of Michigan; Yale University; Adobe Research
+
+**[ICML-2023]**
+[Long-Term Rhythmic Video Soundtracker](https://arxiv.org/abs/2305.01319)
+<br>
+**Authors:** Jiashuo Yu, Yaohui Wang, Xinyuan Chen, Xiao Sun, Yu Qiao
+<br>
+**Institution:** Shanghai Artificial Intelligence Laboratory
 
 ##### Natural Sound
 **[CVPR-2016]**
@@ -1331,6 +1520,34 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Authors:** Jiadong Wang, Xinyuan Qian, Malu Zhang, Robby T. Tan, Haizhou Li
 <br>
 **Institution:** National University of Singapore; University of Science and Technology Beijing; University of Electronic Science and Technology of China; The Chinese University of Hong Kong
+
+**[ICASSP-2023]**
+[Free-View Expressive Talking Head Video Editing](https://ieeexplore.ieee.org/document/10095745/)
+<br>
+**Authors:** Yuantian Huang, Satoshi Iizuka, Kazuhiro Fukui
+<br>
+**Institution:** University of Tsukuba
+
+**[ICASSP-2023]**
+[Audio-Driven Facial Landmark Generation in Violin Performance using 3DCNN Network with Self Attention Model](https://ieeexplore.ieee.org/document/10096358/)
+<br>
+**Authors:** Tingwei Lin, Chaolin Liu, Li Su
+<br>
+**Institution:** Taiwan International Graduate Program; Academia Sinica; National Chengchi University
+
+**[ICASSP-2023]**
+[Naturalistic Head Motion Generation from Speech](https://ieeexplore.ieee.org/document/10095684)
+<br>
+**Authors:** Trisha Mittal, Zakaria Aldeneh, Masha Fedzechkina, Anurag Ranjan, Barry-John Theobald
+<br>
+**Institution:** University of Maryland; Apple Inc.
+
+**[ICASSP-2023]**
+[Audio-Visual Inpainting: Reconstructing Missing Visual Information with Sound](https://ieeexplore.ieee.org/document/10095447/)
+<br>
+**Authors:** Valentina Sanguineti, Sanket Thakur, Pietro Morerio, Alessio Del Bue, Vittorio Murino
+<br>
+**Institution:** Istituto Italiano di Tecnologia; University of Genova
 
 #### Gesture
 **[IVA-2018]**
@@ -2115,6 +2332,13 @@ Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
 <br>
 **Institution:** Carnegie Mellon University; University of Texas at Dallas
 
+**[ICASSP-2023]**
+[Flowgrad: Using Motion for Visual Sound Source Localization](https://ieeexplore.ieee.org/document/10094965)
+<br>
+**Authors:** Rajsuryan Singh, Pablo Zinemanas, Xavier Serra, Juan Pablo Bello, Magdalena Fuentes
+<br>
+**Institution:** Universitat Pompeu Fabra; New York University
+
 #### Audio-visual Saliency Detection
 **[2019]**
 [DAVE: A Deep Audio-Visual Embedding for Dynamic Saliency Prediction](https://arxiv.org/abs/1905.10693)
@@ -2428,6 +2652,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 <br>
 **Institution:** Tencent YouTu Lab
 
+**[ICASSP-2023]**
+[Collaborative Audio-Visual Event Localization Based on Sequential Decision and Cross-Modal Consistency](https://ieeexplore.ieee.org/document/10095807/)
+<br>
+**Authors:** Yuqian Kuang, Xiaopeng Fan
+<br>
+**Institution:** Harbin Institute of Technology; PengCheng Lab
+
 #### Parsing
 **[ECCV-2020]**
 [Unified Multisensory Perception: Weakly-Supervised Audio-Visual Video Parsing](https://link.springer.com/chapter/10.1007/978-3-030-58580-8_26)
@@ -2484,6 +2715,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Jinxing Zhou, Dan Guo, Yiran Zhong, Meng Wang
 <br>
 **Institution:** Hefei University of Technology; Shanghai AI Lab
+
+**[ICASSP-2023]**
+[CM-CS: Cross-Modal Common-Specific Feature Learning For Audio-Visual Video Parsing](https://ieeexplore.ieee.org/document/10097072/)
+<br>
+**Authors:** Hongbo Chen, Dongchen Zhu, Guanghui Zhang, Wenjun Shi, Xiaolin Zhang, Jiamao Li
+<br>
+**Institution:** Chinese Academy of Sciences; ShanghaiTech University; University of Chinese Academy of Sciences
 
 ### Audio-visual Question Answering and Dialog
 #### Question Answering
