@@ -273,6 +273,20 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Institution:** Shanghai Jiao Tong University
 
+**[IJCAI-2023]**
+[Cross-Modal Global Interaction and Local Alignment for Audio-Visual Speech Recognition](https://arxiv.org/abs/2305.09212)
+<br>
+**Authors:** Yuchen Hu, Ruizhe Li, Chen Chen, Heqing Zou, Qiushi Zhu, Eng Siong Chng
+<br>
+**Institution:** Nanyang Technological University; University of Aberdeen; University of Science and Technology of China
+
+**[Interspeech-2023]**
+[Prompting the Hidden Talent of Web-Scale Speech Models for Zero-Shot Task Generalization](https://arxiv.org/abs/2305.11095)
+<br>
+**Authors:** Puyuan Peng, Brian Yan, Shinji Watanabe, David Harwath
+<br>
+**Institution:** The University of Texas at Austin; Carnegie Mellon University
+
 #### Speaker Recognition
 **[MTA-2016]**
 [Audio-visual Speaker Diarization Using Fisher Linear Semi-discriminant Analysis](https://link.springer.com/article/10.1007/s11042-014-2274-x)
@@ -1548,6 +1562,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Authors:** Valentina Sanguineti, Sanket Thakur, Pietro Morerio, Alessio Del Bue, Vittorio Murino
 <br>
 **Institution:** Istituto Italiano di Tecnologia; University of Genova
+
+**[CVPR-2023]**
+[Identity-Preserving Talking Face Generation with Landmark and Appearance Priors](https://arxiv.org/abs/2305.08293)
+<br>
+**Authors:** Weizhi Zhong, Chaowei Fang, Yinqi Cai, Pengxu Wei, Gangming Zhao, Liang Lin, Guanbin Li
+<br>
+**Institution:** Sun Yat-sen University; Xidian University; The University of Hong Kong
 
 #### Gesture
 **[IVA-2018]**
