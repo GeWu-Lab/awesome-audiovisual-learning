@@ -287,6 +287,20 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Institution:** The University of Texas at Austin; Carnegie Mellon University
 
+**[Interspeech-2023]**
+[Improving the Gap in Visual Speech Recognition Between Normal and Silent Speech Based on Metric Learning](https://arxiv.org/abs/2305.14203)
+<br>
+**Authors:** Sara Kashiwagi, Keitaro Tanaka, Qi Feng, Shigeo Morishima
+<br>
+**Institution:** Waseda University; Waseda Research Institute for Science and Engineering
+
+**[ACL-2023]**
+[AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation](https://arxiv.org/abs/2305.15403)
+<br>
+**Authors:** Rongjie Huang, Huadai Liu, Xize Cheng, Yi Ren, Linjun Li, Zhenhui Ye, Jinzheng He, Lichao Zhang, Jinglin Liu, Xiang Yin, Zhou Zhao
+<br>
+**Institution:** Zhejiang University; ByteDance
+
 #### Speaker Recognition
 **[MTA-2016]**
 [Audio-visual Speaker Diarization Using Fisher Linear Semi-discriminant Analysis](https://link.springer.com/article/10.1007/s11042-014-2274-x)
@@ -442,6 +456,20 @@ Science and Technology of China; Zhejiang University
 **Authors:** Hui Chen, Hanyi Zhang, Longbiao Wang, Kong Aik Lee, Meng Liu, Jianwu Dang
 <br>
 **Institution:** Tianjin University; A*STAR
+
+**[Interspeech-2023]**
+[Target Active Speaker Detection with Audio-visual Cues](https://arxiv.org/abs/2305.12831)
+<br>
+**Authors:** Yidi Jiang, Ruijie Tao, Zexu Pan, Haizhou Li
+<br>
+**Institution:** National University of Singapore; The Chinese University of Hong Kong
+
+**[Interspeech-2023]**
+[CN-Celeb-AV: A Multi-Genre Audio-Visual Dataset for Person Recognition](https://arxiv.org/abs/2305.16049)
+<br>
+**Authors:** Lantian Li, Xiaolou Li, Haoyu Jiang, Chen Chen, Ruihai Hou, Dong Wang
+<br>
+**Institution:** Tsinghua University; Beijing University of Posts and Telecommunications
 
 #### Action Recognition
 **[IJCNN-2016]**
@@ -969,6 +997,13 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 <br>
 **Institution:** The University of Texas at Austin; Meta AI
 
+**[Interspeech-2023]**
+[Incorporating Ultrasound Tongue Images for Audio-Visual Speech Enhancement through Knowledge Distillation](https://arxiv.org/abs/2305.14933)
+<br>
+**Authors:** Rui-Chen Zheng, Yang Ai, Zhen-Hua Ling
+<br>
+**Institution:** University of Science and Technology of China
+
 #### Object Sound Separation
 **[ECCV-2018]**
 [Learning to Separate Object Sounds by Watching Unlabeled Video](https://openaccess.thecvf.com/content_ECCV_2018/html/Ruohan_Gao_Learning_to_Separate_ECCV_2018_paper.html)
@@ -1082,6 +1117,13 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 **Institution:** Oriol Nieto, Bryan Russell, Kate Saenko
 Boston University; Adobe Research; MIT-IBM Watson AI Lab, IBM Research
 
+**[CVPR-2023]**
+[iQuery: Instruments As Queries for Audio-Visual Sound Separation](https://arxiv.org/abs/2212.03814)
+<br>
+**Authors:** Jiaben Chen, Renrui Zhang, Dongze Lian, Jiaqi Yang, Ziyao Zeng, Jianbo Shi
+<br>
+**Institution:** University of California San Diego; Shanghai AI Laboratory; The Chinese University of Hong Kong; National University of Singapore; ShanghaiTech University; University of Pennsylvania
+
 #### Face Super-resolution and Reconstruction
 **[CVPR-2020]**
 [Learning to Have an Ear for Face Super-Resolution](https://openaccess.thecvf.com/content_CVPR_2020/html/Meishvili_Learning_to_Have_an_Ear_for_Face_Super-Resolution_CVPR_2020_paper.html)
@@ -1125,6 +1167,20 @@ Chenqi Kong, Baoliang Chen, Wenhan Yang, Haoliang Li, Peilin Chen, Shiqi Wang
 **Authors:** Changsung Sung, Juncheng Chen, Chusong Chen
 <br>
 **Institution:** National Taiwan University; Academia Sinica
+
+**[CVPR-2023]**
+[AVFace: Towards Detailed Audio-Visual 4D Face Reconstruction](https://arxiv.org/abs/2304.13115)
+<br>
+**Authors:** Aggelina Chatziagapi, Dimitris Samaras
+<br>
+**Institution:** Stony Brook University
+
+**[CVPR-2023]**
+[Parametric Implicit Face Representation for Audio-Driven Facial Reenactment](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Parametric_Implicit_Face_Representation_for_Audio-Driven_Facial_Reenactment_CVPR_2023_paper.pdf)
+<br>
+**Authors:** Ricong Huang, Peiwen Lai, Yipeng Qin, Guanbin Li
+<br>
+**Institution:** Sun Yat-sen University; Cardiff University
 
 ## Cross-modal Perception
 
@@ -1201,6 +1257,13 @@ Chenqi Kong, Baoliang Chen, Wenhan Yang, Haoliang Li, Peilin Chen, Shiqi Wang
 **Authors:** Jiyoung Lee, Joon Son Chung, Soo-Whan Chung
 <br>
 **Institution:** NAVER AI Lab; Korea Advanced Institute of Science and Technology; NAVER Cloud
+
+**[CVPR-2023]**
+[ReVISE: Self-Supervised Speech Resynthesis With Visual Input for Universal and Generalized Speech Regeneration](https://openaccess.thecvf.com/content/CVPR2023/papers/Hsu_ReVISE_Self-Supervised_Speech_Resynthesis_With_Visual_Input_for_Universal_and_CVPR_2023_paper.pdf)
+<br>
+**Authors:** Wei-Ning Hsu, Tal Remez, Bowen Shi, Jacob Donley, Yossi Adi
+<br>
+**Institution:** Meta AI; Meta Reality Labs Research; Toyota Technological Institute at Chicago; The Hebrew University of Jerusalem
 
 ##### Music
 **[IEEE TMM-2015]**
@@ -1570,6 +1633,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Sun Yat-sen University; Xidian University; The University of Hong Kong
 
+**[CVPR-2023]**
+[SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation](https://arxiv.org/abs/2211.12194)
+<br>
+**Authors:** Wenxuan Zhang, Xiaodong Cun, Xuan Wang, Yong Zhang, Xi Shen, Yu Guo, Ying Shan, Fei Wang
+<br>
+**Institution:** Xi’an Jiaotong University; National Key Laboratory of Human-Machine Hybrid Augmented Intelligence; Tencent AI Lab; Ant Group
+
 #### Gesture
 **[IVA-2018]**
 [Evaluation of Speech-to-Gesture Generation Using Bi-Directional LSTM Network](https://dl.acm.org/doi/abs/10.1145/3267851.3267878)
@@ -1641,6 +1711,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Chinese Academy of Sciences; University of Chinese Academy of Sciences
 
+**[CVPR-2023]**
+[Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation](https://arxiv.org/abs/2303.09119)
+<br>
+**Authors:** Lingting Zhu, Xian Liu, Xuanyu Liu, Rui Qian, Ziwei Liu, Lequan Yu
+<br>
+**Institution:** The University of Hong Kong; The Chinese University of Hong Kong; Nanyang Technological University
+
 ##### Dance
 **[MM-2018]**
 [Dance with Melody: An LSTM-autoencoder Approach to Music-oriented Dance Synthesis](https://dl.acm.org/doi/abs/10.1145/3240508.3240526)
@@ -1690,6 +1767,14 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Authors:** Li Siyao, Weijiang Yu, Tianpei Gu, Chunze Lin, Quan Wang, Chen Qian, Chen Chang Loy, Ziwei Liu
 <br>
 **Institution:**  Nanyang Technological University; Sun Yat-Sen University; University of California, Los Angeles; SenseTime Research
+
+**[CVPR-2023]**
+[MM-Diffusion: Learning Multi-Modal Diffusion Models for
+Joint Audio and Video Generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Ruan_MM-Diffusion_Learning_Multi-Modal_Diffusion_Models_for_Joint_Audio_and_Video_CVPR_2023_paper.pdf)
+<br>
+**Authors:** Ludan Ruan, Yiyang Ma, Huan Yang, Huiguo He, Bei Liu, Jianlong Fu, Nicholas Jing Yuan, Qin Jin, Baining Guo
+<br>
+**Institution:** Renmin University of China; Peking University; Microsoft Research
 
 #### Image Manipulation
 **[2021]**
@@ -2425,6 +2510,20 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 <br>
 **Institution:** Northwestern Polytechnical University; Ningbo Institute of Northwestern Polytechnical University; Nanchang University; Shanghai Jiao Tong University
 
+**[CVPR-2023]**
+[Self-Supervised Video Forensics by Audio-Visual Anomaly Detection](https://arxiv.org/abs/2301.01767)
+<br>
+**Authors:** Chao Feng, Ziyang Chen, Andrew Owens
+<br>
+**Institution:** University of Michigan
+
+**[CVPR-2023]**
+[CASP-Net: Rethinking Video Saliency Prediction From an Audio-Visual Consistency Perceptual Perspective](https://openaccess.thecvf.com/content/CVPR2023/papers/Xiong_CASP-Net_Rethinking_Video_Saliency_Prediction_From_an_Audio-Visual_Consistency_Perceptual_CVPR_2023_paper.pdf)
+<br>
+**Authors:** Junwen Xiong, Ganglai Wang, Peng Zhang, Wei Huang, Yufei Zha, Guangtao Zhai
+<br>
+**Institution:** Northwestern Polytechnical University; Ningbo Institute of Northwestern Polytechnical University; Nanchang University; Shanghai Jiao Tong University
+
 #### Audio-visual Navigation
 **[ECCV-2020]**
 [SoundSpaces: Audio-Visual Navigation in 3D Environments](https://link.springer.com/chapter/10.1007/978-3-030-58539-6_2)
@@ -2679,6 +2778,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Yuqian Kuang, Xiaopeng Fan
 <br>
 **Institution:** Harbin Institute of Technology; PengCheng Lab
+
+**[CVPR-2023]**
+[Collecting Cross-Modal Presence-Absence Evidence for Weakly-Supervised Audio-Visual Event Perception](https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_Collecting_Cross-Modal_Presence-Absence_Evidence_for_Weakly-Supervised_Audio-Visual_Event_Perception_CVPR_2023_paper.pdf)
+<br>
+**Authors:** Junyu Gao, Mengyuan Chen, Changsheng Xu
+<br>
+**Institution:** Chinese Academy of Sciences; University of Chinese Academy of Sciences; Peng Cheng Laboratory
 
 #### Parsing
 **[ECCV-2020]**
