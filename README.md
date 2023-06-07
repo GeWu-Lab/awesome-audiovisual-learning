@@ -471,6 +471,20 @@ Science and Technology of China; Zhejiang University
 <br>
 **Institution:** Tsinghua University; Beijing University of Posts and Telecommunications
 
+**[Interspeech-2023]**
+[Rethinking the visual cues in audio-visual speaker extraction](https://arxiv.org/abs/2306.02625)
+<br>
+**Authors:** Junjie Li, Meng Ge, Zexu pan, Rui Cao, Longbiao Wang, Jianwu Dang, Shiliang Zhang
+<br>
+**Institution:** Tianjin University; National University of Singapore; Shenzhen Research Institute of Big Data
+
+**[ICAI-2023]**
+[Speaker Recognition in Realistic Scenario Using Multimodal Data](https://ieeexplore.ieee.org/document/10136626/)
+<br>
+**Authors:** Saqlain Hussain Shah, Muhammad Saad Saeed, Shah Nawaz, Muhammad Haroon Yousaf
+<br>
+**Institution:** University of Engineering and Technology Taxila; National Centre of Robotics and Automation; Deutsches Elektronen-Synchrotron
+
 #### Action Recognition
 **[IJCNN-2016]**
 [Exploring Multimodal Video Representation For Action Recognition](https://ieeexplore.ieee.org/abstract/document/7727435)
@@ -1003,6 +1017,27 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 **Authors:** Rui-Chen Zheng, Yang Ai, Zhen-Hua Ling
 <br>
 **Institution:** University of Science and Technology of China
+
+**[Interspeech-2023]**
+[Audio-Visual Speech Separation in Noisy Environments with a Lightweight Iterative Model](https://arxiv.org/abs/2306.00160)
+<br>
+**Authors:** Héctor Martel, Julius Richter, Kai Li, Xiaolin Hu, Timo Gerkmann
+<br>
+**Institution:** Tsinghua University; Universität Hamburg; Chinese Institute for Brain Research
+
+**[ITG-2023]**
+[Audio-Visual Speech Enhancement with Score-Based Generative Models](https://arxiv.org/abs/2306.01432)
+<br>
+**Authors:** Julius Richter, Simone Frintrop, Timo Gerkmann
+<br>
+**Institution:** Universität Hamburg
+
+**[Interspeech-2023]**
+[Speech inpainting: Context-based speech synthesis guided by video](https://arxiv.org/abs/2306.00489)
+<br>
+**Authors:** Juan F. Montesinos, Daniel Michelsanti, Gloria Haro, Zheng-Hua Tan, Jesper Jensen
+<br>
+**Institution:** Universitat Pompeu Fabra; Aalborg University; Oticon A/S
 
 #### Object Sound Separation
 **[ECCV-2018]**
