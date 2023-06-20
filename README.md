@@ -485,6 +485,13 @@ Science and Technology of China; Zhejiang University
 <br>
 **Institution:** University of Engineering and Technology Taxila; National Centre of Robotics and Automation; Deutsches Elektronen-Synchrotron
 
+**[ACL-2023]**
+[OpenSR: Open-Modality Speech Recognition via Maintaining Multi-Modality Alignment](https://arxiv.org/abs/2306.06410)
+<br>
+**Authors:** Xize Cheng, Tao Jin, Linjun Li, Wang Lin, Xinyu Duan, Zhou Zhao
+<br>
+**Institution:** Zhejiang University; Huawei Cloud
+
 #### Action Recognition
 **[IJCNN-2016]**
 [Exploring Multimodal Video Representation For Action Recognition](https://ieeexplore.ieee.org/abstract/document/7727435)
@@ -713,7 +720,7 @@ Intelligent Networks and Network Security
 <br>
 **Institution:** Shanghai Jiao Tong University; Beijing University Posts and Telecommunications
 
-**[IEEE TASLP-2022]**
+**[IEEE/ACM TASLP-2022]**
 [EmoInt-Trans: A Multimodal Transformer for Identifying Emotions and Intents in Social Conversations](https://ieeexplore.ieee.org/document/9961847)
 <br>
 **Authors:** Gopendra Vikram Singh, Mauajama Firdaus, Asif Ekbal, Pushpak Bhattacharyya
@@ -1038,6 +1045,13 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 **Authors:** Juan F. Montesinos, Daniel Michelsanti, Gloria Haro, Zheng-Hua Tan, Jesper Jensen
 <br>
 **Institution:** Universitat Pompeu Fabra; Aalborg University; Oticon A/S
+
+**[EUSIPCO-2023]**
+[Audio-Visual Speech Enhancement With Selective Off-Screen Speech Extraction](https://arxiv.org/abs/2306.06495)
+<br>
+**Authors:** Tomoya Yoshinaga, Keitaro Tanaka, Shigeo Morishima
+<br>
+**Institution:** Waseda University; Waseda Research Institute for Science and Engineering
 
 #### Object Sound Separation
 **[ECCV-2018]**
@@ -2417,7 +2431,7 @@ Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
 <br>
 **Institution:** University of Michigan
 
-**[IEEE TASLP-2023]**
+**[IEEE/ACM TASLP-2023]**
 [Audio-Visual Cross-Attention Network for Robotic Speaker Tracking](https://ieeexplore.ieee.org/document/9968308/)
 <br>
 **Authors:** Xinyuan Qian, Zhengdong Wang, Jiadong Wang, Guohui Guan, Haizhou Li
@@ -2885,6 +2899,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 <br>
 **Institution:** Chinese Academy of Sciences; ShanghaiTech University; University of Chinese Academy of Sciences
 
+**[2023]**
+[Towards Long Form Audio-visual Video Understanding](https://arxiv.org/abs/2306.09431)
+<br>
+**Authors:** Wenxuan Hou, Guangyao Li, Yapeng Tian, Di Hu
+<br>
+**Institution:** Renmin University of China; The University of Texas at Dallas
+
 ### Audio-visual Question Answering and Dialog
 #### Question Answering
 **[ICCV-2021]**
@@ -2999,6 +3020,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Yoshihiro Yamazaki, Shota Orihashi, Ryo Masumura, Mihiro Uchida, Akihiko Takashima
 <br>
 **Institution:** Nippon Telegraph and Telephone Corporation
+
+**[IEEE/ACM TASLP-2023]**
+[DialogMCF: Multimodal Context Flow for Audio Visual Scene-Aware Dialog](https://ieeexplore.ieee.org/document/10147255)
+<br>
+**Authors:** Zhe Chen, Hongcheng Liu, Yu Wang
+<br>
+**Institution:** Shanghai Jiao Tong University; Shanghai Artificial Intelligence Laboratory
 
 ## Datasets
 
