@@ -301,6 +301,20 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Institution:** Zhejiang University; ByteDance
 
+**[ACL-2023]**
+[Hearing Lips in Noise: Universal Viseme-Phoneme Mapping and Transfer for Robust Audio-Visual Speech Recognition](https://arxiv.org/abs/2306.10563)
+<br>
+**Authors:** Yuchen Hu, Ruizhe Li, Chen Chen, Chengwei Qin, Qiushi Zhu, Eng Siong Chng
+<br>
+**Institution:** Nanyang Technological University; University of Aberdeen; University of Science and Technology of China
+
+**[ACL-2023]**
+[MIR-GAN: Refining Frame-Level Modality-Invariant Representations with Adversarial Network for Audio-Visual Speech Recognition](https://arxiv.org/abs/2306.10567)
+<br>
+**Authors:** Yuchen Hu, Chen Chen, Ruizhe Li, Heqing Zou, Eng Siong Chng
+<br>
+**Institution:** Nanyang Technological University; University of Aberdeen
+
 #### Speaker Recognition
 **[MTA-2016]**
 [Audio-visual Speaker Diarization Using Fisher Linear Semi-discriminant Analysis](https://link.springer.com/article/10.1007/s11042-014-2274-x)
@@ -761,6 +775,13 @@ Intelligent Networks and Network Security
 **Authors:** R Gnana Praveen, Eric Granger, Patrick Cardinal
 <br>
 **Institution:** École de Technologie supérieure
+
+**[IEEE/ACM TASLP-2023]**
+[Exploring Semantic Relations for Social Media Sentiment Analysis](https://ieeexplore.ieee.org/document/10149413)
+<br>
+**Authors:** Jiandian Zeng, Jiantao Zhou, Caishi Huang
+<br>
+**Institution:** Beijing Normal University; China University of Macau; University of Macau
 
 ### Uni-modal Enhancement
 
