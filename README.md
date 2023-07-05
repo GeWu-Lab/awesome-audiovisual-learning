@@ -506,6 +506,13 @@ Science and Technology of China; Zhejiang University
 <br>
 **Institution:** Zhejiang University; Huawei Cloud
 
+**[ICASSP-2023]**
+[AV-SepFormer: Cross-Attention SepFormer for Audio-Visual Target Speaker Extraction](https://arxiv.org/abs/2306.14170)
+<br>
+**Authors:** Jiuxin Lin, Xinyu Cai, Heinrich Dinkel, Jun Chen, Zhiyong Yan, Yongqing Wang, Junbo Zhang, Zhiyong Wu, Yujun Wang, Helen Meng
+<br>
+**Institution:** Tsinghua University; Xiaomi Inc.; The Chinese University of Hong Kong
+
 #### Action Recognition
 **[IJCNN-2016]**
 [Exploring Multimodal Video Representation For Action Recognition](https://ieeexplore.ieee.org/abstract/document/7727435)
