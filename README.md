@@ -1081,6 +1081,13 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 <br>
 **Institution:** Waseda University; Waseda Research Institute for Science and Engineering
 
+**[IEEE/ACM TASLP-2023]**
+[Audio-visual End-to-end Multi-channel Speech Separation, Dereverberation and Recognition](https://arxiv.org/abs/2307.02909)
+<br>
+**Authors:** Guinan Li, Jiajun Deng, Mengzhe Geng, Zengrui Jin, Tianzi Wang, Shujie Hu, Mingyu Cui, Helen Meng, Xunying Liu
+<br>
+**Institution:** The Chinese University of Hong Kong
+
 #### Object Sound Separation
 **[ECCV-2018]**
 [Learning to Separate Object Sounds by Watching Unlabeled Video](https://openaccess.thecvf.com/content_ECCV_2018/html/Ruohan_Gao_Learning_to_Separate_ECCV_2018_paper.html)
