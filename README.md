@@ -27,10 +27,10 @@ This is a curated list of audio-visual learning methods and datasets, based on o
         - [Natural Sound](#natural-sound)
       - [Spatial Sound Generation](#spatial-sound-generation)
       - [Video Generation](#video-generation)
-        - [Talking face](#talking-face)
-        - [Gesture](#gesture)
+        - [talking face](#talking-face)
+      - [Gesture](#gesture)
         - [Dance](#dance)
-        - [Image Manipulation](#image-manipulation)
+      - [Image Manipulation](#image-manipulation)
       - [Depth Estimation](#depth-estimation)
     - [Audio-visual Transfer Learning](#audio-visual-transfer-learning)
     - [Cross-modal Retrieval](#cross-modal-retrieval)
@@ -2288,12 +2288,6 @@ Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
 <br>
 **Institution:** Queen's University, Canada
 
-**[CVPR-2023]**
-[Vision Transformers are Parameter-Efficient Audio-Visual Learners](https://arxiv.org/abs/2212.07983)
-<br>
-**Authors:** Yan-Bo Lin, Yi-Lin Sung, Jie Lei, Mohit Bansal, Gedas Bertasius
-<br>
-**Institution:** The University of North Carolina at Chapel Hill
 
 **[2023]**
 [AV-data2vec: Self-supervised Learning of Audio-Visual Speech Representations with Contextualized Target Representations](https://arxiv.org/abs/2302.06419)
