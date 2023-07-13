@@ -99,7 +99,7 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 **Institution:** Hunan University
 
 **[Interspeech-2022]**
-[Robust Self-Supervised Audio-V\visual Speech Recognition](https://arxiv.org/abs/2201.01763)
+[Robust Self-Supervised Audio-visual Speech Recognition](https://arxiv.org/abs/2201.01763)
 <br>
 **Authors:** Bowen Shi, Wei-Ning Hsu, Abdelrahman Mohamed
 <br>
