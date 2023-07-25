@@ -1293,7 +1293,7 @@ Chenqi Kong, Baoliang Chen, Wenhan Yang, Haoliang Li, Peilin Chen, Shiqi Wang
 <br>
 **Institution:** Columbia University
 
-**[MM-2018]**
+**[ACM MM-2018]**
 [Harnessing AI for Speech Reconstruction using Multi-view Silent Video Feed](https://arxiv.org/abs/1807.00619)
 <br>
 **Authors:** Yaman Kumar, Mayank Aggarwa, Pratham Nawal, Shin’ichi Satoh, Rajiv Ratn Shah, Roger Zimmermann
@@ -1357,7 +1357,7 @@ Chenqi Kong, Baoliang Chen, Wenhan Yang, Haoliang Li, Peilin Chen, Shiqi Wang
 <br>
 **Institution:** Simon Fraser University; University of Lethbridge 
 
-**[MM-2017]**
+**[ACM MM-2017]**
 [Deep Cross-Modal Audio-Visual Generation](https://dl.acm.org/doi/abs/10.1145/3126686.3126723)
 <br>
 **Authors:** 
@@ -1724,6 +1724,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Xi’an Jiaotong University; National Key Laboratory of Human-Machine Hybrid Augmented Intelligence; Tencent AI Lab; Ant Group
 
+**[ACM MM-2023]**
+[Hierarchical Semantic Perceptual Listener Head Video Generation: A High-performance Pipeline](https://arxiv.org/abs/2307.09821)
+<br>
+**Authors:** Zhigang Chang, Weitai Hu, Qing Yang, Shibao Zheng
+<br>
+**Institution:** Du Xiaoman Financial; Shanghai Jiao Tong University
+
 #### Gesture
 **[IVA-2018]**
 [Evaluation of Speech-to-Gesture Generation Using Bi-Directional LSTM Network](https://dl.acm.org/doi/abs/10.1145/3267851.3267878)
@@ -1803,7 +1810,7 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Institution:** The University of Hong Kong; The Chinese University of Hong Kong; Nanyang Technological University
 
 ##### Dance
-**[MM-2018]**
+**[ACM MM-2018]**
 [Dance with Melody: An LSTM-autoencoder Approach to Music-oriented Dance Synthesis](https://dl.acm.org/doi/abs/10.1145/3240508.3240526)
 <br>
 **Authors:** Taoran Tang, Jia Jia, Hanyang Mao
@@ -2390,7 +2397,7 @@ Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
 <br>
 **Institution:** Meta Reality Labs
 
-**[MM-2022]**
+**[ACM MM-2022]**
 [Exploiting Transformation Invariance and Equivariance for Self-supervised Sound Localisation](https://arxiv.org/abs/2206.12772)
 <br>
 **Authors:** Jinxiang Liu, Chen Ju, Weidi Xie, Ya Zhang
