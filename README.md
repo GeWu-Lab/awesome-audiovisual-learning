@@ -2530,6 +2530,13 @@ Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
 <br>
 **Institution:** Universitat Pompeu Fabra; New York University
 
+**[ACM MM-2023]**
+[Audio-visual segmentation, sound localization, semantic-aware sounding objects localization](https://arxiv.org/abs/2307.16620)
+<br>
+**Authors:** Chen Liu, Peike Li, Xingqun Qi, Hu Zhang, Lincheng Li, Dadong Wang, Xin Yu
+<br>
+**Institution:** University of Technology Sydney; The University of Queensland; Futureverse; The Hong Kong University of Science and Technology; CSIRO DATA61; Netease Fuxi AI Lab
+
 #### Audio-visual Saliency Detection
 **[2019]**
 [DAVE: A Deep Audio-Visual Embedding for Dynamic Saliency Prediction](https://arxiv.org/abs/1905.10693)
