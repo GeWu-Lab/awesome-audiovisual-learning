@@ -315,6 +315,20 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Institution:** Nanyang Technological University; University of Aberdeen
 
+**[IJCNN-2023]**
+[Exploiting Deep Learning for Sentence-Level Lipreading](https://ieeexplore.ieee.org/document/10191888)
+<br>
+**Authors:** Isabella Wu, Xin Wang
+<br>
+**Institution:** Choate Rosemary Hall; Stony Brook University
+
+**[IJCNN-2023]**
+[GLSI Texture Descriptor Based on Complex Networks for Music Genre Classification](https://ieeexplore.ieee.org/document/10191818)
+<br>
+**Authors:** Andrés Eduardo, Coca Salazar
+<br>
+**Institution:** Federal University of Technology - Paraná
+
 #### Speaker Recognition
 **[MTA-2016]**
 [Audio-visual Speaker Diarization Using Fisher Linear Semi-discriminant Analysis](https://link.springer.com/article/10.1007/s11042-014-2274-x)
@@ -2006,6 +2020,13 @@ Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
 <br>
 **Institution:** Hunan University; Renmin University of China
 
+**[IJCNN-2023]**
+[A Generative Approach to Audio-Visual Generalized Zero-Shot Learning: Combining Contrastive and Discriminative Techniques](https://ieeexplore.ieee.org/document/10191705)
+<br>
+**Authors:** Qichen Zheng, Jie Hong, Moshiur Farazi
+<br>
+**Institution:** Australian National University; CSIRO Data61
+
 ### Cross-modal Retrieval
 **[2017]**
 [Content-Based Video-Music Retrieval Using Soft Intra-Modal Structure Constraint](https://arxiv.org/abs/1704.06761)
@@ -2616,6 +2637,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 <br>
 **Institution:** Northwestern Polytechnical University; Ningbo Institute of Northwestern Polytechnical University; Nanchang University; Shanghai Jiao Tong University
 
+**[IJCNN-2023]**
+[3DSEAVNet: 3D-Squeeze-and-Excitation Networks for Audio-Visual Saliency Prediction](https://ieeexplore.ieee.org/document/10191383)
+<br>
+**Authors:** Silong Liang, Chunxiao Li, Naying Cui, Minghui Sun, Hao Xue
+<br>
+**Institution:** JiLin University
+
 #### Audio-visual Navigation
 **[ECCV-2020]**
 [SoundSpaces: Audio-Visual Navigation in 3D Environments](https://link.springer.com/chapter/10.1007/978-3-030-58539-6_2)
@@ -2877,6 +2905,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Junyu Gao, Mengyuan Chen, Changsheng Xu
 <br>
 **Institution:** Chinese Academy of Sciences; University of Chinese Academy of Sciences; Peng Cheng Laboratory
+
+**[IJCNN-2023]**
+[Specialty may be better: A decoupling multi-modal fusion network for Audio-visual event localization](https://ieeexplore.ieee.org/document/10191112)
+<br>
+**Authors:** Jinqiao Dou, Xi Chen, Yuehai Wang
+<br>
+**Institution:** Zhejiang University
 
 #### Parsing
 **[ECCV-2020]**
