@@ -1881,6 +1881,13 @@ Joint Audio and Video Generation](https://openaccess.thecvf.com/content/CVPR2023
 <br>
 **Institution:** Renmin University of China; Peking University; Microsoft Research
 
+**[IEEE TMM-2023]**
+[Learning Music-Dance Representations through Explicit-Implicit Rhythm Synchronization](https://ieeexplore.ieee.org/document/10214079)
+<br>
+**Authors:** Jiashuo Yu, Junfu Pu, Ying Cheng, Rui Feng, Ying Shan
+<br>
+**Institution:** Shanghai Key Lab of Intelligent Information Processing; Fudan University; Tencent
+
 #### Image Manipulation
 **[2021]**
 [Sound-guided semantic image manipulation](https://arxiv.org/abs/2112.00007)
@@ -2558,6 +2565,20 @@ Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
 <br>
 **Institution:** University of Technology Sydney; The University of Queensland; Futureverse; The Hong Kong University of Science and Technology; CSIRO DATA61; Netease Fuxi AI Lab
 
+**[ACM MM-2023]**
+[Induction Network: Audio-Visual Modality Gap-Bridging for Self-Supervised Sound Source Localization](https://arxiv.org/abs/2308.04767)
+<br>
+**Authors:** Tianyu Liu, Peng Zhang, Wei Huang, Yufei Zha, Tao You, Yanning Zhang
+<br>
+**Institution:** Northwestern Polytechnical University; Nanchang University
+
+**[ACM MM-2023]**
+[Audio-Visual Spatial Integration and Recursive Attention for Robust Sound Source Localization](https://arxiv.org/abs/2308.06087)
+<br>
+**Authors:** Sung Jin Um, Dongjin Kim, Jung Uk Kim
+<br>
+**Institution:** Kyung Hee University
+
 #### Audio-visual Saliency Detection
 **[2019]**
 [DAVE: A Deep Audio-Visual Embedding for Dynamic Saliency Prediction](https://arxiv.org/abs/1905.10693)
@@ -3006,6 +3027,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Zhenhailong Wang, Manling Li, Ruochen Xu, Luowei Zhou, Jie Lei, Xudong Lin ·  Shuohang Wang · Ziyi Yang · Chenguang Zhu · Derek Hoiem · Shih-Fu Chang · Mohit Bansal · Heng Ji
 <br>
 **Institution:** University of Illinois at Urbana-Champaign; MSR; The University of North Carolina at Chapel Hill; Columbia University
+
+**[ACM MM-2023]**
+[Progressive Spatio-temporal Perception for Audio-Visual Question Answering](https://arxiv.org/abs/2308.05421)
+<br>
+**Authors:** Guangyao Li, Wenxuan Hou, Di Hu
+<br>
+**Institution:** Renmin Uniiversity of China
 
 #### Dialog
 **[CVPR-2019]**
