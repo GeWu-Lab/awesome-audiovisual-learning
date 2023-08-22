@@ -329,6 +329,13 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Institution:** Federal University of Technology - Paraná
 
+**[ICME-2023]**
+[Improving Audio-Visual Speech Recognition by Lip-Subword Correlation Based Visual Pre-training and Cross-Modal Fusion Encoder](https://arxiv.org/abs/2308.08488)
+<br>
+**Authors:** Yusheng Dai, Hang Chen, Jun Du, Xiaofei Ding, Ning Ding, Feijun Jiang, Chin-Hui Lee
+<br>
+**Institution:** University of Science and Technology of China; Alibaba Group; Georgia Institute of Technology
+
 #### Speaker Recognition
 **[MTA-2016]**
 [Audio-visual Speaker Diarization Using Fisher Linear Semi-discriminant Analysis](https://link.springer.com/article/10.1007/s11042-014-2274-x)
@@ -648,6 +655,13 @@ Intelligent Networks and Network Security
 **Authors:** Yangcheng Li, Zefang Yu, Suncheng Xiang, Ting Liu, Yuzhuo Fu
 <br>
 **Institution:** Shanghai Jiao Tong University
+
+**[ICCV-2023]**
+[Audio-Visual Glance Network for Efficient Video Recognition](https://arxiv.org/abs/2308.09322)
+<br>
+**Authors:** Muhammad Adi Nugroho, Sangmin Woo, Sumin Lee, Changick Kim
+<br>
+**Institution:** KAIST
 
 #### Emotion Recognition
 **[EMNLP-2017]**
@@ -1362,6 +1376,13 @@ Chenqi Kong, Baoliang Chen, Wenhan Yang, Haoliang Li, Peilin Chen, Shiqi Wang
 **Authors:** Wei-Ning Hsu, Tal Remez, Bowen Shi, Jacob Donley, Yossi Adi
 <br>
 **Institution:** Meta AI; Meta Reality Labs Research; Toyota Technological Institute at Chicago; The Hebrew University of Jerusalem
+
+**[ICCV-2023]**
+[DiffV2S: Diffusion-based Video-to-Speech Synthesis with Vision-guided Speaker Embedding](https://arxiv.org/abs/2308.07787)
+<br>
+**Authors:** Jeongsoo Choi, Joanna Hong, Yong Man Ro
+<br>
+**Institution:** KAIST
 
 ##### Music
 **[IEEE TMM-2015]**
@@ -2665,6 +2686,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 <br>
 **Institution:** JiLin University
 
+**[IEEE TMM-2023]**
+[SVGC-AVA: 360-Degree Video Saliency Prediction with Spherical Vector-Based Graph Convolution and Audio-Visual Attention](https://ieeexplore.ieee.org/document/10224292)
+<br>
+**Authors:** Qin Yang, Yuqi Li, Chenglin Li, Hao Wang, Sa Yan, Li Wei, Wenrui Dai, Junni Zou, Hongkai Xiong, Pascal Frossard
+<br>
+**Institution:** Shanghai Jiao Tong University; École Polytechnique Fédérale de Lausanne
+
 #### Audio-visual Navigation
 **[ECCV-2020]**
 [SoundSpaces: Audio-Visual Navigation in 3D Environments](https://link.springer.com/chapter/10.1007/978-3-030-58539-6_2)
@@ -2763,6 +2791,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Chenguang Huang, Oier Mees, Andy Zeng, Wolfram Burgard
 <br>
 **Institution:** University of Freiburg; Google Research; University of Technology Nuremberg
+
+**[ICCV-2023]**
+[Omnidirectional Information Gathering for Knowledge Transfer-based Audio-Visual Navigation](https://arxiv.org/abs/2308.10306)
+<br>
+**Authors:** Jinyu Chen, Wenguan Wang, Si Liu, Hongsheng Li, Yi Yang
+<br>
+**Institution:** Beihang University; Zhejiang University; The Chinese University of Hong Kong
 
 ### Audio-visual Event Localization and Parsing
 #### Localization
