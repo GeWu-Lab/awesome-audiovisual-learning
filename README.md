@@ -1116,6 +1116,13 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 <br>
 **Institution:** The Chinese University of Hong Kong
 
+**[ICCV-2023]**
+[AdVerb: Visually Guided Audio Dereverberation](https://arxiv.org/abs/2308.12370)
+<br>
+**Authors:** Sanjoy Chowdhury, Sreyan Ghosh, Subhrajyoti Dasgupta, Anton Ratnarajah, Utkarsh Tyagi, Dinesh Manocha
+<br>
+**Institution:** University of Maryland; University of Montreal
+
 #### Object Sound Separation
 **[ECCV-2018]**
 [Learning to Separate Object Sounds by Watching Unlabeled Video](https://openaccess.thecvf.com/content_ECCV_2018/html/Ruohan_Gao_Learning_to_Separate_ECCV_2018_paper.html)
@@ -1581,6 +1588,12 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Indian Institute of Technology Kanpur; CDAC Noida; TensorTour Inc.
 
+**[CVPR-2023]**
+[Novel-View Acoustic Synthesis](https://ieeexplore.ieee.org/document/10204911)
+<br>
+**Authors:** Changan Chen, Alexander Richard, Roman Shapovalov, Vamsi Krishna Ithapu, Natalia Neverova, Kristen Grauman, Andrea Vedaldi
+<br>
+**Institution:** University of Texas at Austin; Meta AI
 
 #### Video Generation
 ##### talking face
@@ -1765,6 +1778,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Authors:** Zhigang Chang, Weitai Hu, Qing Yang, Shibao Zheng
 <br>
 **Institution:** Du Xiaoman Financial; Shanghai Jiao Tong University
+
+**[CVPR-2023]**
+[LipFormer: High-fidelity and Generalizable Talking Face Generation with A Pre-learned Facial Codebook](https://ieeexplore.ieee.org/document/10203891)
+<br>
+**Authors:** Jiayu Wang, Kang Zhao, Shiwei Zhang, Yingya Zhang, Yujun Shen, Deli Zhao, Jingren Zhou
+<br>
+**Institution:** Alibaba Group
 
 #### Gesture
 **[IVA-2018]**
@@ -2054,6 +2074,27 @@ Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
 **Authors:** Qichen Zheng, Jie Hong, Moshiur Farazi
 <br>
 **Institution:** Australian National University; CSIRO Data61
+
+**[ICCV-2023]**
+[Audio-Visual Class-Incremental Learning](https://arxiv.org/abs/2308.11073)
+<br>
+**Authors:** Weiguo Pian, Shentong Mo, Yunhui Guo, Yapeng Tian
+<br>
+**Institution:** The University of Texas at Dallas; Carnegie Mellon University
+
+**[ICCV-2023]**
+[Hyperbolic Audio-visual Zero-shot Learning](https://arxiv.org/abs/2308.12558)
+<br>
+**Authors:** Jie Hong, Zeeshan Hayder, Junlin Han, Pengfei Fang, Mehrtash Harandi, Lars Petersson
+<br>
+**Institution:** Australian National University; CSIRO Data61
+
+**[CVPR-2023]**
+[Multimodality Helps Unimodality: Cross-Modal Few-Shot Learning with Multimodal Models](https://ieeexplore.ieee.org/document/10205126)
+<br>
+**Authors:** Zhiqiu Lin, Samuel Yu, Zhiyi Kuang, Deepak Pathak, Deva Ramanan
+<br>
+**Institution:** Carnegie Mellon University
 
 ### Cross-modal Retrieval
 **[2017]**
@@ -2968,6 +3009,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Jinqiao Dou, Xi Chen, Yuehai Wang
 <br>
 **Institution:** Zhejiang University
+
+**[AAAI-2023]**
+[Furnishing Sound Event Detection with Language Model Abilities](https://arxiv.org/abs/2308.11530)
+<br>
+**Authors:** Hualei Wang, Jianguo Mao, Zhifang Guo, Jiarui Wan, Hong Liu, Xiangdong Wang
+<br>
+**Institution:** Chinese Academy of Sciences; University of Chinese Academy of Sciences; Beijing Jiaotong University
 
 #### Parsing
 **[ECCV-2020]**
