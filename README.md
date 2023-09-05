@@ -336,6 +336,13 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Institution:** University of Science and Technology of China; Alibaba Group; Georgia Institute of Technology
 
+**[ICME-2023]**
+[Multi-Scale Hybrid Fusion Network for Mandarin Audio-Visual Speech Recognition](https://ieeexplore.ieee.org/document/10219999)
+<br>
+**Authors:** Jinxin Wang, Zhongwen Guo, Chao Yang, Xiaomei Li, Ziyuan Cui
+<br>
+**Institution:** Ocean University of China; University of Technology Sydney
+
 #### Speaker Recognition
 **[MTA-2016]**
 [Audio-visual Speaker Diarization Using Fisher Linear Semi-discriminant Analysis](https://link.springer.com/article/10.1007/s11042-014-2274-x)
@@ -817,6 +824,13 @@ Intelligent Networks and Network Security
 **Authors:** Jiandian Zeng, Jiantao Zhou, Caishi Huang
 <br>
 **Institution:** Beijing Normal University; China University of Macau; University of Macau
+
+**[CVPR-2023]**
+[Weakly Supervised Video Emotion Detection and Prediction via Cross-Modal Temporal Erasing Network](https://ieeexplore.ieee.org/document/10203999)
+<br>
+**Authors:** Zhicheng Zhang, Lijuan Wang, Jufeng Yang
+<br>
+**Institution:** Nankai University
 
 ### Uni-modal Enhancement
 
@@ -1300,6 +1314,13 @@ Chenqi Kong, Baoliang Chen, Wenhan Yang, Haoliang Li, Peilin Chen, Shiqi Wang
 **Authors:** Ricong Huang, Peiwen Lai, Yipeng Qin, Guanbin Li
 <br>
 **Institution:** Sun Yat-sen University; Cardiff University
+
+**[CVPR-2023]**
+[CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior](https://ieeexplore.ieee.org/document/10204746)
+<br>
+**Authors:** Jinbo Xing, Menghan Xia, Yuechen Zhang, Xiaodong Cun, Jue Wang, Tien-Tsin Wong
+<br>
+**Institution:** The Chinese University of Hong Kong; Tencent AI Lab
 
 ## Cross-modal Perception
 
@@ -2400,6 +2421,13 @@ Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
 <br>
 **Institution:** Adobe Research; University of Surrey
 
+**[CVPR-2023]**
+[ImageBind One Embedding Space to Bind Them All](https://ieeexplore.ieee.org/document/10203733)
+<br>
+**Authors:** Rohit Girdhar, Alaaeldin El-Nouby, Zhuang Liu, Mannat Singh, Kalyan Vasudev Alwala, Armand Joulin, Ishan Misra
+<br>
+**Institution:** Meta AI
+
 ### Audio-visual Localization
 
 #### Sound Localization in Videos
@@ -3087,6 +3115,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Wenxuan Hou, Guangyao Li, Yapeng Tian, Di Hu
 <br>
 **Institution:** Renmin University of China; The University of Texas at Dallas
+
+**[CVPR-2023]**
+[Collecting Cross-Modal Presence-Absence Evidence for Weakly-Supervised Audio- Visual Event Perception](https://ieeexplore.ieee.org/document/10205301)
+<br>
+**Authors:** Junyu Gao, Mengyuan Chen, Changsheng Xu
+<br>
+**Institution:** Chinese Academy of Sciences; University of Chinese Academy of Sciences; Peng Cheng Laboratory
 
 ### Audio-visual Question Answering and Dialog
 #### Question Answering
