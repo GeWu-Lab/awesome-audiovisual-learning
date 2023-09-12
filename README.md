@@ -670,6 +670,13 @@ Intelligent Networks and Network Security
 <br>
 **Institution:** KAIST
 
+**[IEEE TMM-2023]**
+[Audio-Visual Contrastive and Consistency Learning for Semi-Supervised Action Recognition](https://ieeexplore.ieee.org/document/10243145/)
+<br>
+**Authors:** Maregu Assefa, Wei Jiang, Jinyu Zhan, Kumie Gedamu, Getinet Yilma, Melese Ayalew, Deepak Adhikari
+<br>
+**Institution:** University of Electronic Science and Technology of China; Sichuan Artificial Intelligence Research Institute; Adama Science and Technology University
+
 #### Emotion Recognition
 **[EMNLP-2017]**
 [Tensor Fusion Network for Multimodal Sentiment Analysis](https://arxiv.org/abs/1707.07250)
@@ -2116,6 +2123,13 @@ Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
 **Authors:** Zhiqiu Lin, Samuel Yu, Zhiyi Kuang, Deepak Pathak, Deva Ramanan
 <br>
 **Institution:** Carnegie Mellon University
+
+**[ICCV-2023]**
+[Class-Incremental Grouping Network for Continual Audio-Visual Learning](https://arxiv.org/abs/2309.05281)
+<br>
+**Authors:** Shentong Mo, Weiguo Pian, Yapeng Tian
+<br>
+**Institution:** Carnegie Mellon University; University of Texas at Dallas
 
 ### Cross-modal Retrieval
 **[2017]**
