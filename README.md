@@ -541,6 +541,13 @@ Science and Technology of China; Zhejiang University
 <br>
 **Institution:** Tsinghua University; Xiaomi Inc.; The Chinese University of Hong Kong
 
+**[Interspeech-2023]**
+[PIAVE: A Pose-Invariant Audio-Visual Speaker Extraction Network](https://arxiv.org/abs/2309.06723)
+<br>
+**Authors:** Qinghua Liu, Meng Ge, Zhizheng Wu, Haizhou Li
+<br>
+**Institution:** Shenzhen Research Institute of Big Data;  The Chinese University of Hong Kong; National University of Singapore
+
 #### Action Recognition
 **[IJCNN-2016]**
 [Exploring Multimodal Video Representation For Action Recognition](https://ieeexplore.ieee.org/abstract/document/7727435)
@@ -838,6 +845,13 @@ Intelligent Networks and Network Security
 **Authors:** Zhicheng Zhang, Lijuan Wang, Jufeng Yang
 <br>
 **Institution:** Nankai University
+
+**[ACM MM-2023]**
+[Hierarchical Audio-Visual Information Fusion with Multi-label Joint Decoding for MER 2023](https://arxiv.org/abs/2309.07925)
+<br>
+**Authors:** Haotian Wang, Yuxuan Xi, Hang Chen, Jun Du, Yan Song, Qing Wang, Hengshun Zhou, Chenxi Wang, Jiefeng Ma, Pengfei Hu, Ya Jiang, Shi Cheng, Jie Zhang, Yuzhe Weng
+<br>
+**Institution:** University of Science and Technology of China; Northwestern Polytechnical University
 
 ### Uni-modal Enhancement
 
@@ -2682,6 +2696,13 @@ Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
 **Authors:** Sung Jin Um, Dongjin Kim, Jung Uk Kim
 <br>
 **Institution:** Kyung Hee University
+
+**[IJCAI-2023]**
+[Discovering Sounding Objects by Audio Queries for Audio Visual Segmentation](https://arxiv.org/abs/2309.09501)
+<br>
+**Authors:** Shaofei Huang, Han Li, Yuqing Wang, Hongji Zhu, Jiao Dai, Jizhong Han, Wenge Rong, Si Liu
+<br>
+**Institution:** Chinese Academy of Sciences; University of Chinese Academy of Sciences;  Beihang University; Alibaba Group
 
 #### Audio-visual Saliency Detection
 **[2019]**
