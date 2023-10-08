@@ -548,6 +548,13 @@ Science and Technology of China; Zhejiang University
 <br>
 **Institution:** Shenzhen Research Institute of Big Data;  The Chinese University of Hong Kong; National University of Singapore
 
+**[IEEE/ACM TASLP-2023]**
+[A Dynamic Convolution Framework for Session-Independent Speaker Embedding Learning](https://ieeexplore.ieee.org/document/10250941/)
+<br>
+**Authors:** Bin Gu, Jie Zhang, Wu Guo
+<br>
+**Institution:** University of Science and Technology of China
+
 #### Action Recognition
 **[IJCNN-2016]**
 [Exploring Multimodal Video Representation For Action Recognition](https://ieeexplore.ieee.org/abstract/document/7727435)
@@ -2145,6 +2152,13 @@ Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
 <br>
 **Institution:** Carnegie Mellon University; University of Texas at Dallas
 
+**[ICCV-2023]**
+[Dense 2D-3D Indoor Prediction with Sound via Aligned Cross-Modal Distillation](https://arxiv.org/abs/2309.11081)
+<br>
+**Authors:** Heeseung Yun, Joonil Na, Gunhee Kim
+<br>
+**Institution:** Seoul National University
+
 ### Cross-modal Retrieval
 **[2017]**
 [Content-Based Video-Music Retrieval Using Soft Intra-Modal Structure Constraint](https://arxiv.org/abs/1704.06761)
@@ -2704,6 +2718,13 @@ Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
 <br>
 **Institution:** Chinese Academy of Sciences; University of Chinese Academy of Sciences;  Beihang University; Alibaba Group
 
+**[ICCV-2023]**
+[Sound Source Localization is All about Cross-Modal Alignment](https://arxiv.org/abs/2309.10724)
+<br>
+**Authors:** Arda Senocak, Hyeonggon Ryu, Junsik Kim, Tae-Hyun Oh, Hanspeter Pfister, Joon Son Chung
+<br>
+**Institution:** KAIST; Harvard University; Pohang University of Science and Technology; Yonsei University
+
 #### Audio-visual Saliency Detection
 **[2019]**
 [DAVE: A Deep Audio-Visual Embedding for Dynamic Saliency Prediction](https://arxiv.org/abs/1905.10693)
@@ -3157,6 +3178,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Junyu Gao, Mengyuan Chen, Changsheng Xu
 <br>
 **Institution:** Chinese Academy of Sciences; University of Chinese Academy of Sciences; Peng Cheng Laboratory
+
+**[ACM MM-2023]**
+[TMac: Temporal Multi-Modal Graph Learning for Acoustic Event Classification](https://arxiv.org/abs/2309.11845)
+<br>
+**Authors:** Meng Liu, Ke Liang, Dayu Hu, Hao Yu, Yue Liu, Lingyuan Meng, Wenxuan Tu, Sihang Zhou, Xinwang Liu
+<br>
+**Institution:** National University of Defense Technology
 
 ### Audio-visual Question Answering and Dialog
 #### Question Answering
