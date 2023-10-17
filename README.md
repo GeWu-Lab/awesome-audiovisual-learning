@@ -1301,7 +1301,7 @@ Chenqi Kong, Baoliang Chen, Wenhan Yang, Haoliang Li, Peilin Chen, Shiqi Wang
 <br>
 **Institution:** City University of Hong Kong; Nanyang Technological University
 
-**[CVPR-2022]**
+**[ICASSP-2022]**
 [Deep Video Inpainting Guided by Audio-Visual Self-Supervision](https://ieeexplore.ieee.org/abstract/document/9747073/)
 <br>
 **Authors:** Kyuyeon Kim; Junsik Jung; Woo Jae Kim; Sung-Eui Yoon
@@ -2248,7 +2248,16 @@ Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
 **Authors:** Changan Chen, Ruohan Gao, Paul Calamia, Kristen Grauman
 <br>
 **Institution:** University of Texas at Austin; Stanford University; Meta AI
+
+**[IEEE TMM-2023]**
+[Deep Cross-Modal Retrieval Between Spatial Image and Acoustic Speech](https://ieeexplore.ieee.org/document/10285477)
+<br>
+**Authors:** Xinyuan Qian, Wei Xue, Qiquan Zhang, Ruijie Tao, Haizhou Li
+<br>
+**Institution:** University of Science and Technology; Hong Kong University of Science and Technology; University of New South Wales; National University of Singapore; The Chinese University of Hong Kong-Shenzhen
+
 [Back to Top](#top)
+
 ## Audio-visual Collaboration
 
 ### Audio-visual Representation Learning
@@ -2724,6 +2733,13 @@ Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
 **Authors:** Arda Senocak, Hyeonggon Ryu, Junsik Kim, Tae-Hyun Oh, Hanspeter Pfister, Joon Son Chung
 <br>
 **Institution:** KAIST; Harvard University; Pohang University of Science and Technology; Yonsei University
+
+**[ICCV-2023]**
+[Multimodal Variational Auto-encoder based Audio-Visual Segmentation](https://arxiv.org/abs/2310.08303)
+<br>
+**Authors:** Yuxin Mao, Jing Zhang, Mochu Xiang, Yiran Zhong, Yuchao Dai
+<br>
+**Institution:** Northwestern Polytechnical University; Shaanxi Key Laboratory of Information Acquisition and Processing; Australian National University; Shanghai AI Laboratory
 
 #### Audio-visual Saliency Detection
 **[2019]**
