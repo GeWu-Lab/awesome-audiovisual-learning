@@ -1165,6 +1165,13 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 <br>
 **Institution:** University of Maryland; University of Montreal
 
+**[TEEE/ACM TASLP-2023]**
+[Multi-Cue Guided Semi-Supervised Learning Toward Target Speaker Separation in Real Environments](https://ieeexplore.ieee.org/document/10287627)
+<br>
+**Authors:** Jiaming Xu, Jian Cui, Yunzhe Hao, Bo Xu
+<br>
+**Institution:** Xiaomi Corporation; University of Chinese Academy of Sciences
+
 #### Object Sound Separation
 **[ECCV-2018]**
 [Learning to Separate Object Sounds by Watching Unlabeled Video](https://openaccess.thecvf.com/content_ECCV_2018/html/Ruohan_Gao_Learning_to_Separate_ECCV_2018_paper.html)
@@ -1284,6 +1291,13 @@ Boston University; Adobe Research; MIT-IBM Watson AI Lab, IBM Research
 **Authors:** Jiaben Chen, Renrui Zhang, Dongze Lian, Jiaqi Yang, Ziyao Zeng, Jianbo Shi
 <br>
 **Institution:** University of California San Diego; Shanghai AI Laboratory; The Chinese University of Hong Kong; National University of Singapore; ShanghaiTech University; University of Pennsylvania
+
+**[ICCV-2023]**
+[Separating Invisible Sounds Toward Universal Audiovisual Scene-Aware Sound Separation](https://arxiv.org/abs/2310.11713)
+<br>
+**Authors:** Yiyang Su, Ali Vosoughi, Shijian Deng, Yapeng Tian, Chenliang Xu
+<br>
+**Institution:** Michigan State University; University of Rochester; University of Texas at Dallas
 
 #### Face Super-resolution and Reconstruction
 **[CVPR-2020]**
@@ -3117,6 +3131,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 <br>
 **Institution:** Chinese Academy of Sciences; University of Chinese Academy of Sciences; Beijing Jiaotong University
 
+**[IEEE TMM-2023]**
+[Leveraging the Video-level Semantic Consistency of Event for Audio-visual Event Localization](https://ieeexplore.ieee.org/document/10286391/)
+<br>
+**Authors:** Yuanyuan Jiang, Jianqin Yin, Yonghao Dang
+<br>
+**Institution:** Beijing University of Posts and Telecommunications
+
 #### Parsing
 **[ECCV-2020]**
 [Unified Multisensory Perception: Weakly-Supervised Audio-Visual Video Parsing](https://link.springer.com/chapter/10.1007/978-3-030-58580-8_26)
@@ -3231,6 +3252,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Guangyao Li, Wenxuan Hou, Di Hu
 <br>
 **Institution:** Renmin Uniiversity of China
+
+**[WACV-2024]**
+[CAD -- Contextual Multi-modal Alignment for Dynamic AVQA](https://arxiv.org/abs/2310.16754)
+<br>
+**Authors:** Asmar Nadeem, Adrian Hilton, Robert Dawes, Graham Thomas, Armin Mustafa
+<br>
+**Institution:** University of Surrey; BBC Research and Development
 
 #### Dialog
 **[CVPR-2019]**
