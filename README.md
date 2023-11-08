@@ -117,7 +117,7 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Authors:** Joanna Hong, Minsu Kim, Daehun Yoo, Yong Man Ro
 <br>
-**Institution:** KAIST; Genesis Lab Inc.
+**Institution:** Korea Advanced Institute of Science and Technology; Genesis Lab Inc.
 
 **[MLSP-2022]**
 [Rethinking Audio-visual Synchronization for Active Speaker Detection](https://arxiv.org/abs/2206.10421)
@@ -222,7 +222,7 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Authors:** Joanna Hong, Minsu Kim, Jeongsoo Choi, Yong Man Ro
 <br>
-**Institution:** KAIST
+**Institution:** Korea Advanced Institute of Science and Technology
 
 **[ICASSP-2023]**
 [Auto-AVSR: Audio-Visual Speech Recognition with Automatic Labels](https://arxiv.org/abs/2303.14307)
@@ -250,7 +250,7 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Authors:** Jeong Hun Yeo, Minsu Kim, Yong Man Ro
 <br>
-**Institution:** KAIST
+**Institution:** Korea Advanced Institute of Science and Technology
 
 **[ICASSP-2023]**
 [On the Role of LIP Articulation in Visual Speech Perception](https://ieeexplore.ieee.org/document/10096012)
@@ -661,7 +661,7 @@ Intelligent Networks and Network Security
 <br>
 **Authors:** Taeoh Kim, Jinhyung Kim, Minho Shim, Sangdoo Yun, Myunggu Kang, Dongyoon Wee, Sangyoun Lee
 <br>
-**Institution:** NAVER Clova; KAIST; NAVER AI Lab; Yonsei University
+**Institution:** NAVER Clova; Korea Advanced Institute of Science and Technology; NAVER AI Lab; Yonsei University
 
 **[ICASSP-2023]**
 [Epic-Sounds: A Large-scale Dataset of Actions That Sound](https://arxiv.org/abs/2302.00646)
@@ -682,7 +682,7 @@ Intelligent Networks and Network Security
 <br>
 **Authors:** Muhammad Adi Nugroho, Sangmin Woo, Sumin Lee, Changick Kim
 <br>
-**Institution:** KAIST
+**Institution:** Korea Advanced Institute of Science and Technology
 
 **[IEEE TMM-2023]**
 [Audio-Visual Contrastive and Consistency Learning for Semi-Supervised Action Recognition](https://ieeexplore.ieee.org/document/10243145/)
@@ -1299,6 +1299,13 @@ Boston University; Adobe Research; MIT-IBM Watson AI Lab, IBM Research
 <br>
 **Institution:** Michigan State University; University of Rochester; University of Texas at Dallas
 
+**[WACV-2024]**
+[LAVSS: Location-Guided Audio-Visual Spatial Audio Separation](https://arxiv.org/abs/2310.20446)
+<br>
+**Authors:** Yuxin Ye, Wenming Yang, Yapeng Tian
+<br>
+**Institution:** Tsinghua University; The University of Texas at Dallas
+
 #### Face Super-resolution and Reconstruction
 **[CVPR-2020]**
 [Learning to Have an Ear for Face Super-Resolution](https://openaccess.thecvf.com/content_CVPR_2020/html/Meishvili_Learning_to_Have_an_Ear_for_Face_Super-Resolution_CVPR_2020_paper.html)
@@ -1452,7 +1459,7 @@ Chenqi Kong, Baoliang Chen, Wenhan Yang, Haoliang Li, Peilin Chen, Shiqi Wang
 <br>
 **Authors:** Jeongsoo Choi, Joanna Hong, Yong Man Ro
 <br>
-**Institution:** KAIST
+**Institution:** Korea Advanced Institute of Science and Technology
 
 ##### Music
 **[IEEE TMM-2015]**
@@ -1996,7 +2003,7 @@ Joint Audio and Video Generation](https://openaccess.thecvf.com/content/CVPR2023
 **[2021]**
 [Sound-guided semantic image manipulation](https://arxiv.org/abs/2112.00007)
 Seung Hyun Lee, Wonseok Roh, Wonmin Byeon, Sang Ho Yoon, Chan Young Kim, Jinkyu Kim, Sangpil Kim
-Korea University; KAIST; NVIDIA Corp.
+Korea University; Korea Advanced Institute of Science and Technology; NVIDIA Corp.
 
 **[2022]**
 [Learning visual styles from audio-visual associations](https://arxiv.org/abs/2205.05072)
@@ -2008,7 +2015,7 @@ Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
 <br>
 **Authors:** Kim Sung-Bin, Arda Senocak, Hyunwoo Ha, Andrew Owens, Tae-Hyun Oh
 <br>
-**Institution:** Pohang University of Science and Technology; KAIST; University of Michigan; Yonsei University
+**Institution:** Pohang University of Science and Technology; Korea Advanced Institute of Science and Technology; University of Michigan; Yonsei University
 
 #### Depth Estimation
 **[ICRA-2020]**
@@ -2746,7 +2753,7 @@ Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
 <br>
 **Authors:** Arda Senocak, Hyeonggon Ryu, Junsik Kim, Tae-Hyun Oh, Hanspeter Pfister, Joon Son Chung
 <br>
-**Institution:** KAIST; Harvard University; Pohang University of Science and Technology; Yonsei University
+**Institution:** Korea Advanced Institute of Science and Technology; Harvard University; Pohang University of Science and Technology; Yonsei University
 
 **[ICCV-2023]**
 [Multimodal Variational Auto-encoder based Audio-Visual Segmentation](https://arxiv.org/abs/2310.08303)
@@ -2754,6 +2761,13 @@ Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
 **Authors:** Yuxin Mao, Jing Zhang, Mochu Xiang, Yiran Zhong, Yuchao Dai
 <br>
 **Institution:** Northwestern Polytechnical University; Shaanxi Key Laboratory of Information Acquisition and Processing; Australian National University; Shanghai AI Laboratory
+
+**[WACV-2024]**
+[Can CLIP Help Sound Source Localization?](https://arxiv.org/abs/2311.04066)
+<br>
+**Authors:** Sooyoung Park, Arda Senocak, Joon Son Chung
+<br>
+**Institution:** Korea Advanced Institute of Science and Technology; Electronics and Telecommunications Research Institute
 
 #### Audio-visual Saliency Detection
 **[2019]**
