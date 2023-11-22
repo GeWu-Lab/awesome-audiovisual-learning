@@ -2500,6 +2500,20 @@ Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
 <br>
 **Institution:** Meta AI
 
+**[NeurIPS-2023]**
+[Cross-modal Prompts: Adapting Large Pre-trained Models for Audio-Visual Downstream Tasks](https://arxiv.org/abs/2311.05152)
+<br>
+**Authors:** Haoyi Duan, Yan Xia, Mingze Zhou, Li Tang, Jieming Zhu, Zhou Zhao
+<br>
+**Institution:** Zhejiang University; Shanghai Artificial Intelligence Laboratory; Huawei Noah’s Ark Lab
+
+**[WACV-2024]**
+[OmniVec: Learning robust representations with cross modal sharing](https://arxiv.org/abs/2311.05709)
+<br>
+**Authors:** Siddharth Srivastava, Gaurav Sharma
+<br>
+**Institution:** TensorTour Inc.
+
 ### Audio-visual Localization
 
 #### Sound Localization in Videos
@@ -3236,6 +3250,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Meng Liu, Ke Liang, Dayu Hu, Hao Yu, Yue Liu, Lingyuan Meng, Wenxuan Tu, Sihang Zhou, Xinwang Liu
 <br>
 **Institution:** National University of Defense Technology
+
+**[WACV-2024]**
+[Rethink Cross-Modal Fusion in Weakly-Supervised Audio-Visual Video Parsing](https://arxiv.org/abs/2311.08151)
+<br>
+**Authors:** Yating Xu, Conghui Hu, Gim Hee Lee
+<br>
+**Institution:** National University of Singapore
 
 ### Audio-visual Question Answering and Dialog
 #### Question Answering
