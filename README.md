@@ -555,6 +555,13 @@ Science and Technology of China; Zhejiang University
 <br>
 **Institution:** University of Science and Technology of China
 
+**[IEEE/ACM TASLP-2024]**
+[Self-Supervised Learning With Cluster-Aware-DINO for High-Performance Robust Speaker Verification](https://ieeexplore.ieee.org/document/10314722/)
+<br>
+**Authors:** Bing Han, Zhengyang Chen, Yanmin Qian
+<br>
+**Institution:** Shanghai Jiao Tong University
+
 #### Action Recognition
 **[IJCNN-2016]**
 [Exploring Multimodal Video Representation For Action Recognition](https://ieeexplore.ieee.org/abstract/document/7727435)
