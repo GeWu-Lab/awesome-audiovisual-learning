@@ -2883,6 +2883,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 <br>
 **Institution:** Shanghai Jiao Tong University; École Polytechnique Fédérale de Lausanne
 
+**[TMM-2023]**
+[Unified Audio-Visual Saliency Model for Omnidirectional Videos With Spatial Audio](https://ieeexplore.ieee.org/abstract/document/10109890)
+<br>
+**Authors:** Dandan Zhu, Kaiwei Zhang, Nana Zhang, Qiangqiang Zhou, Xiongkuo Min, Guangtao Zhai, Xiaokang Yang
+<br>
+**Institution:** Institute of AI Education, Shanghai, East China Normal University;Institute of Image Communication and Network Engineering, Shanghai Jiao Tong University; School of Computer Science and Technology, Donghua University; School of Software, Jiangxi Normal University; MoE Key Lab of Artificial Intelligence, AI Institute, Shanghai Jiao Tong University
+
 #### Audio-visual Navigation
 **[ECCV-2020]**
 [SoundSpaces: Audio-Visual Navigation in 3D Environments](https://link.springer.com/chapter/10.1007/978-3-030-58539-6_2)
@@ -3400,6 +3407,14 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Zhe Chen, Hongcheng Liu, Yu Wang
 <br>
 **Institution:** Shanghai Jiao Tong University; Shanghai Artificial Intelligence Laboratory
+
+**[IEEE-ACM T AUDIO SPE-2023]**
+[DialogMCF: Multimodal Context Flow for Audio
+Visual Scene-Aware Dialog](https://ieeexplore.ieee.org/document/10147255)
+<br>
+**Authors:** Zhe Chen, Hongcheng Liu, Yu Wang
+<br>
+**Institution:** Cooperative Medianet Innovation Center, Shanghai Jiao Tong University
 
 ## Datasets
 
