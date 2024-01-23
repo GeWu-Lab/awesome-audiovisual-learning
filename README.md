@@ -12,7 +12,8 @@ This is a curated list of audio-visual learning methods and datasets, based on o
   - [Audio-visual Boosting](#audio-visual-boosting)
     - [Audio-visual Recognition](#audio-visual-recognition)
       - [Speech Recognition](#speech-recognition)
-      - [Speaker Recognition](#speaker-recognition)
+    - [Speaker Recognition](#speaker-recognition)
+      - [Speaker Recognition](#speaker-recognition-1)
       - [Action Recognition](#action-recognition)
       - [Emotion Recognition](#emotion-recognition)
     - [Uni-modal Enhancement](#uni-modal-enhancement)
@@ -343,6 +344,25 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Institution:** Ocean University of China; University of Technology Sydney
 
+**[AAAI-2024]**
+[Multichannel AV-wav2vec2: A Framework for Learning Multichannel Multi-Modal Speech Representation](https://arxiv.org/abs/2401.03468)
+<br>
+**Authors:** Qiushi Zhu, Jie Zhang, Yu Gu, Yuchen Hu, Lirong Dai
+<br>
+**Institution:** NERC-SLIP, University of Science and Technology of China (USTC), Hefei, China; Tencent AI LAB; Nanyang Technological University, Singapore
+
+### Speaker Recognition
+**[ICASSP-2024]**
+
+[Look, Listen and Recognise: Character-Aware Audio-Visual Subtitling](https://arxiv.org/abs/2401.12039)
+
+<br>
+
+**Authors:** Bruno Korbar, Jaesung Huh, Andrew Zisserman
+
+<br>
+
+**Institution:** Visual Geometry Group, Department of Engineering Science, University of Oxford, UK
 #### Speaker Recognition
 **[MTA-2016]**
 [Audio-visual Speaker Diarization Using Fisher Linear Semi-discriminant Analysis](https://link.springer.com/article/10.1007/s11042-014-2274-x)
@@ -561,6 +581,13 @@ Science and Technology of China; Zhejiang University
 **Authors:** Bing Han, Zhengyang Chen, Yanmin Qian
 <br>
 **Institution:** Shanghai Jiao Tong University
+
+**[ICASSP-2024]**
+[Look, Listen and Recognise: Character-Aware Audio-Visual Subtitling](https://arxiv.org/abs/2401.12039)
+<br>
+**Authors:** Bruno Korbar, Jaesung Huh, Andrew Zisserman
+<br>
+**Institution:** Visual Geometry Group, Department of Engineering Science, University of Oxford, UK
 
 #### Action Recognition
 **[IJCNN-2016]**
@@ -1179,6 +1206,13 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 <br>
 **Institution:** Xiaomi Corporation; University of Chinese Academy of Sciences
 
+**[ICASSP-2024]**
+[Consistent and Relevant: Rethink the Query Embedding in General Sound Separation](https://arxiv.org/abs/2312.15463)
+<br>
+**Authors:** Yuanyuan Wang, Hangting Chen, Dongchao Yang, Jianwei Yu, Chao Weng, Zhiyong Wu, Helen Meng
+<br>
+**Institution:** Shenzhen International Graduate School, Tsinghua University, Shenzhen, China;  Tencent AI Lab, Audio and Speech Signal Processing Oteam, China; The Chinese University of Hong Kong, Hong Kong SAR, China;
+
 #### Object Sound Separation
 **[ECCV-2018]**
 [Learning to Separate Object Sounds by Watching Unlabeled Video](https://openaccess.thecvf.com/content_ECCV_2018/html/Ruohan_Gao_Learning_to_Separate_ECCV_2018_paper.html)
@@ -1377,6 +1411,13 @@ Chenqi Kong, Baoliang Chen, Wenhan Yang, Haoliang Li, Peilin Chen, Shiqi Wang
 **Authors:** Jinbo Xing, Menghan Xia, Yuechen Zhang, Xiaodong Cun, Jue Wang, Tien-Tsin Wong
 <br>
 **Institution:** The Chinese University of Hong Kong; Tencent AI Lab
+
+**[ICASSP-2024]**
+[Fusion of Audio and Visual Embeddings for Sound Event Localization and Detection](https://arxiv.org/abs/2312.09034)
+<br>
+**Authors:** Davide Berghi, Peipei Wu, Jinzheng Zhao, Wenwu Wang, Philip J. B. Jackson
+<br>
+**Institution:** Centre for Vision, Speech and Signal Processing (CVSSP), University of Surrey, Guildford, U.K.
 
 ## Cross-modal Perception
 
@@ -3308,6 +3349,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Asmar Nadeem, Adrian Hilton, Robert Dawes, Graham Thomas, Armin Mustafa
 <br>
 **Institution:** University of Surrey; BBC Research and Development
+
+**[AAAI-2024]**
+[Object-aware Adaptive-Positivity Learning for Audio-Visual Question Answering](https://arxiv.org/abs/2312.12816)
+<br>
+**Authors:** Zhangbin Li, Dan Guo, Jinxing Zhou, Jing Zhang, Meng Wang
+<br>
+**Institution:** School of Computer Science and Information Engineering, Hefei University of Technology; Institute of Artificial Intelligence, Hefei Comprehensive National Science Center
 
 #### Dialog
 **[CVPR-2019]**
