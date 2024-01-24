@@ -894,6 +894,13 @@ Intelligent Networks and Network Security
 <br>
 **Institution:** University of Science and Technology of China; Northwestern Polytechnical University
 
+**[arxiv]**
+[HiCMAE: Hierarchical Contrastive Masked Autoencoder for Self-Supervised Audio-Visual Emotion Recognition](https://arxiv.org/abs/2401.05698)
+<br>
+**Authors:** Licai Sun, Zheng Lian, Bin Liu, Jianhua Tao
+<br>
+**Institution:** School of Artificial Intelligence, University of Chinese Academy of Sciences, Beijing, China; Institute of Automation, Chinese Academy of Sciences, Beijing, China; Department of Automation, Tsinghua University, Beijing, China; Beijing National Research Center for Information Science and Technology, Tsinghua University, Beijing, China
+
 ### Uni-modal Enhancement
 
 #### Speech Enhancement and Separation
