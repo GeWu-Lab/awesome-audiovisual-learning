@@ -894,7 +894,7 @@ Intelligent Networks and Network Security
 <br>
 **Institution:** University of Science and Technology of China; Northwestern Polytechnical University
 
-**[arxiv]**
+**[arxiv-2024]**
 [HiCMAE: Hierarchical Contrastive Masked Autoencoder for Self-Supervised Audio-Visual Emotion Recognition](https://arxiv.org/abs/2401.05698)
 <br>
 **Authors:** Licai Sun, Zheng Lian, Bin Liu, Jianhua Tao
