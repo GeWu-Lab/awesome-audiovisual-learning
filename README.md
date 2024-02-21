@@ -1220,6 +1220,13 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 <br>
 **Institution:** Shenzhen International Graduate School, Tsinghua University, Shenzhen, China;  Tencent AI Lab, Audio and Speech Signal Processing Oteam, China; The Chinese University of Hong Kong, Hong Kong SAR, China;
 
+**[ICASSP-2024]**
+[SECP: A Speech Enhancement-Based Curation Pipeline For Scalable Acquisition Of Clean Speech](https://arxiv.org/abs/2402.12482)
+<br>
+**Authors:** Adam Sabra, Cyprian Wronka, Michelle Mao, Samer Hijazi
+<br>
+**Institution:** Cisco Systems, Inc
+
 #### Object Sound Separation
 **[ECCV-2018]**
 [Learning to Separate Object Sounds by Watching Unlabeled Video](https://openaccess.thecvf.com/content_ECCV_2018/html/Ruohan_Gao_Learning_to_Separate_ECCV_2018_paper.html)
