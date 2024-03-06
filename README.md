@@ -1523,6 +1523,13 @@ Chenqi Kong, Baoliang Chen, Wenhan Yang, Haoliang Li, Peilin Chen, Shiqi Wang
 <br>
 **Institution:** Korea Advanced Institute of Science and Technology
 
+**[CVPR-2024]**
+[Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners](https://arxiv.org/abs/2402.17723)
+<br>
+**Authors:** Yazhou Xing, Yingqing He, Zeyue Tian, Xintao Wang, Qifeng Chen
+<br>
+**Institution:** HKUST; ARCLab,Tencent PCG
+
 ##### Music
 **[IEEE TMM-2015]**
 [Real-Time Piano Music Transcription Based on Computer Vision](https://ieeexplore.ieee.org/abstract/document/7225173)
@@ -2845,6 +2852,20 @@ Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
 <br>
 **Institution:** Korea Advanced Institute of Science and Technology; Electronics and Telecommunications Research Institute
 
+**[NeurIPS-2023]**
+[Dual Mean-Teacher: An Unbiased Semi-Supervised Framework for Audio-Visual Source Localization](https://arxiv.org/abs/2403.03145)
+<br>
+**Authors:** Yuxin Guo, Shijie Ma, Hu Su, Zhiqing Wang, Yuhao Zhao, Wei Zou，Siyang Sun, Yun Zheng
+<br>
+**Institution:** School of Artificial Intelligence, University of Chinese Academy of Sciences, Beijing, China; State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation of Chinese Academy of Sciences, Beijing, China; DAMOAcademy, Alibaba Group 
+
+**[ICASSP-2024]**
+[Cross Pseudo-Labeling for Semi-Supervised Audio-Visual Source Localization](https://arxiv.org/abs/2403.03095)
+<br>
+**Authors:** Yuxin Guo, Shijie Ma, Yuhao Zhao, Hu Su, Wei Zou
+<br>
+**Institution:** School of Artificial Intelligence, University of Chinese Academy of Sciences; State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS);  Institute of Automation of Chinese Academy of Sciences
+
 #### Audio-visual Saliency Detection
 **[2019]**
 [DAVE: A Deep Audio-Visual Embedding for Dynamic Saliency Prediction](https://arxiv.org/abs/1905.10693)
@@ -2944,6 +2965,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Dandan Zhu, Kaiwei Zhang, Nana Zhang, Qiangqiang Zhou, Xiongkuo Min, Guangtao Zhai, Xiaokang Yang
 <br>
 **Institution:** Institute of AI Education, Shanghai, East China Normal University;Institute of Image Communication and Network Engineering, Shanghai Jiao Tong University; School of Computer Science and Technology, Donghua University; School of Software, Jiangxi Normal University; MoE Key Lab of Artificial Intelligence, AI Institute, Shanghai Jiao Tong University
+
+**[CVPR-2024]**
+[DiffSal: Joint Audio and Video Learning for Diffusion Saliency Prediction](https://arxiv.org/abs/2403.01226)
+<br>
+**Authors:** Junwen Xiong, Peng Zhang, Tao You, Chuanyue Li, Wei Huang, Yufei Zha
+<br>
+**Institution:** Northwestern Polytechnical University; Ningbo Institute of Northwestern Polytechnical University; Nanchang University
 
 #### Audio-visual Navigation
 **[ECCV-2020]**
