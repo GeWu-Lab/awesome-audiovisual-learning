@@ -351,6 +351,13 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Institution:** NERC-SLIP, University of Science and Technology of China (USTC), Hefei, China; Tencent AI LAB; Nanyang Technological University, Singapore
 
+**[CVPR-2024]**
+[A Study of Dropout-Induced Modality Bias on Robustness to Missing Video Frames for Audio-Visual Speech Recognition](https://arxiv.org/abs/2403.04245)
+<br>
+**Authors:** Yusheng Dai, Hang Chen, Jun Du, Ruoyu Wang, Shihao Chen, Jiefeng Ma, Haotian Wang, Chin-Hui Lee
+<br>
+**Institution:** University of Science and Technology of China, Hefei, China; Georgia Institute of Technology, Atlanta, America
+
 ### Speaker Recognition
 **[ICASSP-2024]**
 
@@ -588,6 +595,13 @@ Science and Technology of China; Zhejiang University
 **Authors:** Bruno Korbar, Jaesung Huh, Andrew Zisserman
 <br>
 **Institution:** Visual Geometry Group, Department of Engineering Science, University of Oxford, UK
+
+**[FG-2024]**
+[Dynamic Cross Attention for Audio-Visual Person Verification](https://arxiv.org/abs/2403.04661)
+<br>
+**Authors:** R. Gnana Praveen, Jahangir Alam
+<br>
+**Institution:** Computer Research Institute of Montreal (CRIM), Montreal, Canada
 
 #### Action Recognition
 **[IJCNN-2016]**
