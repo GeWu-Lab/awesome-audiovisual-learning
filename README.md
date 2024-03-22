@@ -2082,6 +2082,13 @@ Joint Audio and Video Generation](https://openaccess.thecvf.com/content/CVPR2023
 <br>
 **Institution:** Shanghai Key Lab of Intelligent Information Processing; Fudan University; Tencent
 
+**[VCJ-2024]**
+[QEAN: Quaternion-Enhanced Attention Network for Visual Dance Generation](https://arxiv.org/abs/2403.11626)
+<br>
+**Authors:** Zhizhen Zhou, Yejing Huo, Guoheng Huang, An Zeng, Xuhang Chen, Lian Huang, Zinuo Li
+<br>
+**Institution:** Guangdong University of Technology, Guangdong, China; Huizhou University, Guangdong, China; Guangdong Mechanical and Electrical College, Guangdong, China; University of Western Australia, WA, Australia
+
 #### Image Manipulation
 **[2021]**
 [Sound-guided semantic image manipulation](https://arxiv.org/abs/2112.00007)
@@ -2879,6 +2886,13 @@ Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
 **Authors:** Yuxin Guo, Shijie Ma, Yuhao Zhao, Hu Su, Wei Zou
 <br>
 **Institution:** School of Artificial Intelligence, University of Chinese Academy of Sciences; State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS);  Institute of Automation of Chinese Academy of Sciences
+
+**[CVPR-2024]**
+[Audio-Visual Segmentation via Unlabeled Frame Exploitation](https://arxiv.org/abs/2403.11074)
+<br>
+**Authors:** Jinxiang Liu, Yikun Liu, Fei Zhang, Chen Ju, Ya Zhang, Yanfeng Wang
+<br>
+**Institution:** Cooperative Medianet Innovation Center, Shanghai Jiao Tong University; Shanghai AI Laboratory
 
 #### Audio-visual Saliency Detection
 **[2019]**
