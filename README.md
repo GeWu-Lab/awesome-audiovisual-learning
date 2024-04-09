@@ -28,9 +28,9 @@ This is a curated list of audio-visual learning methods and datasets, based on o
       - [Spatial Sound Generation](#spatial-sound-generation)
       - [Video Generation](#video-generation)
         - [talking face](#talking-face)
-      - [Gesture](#gesture)
+        - [Gesture](#gesture)
         - [Dance](#dance)
-      - [Image Manipulation](#image-manipulation)
+        - [Image Manipulation](#image-manipulation)
       - [Depth Estimation](#depth-estimation)
     - [Audio-visual Transfer Learning](#audio-visual-transfer-learning)
     - [Cross-modal Retrieval](#cross-modal-retrieval)
@@ -776,7 +776,7 @@ Intelligent Networks and Network Security
 **Authors:** Yitao Cai, Huiyu Cai, Xiaojun Wan
 <br>
 **Institution:** Peking University
- 
+
 **[ACL-2020]**
 [Sentiment and Emotion help Sarcasm? A Multi-task Learning Framework for Multi-Modal Sarcasm, Sentiment and Emotion Analysis](https://aclanthology.org/2020.acl-main.401/)
 <br>
@@ -1693,7 +1693,7 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Authors:** Ruohan Gao, Kristen Grauman
 <br>
 **Institution:** The University of Texas at Austin; Facebook AI Research
- 
+
 **[ICIP-2019]**
 [Self-Supervised Audio Spatialization with Correspondence Classifier](https://ieeexplore.ieee.org/abstract/document/8803494/)
 <br>
@@ -1948,7 +1948,7 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 **Authors:** Taras Kucherenko, Dai Hasegawa, Gustav Eje Henter, Naoshi Kaneko, Hedvig Kjellstr?m
 <br>
 **Institution:** KTH Royal Institute of Technology in Stockholm; Hokkai Gakuen University; Aoyama Gakuin University; 
- 
+
 **[CVPR-2019]**
 [Learning Individual Styles of Conversational Gesture](https://openaccess.thecvf.com/content_CVPR_2019/html/Ginosar_Learning_Individual_Styles_of_Conversational_Gesture_CVPR_2019_paper.html)
 <br>
@@ -2187,7 +2187,7 @@ Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
 **Authors:** Zihui Xue, Sucheng Ren, Zhengqi Gao, Hang Zhao
 <br>
 **Institution:** Shanghai Qi Zhi Institute; UT Austin; South China University of Technology; Massachusetts Institute of Technology; Tsinghua University
- 
+
 **[CVPR-2021]**
 [Distilling Audio-visual Knowledge by Compositional Contrastive Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Distilling_Audio-Visual_Knowledge_by_Compositional_Contrastive_Learning_CVPR_2021_paper.pdf)
 <br>
@@ -2305,7 +2305,7 @@ Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
 **Authors:** Donghuo Zeng, Yi Yu, Keizo Oyama
 <br>
 **Institution:** National Institute of Informatics
- 
+
 **[IEEE TGRS-2020]**
 [Deep Cross-Modal Image–Voice Retrieval in Remote Sensing](https://ieeexplore.ieee.org/abstract/document/9044618)
 <br>
@@ -2911,7 +2911,7 @@ Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
 Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinping Guan
 <br>
 **Institution:** Shanghai Jiao Tong University; University of Macau; Ryerson University
-   
+
 **[IROS-2021]**
 [ViNet: Pushing the limits of Visual Modality for Audio-Visuav Saliency Prediction](https://ieeexplore.ieee.org/abstract/document/9635989)
 <br>
@@ -3538,7 +3538,7 @@ Visual Scene-Aware Dialog](https://ieeexplore.ieee.org/document/10147255)
 
 ## Datasets
 
-| Dataset | Year | Videos | Length  | Data form | Video source            | Task                                               
+| Dataset | Year | Videos | Length  | Data form | Video source            | Task                                               |
 | :-------------------: | :-------: | :-------: | :-------: | :---------------------------: | :-----------------------: | :-------------------------------------------------------------: |
 | [LRW, LRS2 and LRS3](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/)  | 2016,2018, 2018 | -        | 800h+   | video                       | in the wild             | Speech-related, speaker-related,face generation-related tasks |
 | [VoxCeleb, VoxCeleb2](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox2.html) | 2017, 2018      | -        | 2,000h+ | video                       | YouTube                 | Speech-related, speaker-related,face generation-related tasks |
@@ -3564,3 +3564,4 @@ Visual Scene-Aware Dialog](https://ieeexplore.ieee.org/document/10147255)
 | [Pano-AVQA](https://paperswithcode.com/dataset/visual-question-answering)           | 2021            | 5.4k     | 7.7h    | 360 video with QA | Video-sharing platforms | Audio-visual question answering                               |
 | [MUSIC-AVQA](https://gewu-lab.github.io/MUSIC-AVQA/)          | 2022            | 9,288    | 150h+   | video with QA               | YouTube                 | Audio-visual question answering                               |
 | [AVSBench](https://arxiv.org/abs/2207.05042)         | 2022            | 5,356    | 14.8h+   | video         | YouTube                 | Audio-visual segmentation, sound localization                             |
+| [RAF](https://arxiv.org/abs/2403.18821) | 2024 | - | 95h+ | 3D environment | Recorded videos | Spatial Sound Generation |
