@@ -12,8 +12,7 @@ This is a curated list of audio-visual learning methods and datasets, based on o
   - [Audio-visual Boosting](#audio-visual-boosting)
     - [Audio-visual Recognition](#audio-visual-recognition)
       - [Speech Recognition](#speech-recognition)
-    - [Speaker Recognition](#speaker-recognition)
-      - [Speaker Recognition](#speaker-recognition-1)
+      - [Speaker Recognition](#speaker-recognition)
       - [Action Recognition](#action-recognition)
       - [Emotion Recognition](#emotion-recognition)
     - [Uni-modal Enhancement](#uni-modal-enhancement)
@@ -358,19 +357,15 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Institution:** University of Science and Technology of China, Hefei, China; Georgia Institute of Technology, Atlanta, America
 
-### Speaker Recognition
-**[ICASSP-2024]**
-
-[Look, Listen and Recognise: Character-Aware Audio-Visual Subtitling](https://arxiv.org/abs/2401.12039)
-
+**[IJCNN-2024]**
+[Target Speech Extraction with Pre-trained AV-HuBERT and Mask-And-Recover Strategy](https://arxiv.org/abs/2403.16078)
 <br>
-
-**Authors:** Bruno Korbar, Jaesung Huh, Andrew Zisserman
-
+**Authors:** Wenxuan Wu, Xueyuan Chen, Xixin Wu, Haizhou Li, Helen Meng
 <br>
+**Institution:**  The Chinese University of Hong Kong
 
-**Institution:** Visual Geometry Group, Department of Engineering Science, University of Oxford, UK
 #### Speaker Recognition
+
 **[MTA-2016]**
 [Audio-visual Speaker Diarization Using Fisher Linear Semi-discriminant Analysis](https://link.springer.com/article/10.1007/s11042-014-2274-x)
 <br>
@@ -3290,6 +3285,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Yuanyuan Jiang, Jianqin Yin, Yonghao Dang
 <br>
 **Institution:** Beijing University of Posts and Telecommunications
+
+**[CVPR-2024]**
+[T-VSL: Text-Guided Visual Sound Source Localization in Mixtures](https://arxiv.org/abs/2404.01751)
+<br>
+**Authors:** Tanvir Mahmud, Yapeng Tian, Diana Marculescu
+<br>
+**Institution:**  University of Texas at Austin
 
 #### Parsing
 **[ECCV-2020]**
