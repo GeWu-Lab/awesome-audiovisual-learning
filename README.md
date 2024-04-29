@@ -28,9 +28,9 @@ This is a curated list of audio-visual learning methods and datasets, based on o
       - [Spatial Sound Generation](#spatial-sound-generation)
       - [Video Generation](#video-generation)
         - [talking face](#talking-face)
-        - [Gesture](#gesture)
+      - [Gesture](#gesture)
         - [Dance](#dance)
-        - [Image Manipulation](#image-manipulation)
+      - [Image Manipulation](#image-manipulation)
       - [Depth Estimation](#depth-estimation)
     - [Audio-visual Transfer Learning](#audio-visual-transfer-learning)
     - [Cross-modal Retrieval](#cross-modal-retrieval)
@@ -734,6 +734,13 @@ Intelligent Networks and Network Security
 <br>
 **Institution:** University of Electronic Science and Technology of China; Sichuan Artificial Intelligence Research Institute; Adama Science and Technology University
 
+**[CVPR-2024]**
+[TIM: A Time Interval Machine for Audio-Visual Action Recognition](https://arxiv.org/abs/2404.05559)
+<br>
+**Authors:** Jacob Chalk, Jaesung Huh, Evangelos Kazakos, Andrew Zisserman, Dima Damen
+<br>
+**Institution:**  University of Bristol; VGG, University of Oxford;  Czech Technical University in Prague
+
 #### Emotion Recognition
 **[EMNLP-2017]**
 [Tensor Fusion Network for Multimodal Sentiment Analysis](https://arxiv.org/abs/1707.07250)
@@ -909,6 +916,13 @@ Intelligent Networks and Network Security
 **Authors:** Licai Sun, Zheng Lian, Bin Liu, Jianhua Tao
 <br>
 **Institution:** School of Artificial Intelligence, University of Chinese Academy of Sciences, Beijing, China; Institute of Automation, Chinese Academy of Sciences, Beijing, China; Department of Automation, Tsinghua University, Beijing, China; Beijing National Research Center for Information Science and Technology, Tsinghua University, Beijing, China
+
+**[IJCAI-2024]**
+[HyDiscGAN: A Hybrid Distributed cGAN for Audio-Visual Privacy Preservation in Multimodal Sentiment Analysis](https://arxiv.org/abs/2404.11938)
+<br>
+**Authors:** Zhuojia Wu, Qi Zhang, Duoqian Miao, Kun Yi, Wei Fan, Liang Hu
+<br>
+**Institution:**  Tongji University; Beijing Institute of Technology; University of Oxford; DeepBlue Academy of Sciences
 
 ### Uni-modal Enhancement
 
@@ -1235,6 +1249,13 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 **Authors:** Adam Sabra, Cyprian Wronka, Michelle Mao, Samer Hijazi
 <br>
 **Institution:** Cisco Systems, Inc
+
+**[IJCAI-2024]**
+[Separate in the Speech Chain: Cross-Modal Conditional Audio-Visual Target Speech Extraction](https://arxiv.org/abs/2404.12725)
+<br>
+**Authors:** Zhaoxi Mu, Xinyu Yang
+<br>
+**Institution:**  Xi’an Jiaotong University
 
 #### Object Sound Separation
 **[ECCV-2018]**
@@ -2326,6 +2347,13 @@ Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
 **Authors:** Qinghao Ye, Xiyue Shen, Yuan Gao, Zirui Wang, Qi Bi, Ping Li, Guang Yang
 <br>
 **Institution:** Hangzhou Dianzi University; University of California; East China Normal University; University of Oxford; Wuhan University; Imperial College London
+
+**[ICMR-2024]**
+[Anchor-aware Deep Metric Learning for Audio-visual Retrieval](https://arxiv.org/abs/2404.13789)
+<br>
+**Authors:** Donghuo Zeng, Yanan Wang, Kazushi Ikeda, Yi Yu
+<br>
+**Institution:**  KDDI Research, Inc.;  Hiroshima University
 
 **[IJCAI-2022]**
 [Unsupervised Voice-Face Representation Learning by Cross-Modal Prototype Contrast](https://www.ijcai.org/proceedings/2022/526)
