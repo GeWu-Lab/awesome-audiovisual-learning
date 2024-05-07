@@ -28,9 +28,9 @@ This is a curated list of audio-visual learning methods and datasets, based on o
       - [Spatial Sound Generation](#spatial-sound-generation)
       - [Video Generation](#video-generation)
         - [talking face](#talking-face)
-      - [Gesture](#gesture)
+        - [Gesture](#gesture)
         - [Dance](#dance)
-      - [Image Manipulation](#image-manipulation)
+        - [Image Manipulation](#image-manipulation)
       - [Depth Estimation](#depth-estimation)
     - [Audio-visual Transfer Learning](#audio-visual-transfer-learning)
     - [Cross-modal Retrieval](#cross-modal-retrieval)
@@ -1955,7 +1955,7 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Alibaba Group
 
-#### Gesture
+##### Gesture
 **[IVA-2018]**
 [Evaluation of Speech-to-Gesture Generation Using Bi-Directional LSTM Network](https://dl.acm.org/doi/abs/10.1145/3267851.3267878)
 <br>
@@ -2033,6 +2033,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** The University of Hong Kong; The Chinese University of Hong Kong; Nanyang Technological University
 
+**[IJCAI-2024]**
+[Bridge to Non-Barrier Communication: Gloss-Prompted Fine-grained Cued Speech Gesture Generation with Diffusion Model](https://arxiv.org/abs/2404.19277)
+<br>
+**Authors:** Wentao Lei, Li Liu, Jun Wang
+<br>
+**Institution:**  The Hong Kong University of Science and Technology (Guangzhou); Tencent AI Lab; The Hong Kong University of Science and Technology
+
 ##### Dance
 **[ACM MM-2018]**
 [Dance with Melody: An LSTM-autoencoder Approach to Music-oriented Dance Synthesis](https://dl.acm.org/doi/abs/10.1145/3240508.3240526)
@@ -2105,7 +2112,7 @@ Joint Audio and Video Generation](https://openaccess.thecvf.com/content/CVPR2023
 <br>
 **Institution:** Guangdong University of Technology, Guangdong, China; Huizhou University, Guangdong, China; Guangdong Mechanical and Electrical College, Guangdong, China; University of Western Australia, WA, Australia
 
-#### Image Manipulation
+##### Image Manipulation
 **[2021]**
 [Sound-guided semantic image manipulation](https://arxiv.org/abs/2112.00007)
 Seung Hyun Lee, Wonseok Roh, Wonmin Byeon, Sang Ho Yoon, Chan Young Kim, Jinkyu Kim, Sangpil Kim
@@ -3129,6 +3136,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Jinyu Chen, Wenguan Wang, Si Liu, Hongsheng Li, Yi Yang
 <br>
 **Institution:** Beihang University; Zhejiang University; The Chinese University of Hong Kong
+
+**[IROS-2024]**
+[Audio-Visual Traffic Light State Detection for Urban Robots](https://arxiv.org/abs/2404.19281)
+<br>
+**Authors:** Sagar Gupta, Akansel Cosgun
+<br>
+**Institution:** Deakin University, Australia
 
 ### Audio-visual Event Localization and Parsing
 #### Localization
