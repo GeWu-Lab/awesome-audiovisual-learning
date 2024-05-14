@@ -1955,6 +1955,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Alibaba Group
 
+**[CVPR-2024]**
+[Audio-Visual Speech Representation Expert for Enhanced Talking Face Video Generation and Evaluation](https://arxiv.org/abs/2405.04327)
+<br>
+**Authors:** Dogucan Yaman, Fevziye Irem Eyiokur, Leonard Bärmann, Seymanur Aktı, Hazım Kemal Ekenel, Alexander Waibel
+<br>
+**Institution:**  KarlsruheInstitute of Technology; Istanbul Technical University; Carnegie Mellon University
+
 ##### Gesture
 **[IVA-2018]**
 [Evaluation of Speech-to-Gesture Generation Using Bi-Directional LSTM Network](https://dl.acm.org/doi/abs/10.1145/3267851.3267878)
@@ -3607,3 +3614,4 @@ Visual Scene-Aware Dialog](https://ieeexplore.ieee.org/document/10147255)
 | [MUSIC-AVQA](https://gewu-lab.github.io/MUSIC-AVQA/)          | 2022            | 9,288    | 150h+   | video with QA               | YouTube                 | Audio-visual question answering                               |
 | [AVSBench](https://arxiv.org/abs/2207.05042)         | 2022            | 5,356    | 14.8h+   | video         | YouTube                 | Audio-visual segmentation, sound localization                             |
 | [RAF](https://arxiv.org/abs/2403.18821) | 2024 | - | 95h+ | 3D environment | Recorded videos | Spatial Sound Generation |
+| [SPD](https://arxiv.org/abs/2405.04963) | 2024 | - | 3.0h | Multi-view video | Recorded videos | Action Recognition |
