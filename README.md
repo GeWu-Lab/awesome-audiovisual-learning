@@ -924,6 +924,13 @@ Intelligent Networks and Network Security
 <br>
 **Institution:**  Tongji University; Beijing Institute of Technology; University of Oxford; DeepBlue Academy of Sciences
 
+**[ICPR-2024]**
+[Detail-Enhanced Intra- and Inter-modal Interaction for Audio-Visual Emotion Recognition](https://arxiv.org/abs/2405.16701)
+<br>
+**Authors:** Tong Shi, Xuri Ge, Joemon M. Jose, Nicolas Pugeault, Paul Henderson
+<br>
+**Institution:**  School of Computing Science, University of Glasgow
+
 ### Uni-modal Enhancement
 
 #### Speech Enhancement and Separation
