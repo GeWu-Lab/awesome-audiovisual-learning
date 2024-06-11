@@ -364,6 +364,13 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Institution:**  The Chinese University of Hong Kong
 
+**[InterSpeech-2024]**
+[LipGER: Visually-Conditioned Generative Error Correction for Robust Automatic Speech Recognition](https://arxiv.org/abs/2406.04432)
+<br>
+**Authors:** Sreyan Ghosh, Sonal Kumar, Ashish Seth, Purva Chiniya, Utkarsh Tyagi, Ramani Duraiswami, Dinesh Manocha
+<br>
+**Institution:** University of Maryland, College Park, USA
+
 #### Speaker Recognition
 
 **[MTA-2016]**
@@ -1469,6 +1476,13 @@ Chenqi Kong, Baoliang Chen, Wenhan Yang, Haoliang Li, Peilin Chen, Shiqi Wang
 **Authors:** Davide Berghi, Peipei Wu, Jinzheng Zhao, Wenwu Wang, Philip J. B. Jackson
 <br>
 **Institution:** Centre for Vision, Speech and Signal Processing (CVSSP), University of Surrey, Guildford, U.K.
+
+**[CVPR-2024]**
+[AVFF: Audio-Visual Feature Fusion for Video Deepfake Detection](https://arxiv.org/abs/2406.02951)
+<br>
+**Authors:** Trevine Oorloff, Surya Koppisetti, Nicolò Bonettini, Divyaraj Solanki, Ben Colman, Yaser Yacoob, Ali Shahriyari, Gaurav Bharaj
+<br>
+**Institution:**  University of Maryland - College Park; Reality Defender Inc.
 
 ## Cross-modal Perception
 
