@@ -371,6 +371,13 @@ This is a curated list of audio-visual learning methods and datasets, based on o
 <br>
 **Institution:** University of Maryland, College Park, USA
 
+**[InterSpeech-2024]**
+[Whisper-Flamingo: Integrating Visual Features into Whisper for Audio-Visual Speech Recognition and Translation](https://arxiv.org/abs/2406.10082)
+<br>
+**Authors:** Andrew Rouditchenko, Yuan Gong, Samuel Thomas, Leonid Karlinsky, Hilde Kuehne, Rogerio Feris, James Glass
+<br>
+**Institution:** MIT, USA; IBMResearch AI, USA; MIT-IBM Watson AI Lab, USA; University of Bonn, Germany
+
 #### Speaker Recognition
 
 **[MTA-2016]**
@@ -938,6 +945,13 @@ Intelligent Networks and Network Security
 <br>
 **Institution:**  School of Computing Science, University of Glasgow
 
+**[InterSpeech-2024]**
+[AVR: Synergizing Foundation Models for Audio-Visual Humor Detection](https://arxiv.org/abs/2406.10448)
+<br>
+**Authors:** Sarthak Sharma, Orchid Chetia Phukan, Drishti Singh, Arun Balaji Buduru, Rajesh Sharma
+<br>
+**Institution:** IIIT-Delhi, India; University of Tartu, Estonia
+
 ### Uni-modal Enhancement
 
 #### Speech Enhancement and Separation
@@ -1270,6 +1284,13 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 **Authors:** Zhaoxi Mu, Xinyu Yang
 <br>
 **Institution:**  Xi’an Jiaotong University
+
+**[InterSpeech-2024]**
+[FlowAVSE: Efficient Audio-Visual Speech Enhancement with Conditional Flow Matching](https://arxiv.org/abs/2406.09286)
+<br>
+**Authors:** Chaeyoung Jung, Suyeon Lee, Ji-Hoon Kim, Joon Son Chung
+<br>
+**Institution:** Korea Advanced Institute of Science and Technology, South Korea
 
 #### Object Sound Separation
 **[ECCV-2018]**
@@ -2662,6 +2683,13 @@ Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
 <br>
 **Institution:** TensorTour Inc.
 
+**[InterSpeech-2024]**
+[Zero-Shot Fake Video Detection by Audio-Visual Consistency](https://arxiv.org/abs/2406.07854)
+<br>
+**Authors:** Xiaolou Li, Zehua Liu, Chen Chen, Lantian Li, Li Guo, Dong Wang
+<br>
+**Institution:** School of Artificial Intelligence, Beijing University of Posts and Telecommunications, China; Center for Speech and Language Technologies, BNRist, Tsinghua University, China
+
 ### Audio-visual Localization
 
 #### Sound Localization in Videos
@@ -3363,6 +3391,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 <br>
 **Institution:**  University of Texas at Austin
 
+**[ICME-2024]**
+[Exploring Audio-Visual Information Fusion for Sound Event Localization and Detection In Low-Resource Realistic Scenarios](https://arxiv.org/abs/2406.15160)
+<br>
+**Authors:** Ya Jiang, Qing Wang, Jun Du, Maocheng Hu, Pengfei Hu, Zeyan Liu, Shi Cheng, Zhaoxu Nian, Yuxuan Dong, Mingqi Cai, Xin Fang, Chin-Hui Lee
+<br>
+**Institution:**  University of Science and Technology of China;  iFlytek Research; Georgia Institute of Technology
+
 #### Parsing
 **[ECCV-2020]**
 [Unified Multisensory Perception: Weakly-Supervised Audio-Visual Video Parsing](https://link.springer.com/chapter/10.1007/978-3-030-58580-8_26)
@@ -3498,6 +3533,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Zhangbin Li, Dan Guo, Jinxing Zhou, Jing Zhang, Meng Wang
 <br>
 **Institution:** School of Computer Science and Information Engineering, Hefei University of Technology; Institute of Artificial Intelligence, Hefei Comprehensive National Science Center
+
+**[InterSpeech-2024]**
+[Towards Multilingual Audio-Visual Question Answering](https://arxiv.org/abs/2406.09156)
+<br>
+**Authors:** Orchid Chetia Phukan, Priyabrata Mallick, Swarup Ranjan Behera, Aalekhya Satya Narayani, Arun Balaji Buduru, Rajesh Sharma
+<br>
+**Institution:** IIIT-Delhi, India; Reliance Jio AICoE, Hyderabad, India; University of Tartu, Estonia;
 
 #### Dialog
 **[CVPR-2019]**
