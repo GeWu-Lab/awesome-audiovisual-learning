@@ -2004,6 +2004,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:**  KarlsruheInstitute of Technology; Istanbul Technical University; Carnegie Mellon University
 
+**[InterSpeech-2024]**
+[Enhancing Speech-Driven 3D Facial Animation with Audio-Visual Guidance from Lip Reading Expert](https://arxiv.org/abs/2407.01034)
+<br>
+**Authors:** Han EunGi, Oh Hyun-Bin, Kim Sung-Bin, Corentin Nivelet Etcheberry, Suekyeong Nam, Janghoon Joo, Tae-Hyun Oh
+<br>
+**Institution:** Grad. School of Artificial Intelligence and Dept. of Electrical Engineering, POSTECH, Korea; ENSC, Bordeaux INP, France; KRAFTON, Korea; Inst. for Convergence Research and Education in Advanced Technology, Yonsei University, Korea
+
 ##### Gesture
 **[IVA-2018]**
 [Evaluation of Speech-to-Gesture Generation Using Bi-Directional LSTM Network](https://dl.acm.org/doi/abs/10.1145/3267851.3267878)
