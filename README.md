@@ -1292,6 +1292,13 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 <br>
 **Institution:** Korea Advanced Institute of Science and Technology, South Korea
 
+**[InterSpeech-2024]**
+[RT-LA-VocE: Real-Time Low-SNR Audio-Visual Speech Enhancement](https://arxiv.org/abs/2407.07825)
+<br>
+**Authors:** Honglie Chen, Rodrigo Mira, Stavros Petridis, Maja Pantic
+<br>
+**Institution:** Meta AI, UK; Imperial College London, UK
+
 #### Object Sound Separation
 **[ECCV-2018]**
 [Learning to Separate Object Sounds by Watching Unlabeled Video](https://openaccess.thecvf.com/content_ECCV_2018/html/Ruohan_Gao_Learning_to_Separate_ECCV_2018_paper.html)
@@ -3496,6 +3503,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Yating Xu, Conghui Hu, Gim Hee Lee
 <br>
 **Institution:** National University of Singapore
+
+**[ECCV-2024]**
+[Label-anticipated Event Disentanglement for Audio-Visual Video Parsing](https://arxiv.org/abs/2407.08126)
+<br>
+**Authors:** Jinxing Zhou, Dan Guo, Yuxin Mao, Yiran Zhong, Xiaojun Chang, Meng Wang
+<br>
+**Institution:** Hefei University of Technology; Anhui Zhonghuitong Technology Co., Ltd.; Institute of Artificial Intelligence, Hefei Comprehensive National Science Center; Northwestern Polytechnical University; Shanghai AI Laboratory; University of Science and Technology of China; MBZUAI
 
 ### Audio-visual Question Answering and Dialog
 #### Question Answering
