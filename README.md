@@ -3412,6 +3412,27 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 <br>
 **Institution:**  University of Science and Technology of China;  iFlytek Research; Georgia Institute of Technology
 
+**[ECCV-2024]**
+[Ref-AVS: Refer and Segment Objects in Audio-Visual Scenes](https://arxiv.org/abs/2407.10957)
+<br>
+**Authors:** Yaoting Wang, Peiwen Sun, Dongzhan Zhou, Guangyao Li, Honggang Zhang, Di Hu
+<br>
+**Institution:** Gaoling School of Artificial Intelligence, Renmin University of China, China;  Beijing University of Posts and Telecommunications, Beijing, China; Shanghai Artificial Intelligence Laboratory, Shanghai, China; Engineering Research Center of Next-Generation Search and Recommendation
+
+**[ECCV-2024]**
+[Stepping Stones: A Progressive Training Strategy for Audio-Visual Semantic Segmentation](https://arxiv.org/abs/2407.11820)
+<br>
+**Authors:** Juncheng Ma, Peiwen Sun, Yaoting Wang, Di Hu
+<br>
+**Institution:**  University of Chinese Academy of Sciences; Beijing University of Posts and Telecommunications; Gaoling School of Artificial Intelligence, Renmin University of China, China;  Engineering Research Center of Next-Generation Search and Recommendation
+
+**[ACM MM-2024]**
+[Unveiling and Mitigating Bias in Audio Visual Segmentation](https://arxiv.org/abs/2407.16638)
+<br>
+**Authors:** Peiwen Sun, Honggang Zhang, Di Hu
+<br>
+**Institution:**   Beijing University of Posts and Telecommunications, Beijing, China;  Renmin University of China, Beijing, China
+
 #### Parsing
 **[ECCV-2020]**
 [Unified Multisensory Perception: Weakly-Supervised Audio-Visual Video Parsing](https://link.springer.com/chapter/10.1007/978-3-030-58580-8_26)
@@ -3561,6 +3582,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Orchid Chetia Phukan, Priyabrata Mallick, Swarup Ranjan Behera, Aalekhya Satya Narayani, Arun Balaji Buduru, Rajesh Sharma
 <br>
 **Institution:** IIIT-Delhi, India; Reliance Jio AICoE, Hyderabad, India; University of Tartu, Estonia;
+
+**[ECCV-2024]**
+[Learning Trimodal Relation for Audio-Visual Question Answering with Missing Modality](https://arxiv.org/abs/2407.16171)
+<br>
+**Authors:** Kyu Ri Park, Hong Joo Lee, Jung Uk Kim
+<br>
+**Institution:**  Kyung Hee University, Yong-in, South Korea; Technical University of Munich, Munich, Germany; Munich Center for Machine Learning (MCML), Munich, Germany
 
 #### Dialog
 **[CVPR-2019]**
