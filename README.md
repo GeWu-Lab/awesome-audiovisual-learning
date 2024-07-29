@@ -3727,3 +3727,5 @@ Visual Scene-Aware Dialog](https://ieeexplore.ieee.org/document/10147255)
 | [AVSBench](https://arxiv.org/abs/2207.05042)         | 2022            | 5,356    | 14.8h+   | video         | YouTube                 | Audio-visual segmentation, sound localization                             |
 | [RAF](https://arxiv.org/abs/2403.18821) | 2024 | - | 95h+ | 3D environment | Recorded videos | Spatial Sound Generation |
 | [SPD](https://arxiv.org/abs/2405.04963) | 2024 | - | 3.0h | Multi-view video | Recorded videos | Action Recognition |
+| [VoxBlink2](https://arxiv.org/abs/2407.11510) | 2024 |  2,097,062 | 16672h | video | YouTube |  Speaker
+Identification |
