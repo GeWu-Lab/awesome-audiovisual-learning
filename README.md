@@ -1299,6 +1299,13 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 <br>
 **Institution:** Meta AI, UK; Imperial College London, UK
 
+**[ACM MM-2024]**
+[RAVSS: Robust Audio-Visual Speech Separation in Multi-Speaker Scenarios with Missing Visual Cues](https://arxiv.org/abs/2407.19224)
+<br>
+**Authors:** Tianrui Pan, Jie Liu, Bohan Wang, Jie Tang, Gangshan Wu
+<br>
+**Institution:**  Nanjing University, State Key Laboratory for Novel, Software Technology, Nanjing, China;
+
 #### Object Sound Separation
 **[ECCV-2018]**
 [Learning to Separate Object Sounds by Watching Unlabeled Video](https://openaccess.thecvf.com/content_ECCV_2018/html/Ruohan_Gao_Learning_to_Separate_ECCV_2018_paper.html)
@@ -1511,6 +1518,20 @@ Chenqi Kong, Baoliang Chen, Wenhan Yang, Haoliang Li, Peilin Chen, Shiqi Wang
 **Authors:** Trevine Oorloff, Surya Koppisetti, Nicolò Bonettini, Divyaraj Solanki, Ben Colman, Yaser Yacoob, Ali Shahriyari, Gaurav Bharaj
 <br>
 **Institution:**  University of Maryland - College Park; Reality Defender Inc.
+
+**[BMVC-2024]**
+[Content and Style Aware Audio-Driven Facial Animation](https://arxiv.org/abs/2408.07005)
+<br>
+**Authors:** Qingju Liu, Hyeongwoo Kim, Gaurav Bharaj
+<br>
+**Institution:** Flawless AI, UK; Imperial College London, UK;
+
+**[BMVC-2024]**
+[Detecting Audio-Visual Deepfakes with Fine-Grained Inconsistencies](https://arxiv.org/abs/2408.06753)
+<br>
+**Authors:** Marcella Astrid, Enjie Ghorbel, Djamila Aouada
+<br>
+**Institution:** Computer Vision, Imaging & Machine, Intelligence Research Group (CVI2), Interdisciplinary Centre for Security, Reliability and Trust (SnT), University of Luxembourg, Luxembourg; Cristal Laboratory, National School of Computer Sciences, Manouba University, Tunisia; 
 
 ## Cross-modal Perception
 
@@ -2018,6 +2039,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** Grad. School of Artificial Intelligence and Dept. of Electrical Engineering, POSTECH, Korea; ENSC, Bordeaux INP, France; KRAFTON, Korea; Inst. for Convergence Research and Education in Advanced Technology, Yonsei University, Korea
 
+**[ACM MM-2024]**
+[ReSyncer: Rewiring Style-based Generator for Unified Audio-Visually Synced Facial Performer](https://arxiv.org/abs/2408.03284)
+<br>
+**Authors:** Jiazhi Guan, Zhiliang Xu, Hang Zhou, Kaisiyuan Wang, Shengyi He, Zhanwang Zhang, Borong Liang, Haocheng Feng, Errui Ding, Jingtuo Liu, Jingdong Wang, Youjian Zhao, Ziwei Liu
+<br>
+**Institution:** BNRist, DCST, Tsinghua University; Baidu Inc.; Zhongguancun Laboratory; S-Lab, Nanyang Technological University
+
 ##### Gesture
 **[IVA-2018]**
 [Evaluation of Speech-to-Gesture Generation Using Bi-Directional LSTM Network](https://dl.acm.org/doi/abs/10.1145/3267851.3267878)
@@ -2192,6 +2220,13 @@ Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
 **Authors:** Kim Sung-Bin, Arda Senocak, Hyunwoo Ha, Andrew Owens, Tae-Hyun Oh
 <br>
 **Institution:** Pohang University of Science and Technology; Korea Advanced Institute of Science and Technology; University of Michigan; Yonsei University
+
+**[ACM MM-2024]**
+[An Inverse Partial Optimal Transport Framework for Music-guided Movie Trailer Generation](https://arxiv.org/abs/2407.19456)
+<br>
+**Authors:** Yutong Wang, Sidan Zhu, Hongteng Xu, Dixin Luo
+<br>
+**Institution:** Beijing Institute of Technology, Beijing, China; Key Laboratory of Artificial Intelligence, Ministry of Education, Shanghai, China;Renmin University of China, Beijing, China
 
 #### Depth Estimation
 **[ICRA-2020]**
@@ -2994,6 +3029,27 @@ Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
 <br>
 **Institution:** Cooperative Medianet Innovation Center, Shanghai Jiao Tong University; Shanghai AI Laboratory
 
+**[ACM MM-2024]**
+[CACE-Net: Co-guidance Attention and Contrastive Enhancement for Effective Audio-Visual Event Localization](https://arxiv.org/abs/2408.01952)
+<br>
+**Authors:** Xiang He, Xiangxi Liu, Yang Li, Dongcheng Zhao, Guobin Shen, Qingqun Kong, Xin Yang, Yi Zeng
+<br>
+**Institution:** Brain-inspired Cognitive Intelligence Lab,Institute of Automation, Chinese Academy of Sciences, Beijing, China; Center for Long-term Artificial Intelligence, Beijing, China; Key Laboratory of Brain Cognition and Brain-inspired, Intelligence Technology, CAS, Shanghai, China;  Institute of Automation, Chinese Academy of Sciences Beijing, China;
+
+**[ACM MM-2024]**
+[Open-Vocabulary Audio-Visual Semantic Segmentation](https://arxiv.org/abs/2407.21721)
+<br>
+**Authors:** Ruohao Guo, Liao Qu, Dantong Niu, Yanyu Qi, Wenzhen Yue, Ji Shi, Bowei Xing, Xianghua Ying
+<br>
+**Institution:** National Key Laboratory of General, Artificial Intelligence, School of Intelligence Science and Technology, Peking University, Beijing, China;  Department of Electrical and Computer Engineering, Carnegie Mellon University, Pittsburgh, PA, USA;  Berkeley AI Research, University of California, Berkeley, Berkeley, CA, USA; College of Information and Electrical Engineering, China Agricultural University, Beijing, China;
+
+**[ECCV-2024]**
+[Spherical World-Locking for Audio-Visual Localization in Egocentric Videos](https://arxiv.org/abs/2408.05364)
+<br>
+**Authors:** Heeseung Yun, Ruohan Gao, Ishwarya Ananthabhotla, Anurag Kumar, Jacob Donley, Chao Li, Gunhee Kim, Vamsi Krishna Ithapu, Calvin Murdock
+<br>
+**Institution:** Seoul National University; Reality Labs Research at Meta
+
 #### Audio-visual Saliency Detection
 **[2019]**
 [DAVE: A Deep Audio-Visual Embedding for Dynamic Saliency Prediction](https://arxiv.org/abs/1905.10693)
@@ -3589,6 +3645,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Kyu Ri Park, Hong Joo Lee, Jung Uk Kim
 <br>
 **Institution:**  Kyung Hee University, Yong-in, South Korea; Technical University of Munich, Munich, Germany; Munich Center for Machine Learning (MCML), Munich, Germany
+
+**[ACM MM-2024]**
+[Boosting Audio Visual Question Answering via Key Semantic-Aware Cues](https://arxiv.org/abs/2407.20693)
+<br>
+**Authors:** Guangyao Li, Henghui Du, Di Hu
+<br>
+**Institution:** GSAI, Renmin University of China, Beijing, China;
 
 #### Dialog
 **[CVPR-2019]**
