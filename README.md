@@ -1306,6 +1306,13 @@ Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Yu Tsao, Hsiu-Wen Chang, Hsin-Min W
 <br>
 **Institution:**  Nanjing University, State Key Laboratory for Novel, Software Technology, Nanjing, China;
 
+**[INTERSPEECH-2024]**
+[LSTMSE-Net: Long Short Term Speech Enhancement Network for Audio-visual Speech Enhancement](https://arxiv.org/abs/2409.02266)
+<br>
+**Authors:** Arnav Jain, Jasmer Singh Sanjotra, Harshvardhan Choudhary, Krish Agrawal, Rupal Shah, Rohan Jha, M. Sajid, Amir Hussain, M. Tanveer
+<br>
+**Institution:** Indian Institute of Technology Indore, Simrol, Indore, 453552, India; School of Computing, Edinburgh Napier University, EH11 4BN, Edinburgh, United Kingdom;
+
 #### Object Sound Separation
 **[ECCV-2018]**
 [Learning to Separate Object Sounds by Watching Unlabeled Video](https://openaccess.thecvf.com/content_ECCV_2018/html/Ruohan_Gao_Learning_to_Separate_ECCV_2018_paper.html)
@@ -1532,6 +1539,13 @@ Chenqi Kong, Baoliang Chen, Wenhan Yang, Haoliang Li, Peilin Chen, Shiqi Wang
 **Authors:** Marcella Astrid, Enjie Ghorbel, Djamila Aouada
 <br>
 **Institution:** Computer Vision, Imaging & Machine, Intelligence Research Group (CVI2), Interdisciplinary Centre for Security, Reliability and Trust (SnT), University of Luxembourg, Luxembourg; Cristal Laboratory, National School of Computer Sciences, Manouba University, Tunisia; 
+
+**[SIGGRAPH-2024]**
+[PersonaTalk: Bring Attention to Your Persona in Visual Dubbing](https://arxiv.org/abs/2409.02266)
+<br>
+**Authors:** Longhao Zhang, Shuang Liang, Zhipeng Ge, Tianshu Hu
+<br>
+**Institution:** Bytedance,China;
 
 ## Cross-modal Perception
 
@@ -2046,6 +2060,13 @@ Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, Chuang Gan,
 <br>
 **Institution:** BNRist, DCST, Tsinghua University; Baidu Inc.; Zhongguancun Laboratory; S-Lab, Nanyang Technological University
 
+**[ECCV-2024]**
+[KMTalk: Speech-Driven 3D Facial Animation with Key Motion Embedding](https://arxiv.org/abs/2409.01113)
+<br>
+**Authors:** Zhihao Xu, Shengjie Gong, Jiapeng Tang, Lingyu Liang, Yining Huang, Haojie Li, Shuangping Huang
+<br>
+**Institution:** South China University of Technology; Technical University of Munich; Pazhou Laboratory;
+
 ##### Gesture
 **[IVA-2018]**
 [Evaluation of Speech-to-Gesture Generation Using Bi-Directional LSTM Network](https://dl.acm.org/doi/abs/10.1145/3267851.3267878)
@@ -2494,6 +2515,13 @@ Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
 **Authors:** Xinyuan Qian, Wei Xue, Qiquan Zhang, Ruijie Tao, Haizhou Li
 <br>
 **Institution:** University of Science and Technology; Hong Kong University of Science and Technology; University of New South Wales; National University of Singapore; The Chinese University of Hong Kong-Shenzhen
+
+**[ICASSP-2024]**
+[Audio Match Cutting: Finding and Creating Matching Audio Transitions in Movies and Videos](https://arxiv.org/abs/2408.10998)
+<br>
+**Authors:** Dennis Fedorishin, Lie Lu, Srirangaraj Setlur, Venu Govindaraju
+<br>
+**Institution:**  Dolby Laboratories, University at Buffalo;
 
 [Back to Top](#top)
 
