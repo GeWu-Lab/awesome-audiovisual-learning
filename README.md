@@ -2767,6 +2767,13 @@ Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
 <br>
 **Institution:** School of Artificial Intelligence, Beijing University of Posts and Telecommunications, China; Center for Speech and Language Technologies, BNRist, Tsinghua University, China
 
+**[ICML-2024]**
+[From Vision to Audio and Beyond: A Unified Model for Audio-Visual Representation and Generation](https://arxiv.org/abs/2409.19132)
+<br>
+**Authors:** Kun Su, Xiulong Liu, Eli Shlizerman
+<br>
+**Institution:**  Department of ECE, University of Washington, Seattle, United States; Department of Applied Math, University of Washington, Seattle, United States
+
 ### Audio-visual Localization
 
 #### Sound Localization in Videos
@@ -3516,6 +3523,13 @@ Xiongkuo Min, Guangtao Zhai, Jiantao Zhou, Xiao-Ping Zhang, Xiaokang Yang, Xinpi
 **Authors:** Peiwen Sun, Honggang Zhang, Di Hu
 <br>
 **Institution:**   Beijing University of Posts and Telecommunications, Beijing, China;  Renmin University of China, Beijing, China
+
+**[ICASSP-2025]**
+[A Critical Assessment of Visual Sound Source Localization Models Including Negative Audio](https://arxiv.org/abs/2410.01020)
+<br>
+**Authors:** Xavier Juanola, Gloria Haro, Magdalena Fuentes
+<br>
+**Institution:** Universitat Pompeu Fabra, Barcelona, Spain; MARL-IDM, New York University, New York, USA;
 
 #### Parsing
 **[ECCV-2020]**
