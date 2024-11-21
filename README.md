@@ -1447,6 +1447,13 @@ Boston University; Adobe Research; MIT-IBM Watson AI Lab, IBM Research
 <br>
 **Institution:** Tsinghua University; The University of Texas at Dallas
 
+**[NeurIPS-2024]**
+[Continual Audio-Visual Sound Separation](https://arxiv.org/abs/2411.02860)
+<br>
+**Authors:** Weiguo Pian, Yiyang Nan, Shijian Deng, Shentong Mo, Yunhui Guo, Yapeng Tian
+<br>
+**Institution:** The University of Texas at Dallas;  Brown University; Carnegie Mellon University;
+
 #### Face Super-resolution and Reconstruction
 **[CVPR-2020]**
 [Learning to Have an Ear for Face Super-Resolution](https://openaccess.thecvf.com/content_CVPR_2020/html/Meishvili_Learning_to_Have_an_Ear_for_Face_Super-Resolution_CVPR_2020_paper.html)
