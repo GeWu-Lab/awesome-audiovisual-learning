@@ -3838,6 +3838,6 @@ Visual Scene-Aware Dialog](https://ieeexplore.ieee.org/document/10147255)
 | [MUSIC-AVQA](https://gewu-lab.github.io/MUSIC-AVQA/)          | 2022            | 9,288    | 150h+   | video with QA               | YouTube                 | Audio-visual question answering                               |
 | [AVSBench](https://arxiv.org/abs/2207.05042)         | 2022            | 5,356    | 14.8h+   | video         | YouTube                 | Audio-visual segmentation, sound localization                             |
 | [RAF](https://arxiv.org/abs/2403.18821) | 2024 | - | 95h+ | 3D environment | Recorded videos | Spatial Sound Generation |
-| [SPD](https://arxiv.org/abs/2405.04963) | 2024 | - | 3.0h | Multi-view video | Recorded videos | Action Recognition |
-| [VoxBlink2](https://arxiv.org/abs/2407.11510) | 2024 |  2,097,062 | 16672h | video | YouTube |  Speaker
-Identification |
+| [SPD](https://arxiv.org/abs/2405.04963) | 2024 | - | 3.0h | Multi-view video | Recorded videos | Action recognition |
+| [VoxBlink2](https://arxiv.org/abs/2407.11510) | 2024 |  2,097,062 | 16672h | video | YouTube |  Speaker identification |
+| [BEWO-1M](https://peiwensun2000.github.io/bewo/) | 2024 |  1M+ | 2.4kh+ | video | YouTube |  Spatial sound generation |
