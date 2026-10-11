@@ -2781,6 +2781,11 @@ Tsinghua University; University of Michigan; Shanghai Qi Zhi Institute
 <br>
 **Institution:**  Department of ECE, University of Washington, Seattle, United States; Department of Applied Math, University of Washington, Seattle, United States
 
+**[arxiv-2026]**
+[PVSync: A Unified Lip-Sync Expert for Timing and Articulation](https://arxiv.org/abs/2610.09223)
+<br>
+**Authors:** Kevin Stephen, Varun Menon, Timo Mertens, Nikita Drobyshev
+
 ### Audio-visual Localization
 
 #### Sound Localization in Videos
